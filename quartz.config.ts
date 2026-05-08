@@ -8,16 +8,26 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "OMJOOMSUH Wiki",
+    pageTitleSuffix: " | OMJOOMSUH Wiki",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "wiki.omjoomsuh.com",
+    ignorePatterns: [
+      "60 — Drafts",
+      "80 — Templates",
+      "90 — Sources",
+      "90 — Sources 1",
+      "Zoom",
+      "AI",
+      "Downloads",
+      ".obsidian",
+      "Concept Template.md",
+    ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
