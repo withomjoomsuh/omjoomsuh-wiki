@@ -14,9 +14,12 @@ for folder in "00 — Essays" "10 — Concepts" "20 — People"; do
   fi
 done
 
-# Copy root file
+# Copy root files
 if [ -f "$VAULT/The Door.md" ]; then
   cp "$VAULT/The Door.md" "$CONTENT/The Door.md"
+fi
+if [ -f "$VAULT/index.md" ]; then
+  cp "$VAULT/index.md" "$CONTENT/index.md"
 fi
 
 # Remove excluded items that may have been pulled in transitively
