@@ -279,7 +279,7 @@ That is what these three mantras build. Not in theory. In the body. In the breat
 
 ---
 
-*The Morning Mantras practice runs live Monday through Friday at 6:10 AM IST, and the three mantras described in this article form the complete daily sadhana sequence. If what you have read here speaks to something you have been carrying, the practice is available as a free app that guides you through the full sequence, solo or with guided audio.*
+*The Morning Mantras practice runs live Monday through Friday at 6:10 AM IST, and the three mantras described in this article form the complete daily [[sadhana]] sequence. If what you have read here speaks to something you have been carrying, the practice is available as a free app that guides you through the full sequence, solo or with guided audio.*
 
 *You can join here: [Morning Mantras App](https://morningmantras.netlify.app)*
 
