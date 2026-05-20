@@ -2,10 +2,7 @@
 
 ## What this wiki is
 
-I built this wiki for myself first. You are reading it because I have begun to think it might be useful to others as well. I am Arjun, a practitioner of thirty years in the Bihar School of Yoga tradition. The pages here cross-reference the people, texts, and concepts of Sanatan Dharma that I have studied, the practices I do each morning and teach to others, and the essays I write on Substack. The wiki organises around two centres: the morning sadhana, and the broader civilisational frame the sadhana arrives from.
-
-That is the object. The rest of this page is the foyer.
-
+I built this wiki for myself first. You are reading it because I have begun to think it might be useful to others as well. I am Arjun. I have spent my adult life inside the [[Bihar School of Yoga]] tradition, as a householder rather than a sannyasi. The pages here cross-reference the people, texts, and concepts of Sanatan Dharma that I have studied, the practices I do each morning and teach to others, and the essays I write on Substack. The wiki organises around two centres: the morning sadhana, and the broader civilisational frame the sadhana arrives from.
 ## What this wiki is not
 
 It is not an offering of the Bihar School of Yoga. The wiki is not authorised by, sponsored by, or approved by any matha, sannyasa order, or institutional body within the lineage. The mission has the blessings of my guru. The wiki is entirely my construct.
@@ -33,6 +30,7 @@ The skeptical reader who wants to verify the scientific claims and the lineage a
 If you are arriving for the first time and want to understand the morning practice, read in this order: [Three Mantras, Three Planes](https://withomjoomsuh.substack.com/p/three-mantras-three-planes), then [Your Morning Belongs To You](https://withomjoomsuh.substack.com/p/your-morning-belongs-to-you-here). From there, the concept pages on [[Sankalpa]] and [[Three Planes]].
 
 If you are arriving with a question about a specific concept, the index and the search bar are at the top of the wiki. The concept pages are short and cross-linked, and each one points back to the essay where the concept is treated at length.
+If you are arriving with interest in the body of practice itself — what is being done in the morning sadhana and how it works — read [[Yoga Nidra]] as the first concept page, then [[Pratyahara]] as the structural hinge that yoga nidra rests on, then [[Chakras]] for the subtle-body architecture beneath the whole. These three pages together describe the operating model of the human being as the lineage understands it.
 
 If you are arriving for the lineage, start with the page on the [[Saraswati Order|Saraswati Sampradaya]] and the chain from [[Adi Shankaracharya]], then [The River and the Riverbed](https://withomjoomsuh.substack.com/p/the-river-and-the-riverbed-the-saraswati).
 
@@ -40,7 +38,7 @@ If you are arriving skeptical, start with [The Body That Outshines The Sun](http
 
 ## What I claim, and what I do not
 
-I claim that the morning practice has produced specific changes in my own life across thirty years, and that the framework articulated here is the framework I have lived inside.
+I claim that the morning practice has produced specific changes in my own life over the years of practice, and that the framework articulated here is the framework I have lived inside.
 
 I claim that the institutional lineage from Adi Shankaracharya through the three Saraswati paramahamsas — Sivananda, Satyananda, Niranjanananda — is documented and verifiable.
 
@@ -56,9 +54,13 @@ I do not claim that the synthesis between Western science and the Indian darshan
 
 ## What is missing, and what is coming
 
-Yoga Nidra is not yet here. The deeper Vedanta concepts are not yet here. The primary texts — Bhagavad Gita, Yoga Sutras, the Upanishads — are not yet here. The practice manuals are not yet here. Much of the Tantric stream, and much of the broader Sanatan Dharma corpus, is not yet here.
+_Some of what was missing when this wiki began has begun to arrive. [[Yoga Nidra]] is here. [[Pratyahara]] is here. [[Chakras]] are here. The lineage chain from Adi Shankaracharya through the three Saraswati paramahamsas is here._
 
-What is most likely to come next, in no fixed order, is Yoga Nidra, the Bhagavad Gita as it sits inside the morning frame, and the Pancha Kosha model that the practice rests on. I am writing as practice deepens, not on a calendar.
+_Much else is still pending. The primary texts — the Bhagavad Gita, Patanjali's Yoga Sutras, the principal Upanishads — are not yet here as their own pages. The practice manuals are not yet here. The individual chakra pages will come one at a time. Pranayama deserves its own page and does not yet have one. The broader Tantric stream, the deeper reaches of Vedanta, and much of the wider Sanatan Dharma corpus remain to be written._
+
+_What is most likely to come next, in no fixed order: Vatavarana, the four chatushpada components of daily life (Ahara, Vihara, Achara, Vichara), the individual chakras one at a time, Kundalini, Pranayama, and Patanjali. I am writing as practice deepens, not on a calendar._
+
+_If a page feels sparse, that is honest sparseness. The drop has not yet trickled there. The earth is still parched in that corner._
 
 If a page feels sparse, that is honest sparseness. The drop has not yet trickled there. The earth is still parched in that corner.
 
