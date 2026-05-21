@@ -38,6 +38,12 @@ for folder in "00 — Essays" "10 — Concepts" "20 — People"; do
   fi
 done
 
+# Copy image folders into 10 — Concepts so embeds resolve correctly
+if [ -d "$VAULT/Surya Namaskara (images)" ]; then
+  cp -r "$VAULT/Surya Namaskara (images)" "$CONTENT/10 — Concepts/Surya Namaskara (images)"
+  echo "  Copied: Surya Namaskara (images)"
+fi
+
 # Copy root files
 if [ -f "$VAULT/The Door.md" ]; then
   cp "$VAULT/The Door.md" "$CONTENT/The Door.md"
@@ -51,4 +57,6 @@ for excl in "Concept Template.md"; do
   find "$CONTENT" -name "$excl" -delete
 done
 
-echo "Sync complete: $(find "$CONTENT" -name '*.md' | wc -l | tr -d ' ') markdown files."
+MD_COUNT=$(find "$CONTENT" -name '*.md' | wc -l | tr -d ' ')
+IMG_COUNT=$(find "$CONTENT" \( -name '*.png' -o -name '*.jpg' -o -name '*.jpeg' \) | wc -l | tr -d ' ')
+echo "Sync complete: $MD_COUNT markdown files, $IMG_COUNT image files."
