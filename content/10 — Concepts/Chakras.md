@@ -155,7 +155,7 @@ Swamiji's example in Chapter 16: once the great scientist Isaac Newton was sitti
 
 The Lord Buddha example, immediately following: once Lord Buddha went hunting with his cousin Devadatta. Devadatta shot an arrow at a pigeon and it fell, injured by the arrow. Lord Buddha felt the pain of that bird and immediately rushed to remove the arrow. But Devadatta did not feel the pain; he was very pleased with himself because he had struck his target. Buddha's consciousness had attained a higher frequency vibration, as a result of which he was sensitive to the bird's pain and was therefore manifesting compassion.
 
-The higher qualities of *love, compassion, charity, mercy* are not moral virtues to be cultivated through willpower. They are *the expressions of a mind influenced by awakened chakras*. This is precisely the reason why so much importance is given in the tradition to the awakening of [[Anahata Chakra|Anahata]]. All scriptural texts place great emphasis on the awakening of Anahata, [[Ajna Chakra|Ajna]], and [[Mooladhara]] chakras. Yogis emphasise Ajna and Mooladhara; all of mankind emphasises Anahata. When Anahata is awakened, the practitioner has a sublime relationship with God, with her family members, and with every being.
+The higher qualities of *love, compassion, charity, mercy* are not moral virtues to be cultivated through willpower. They are *the expressions of a mind influenced by awakened chakras*. This is precisely the reason why so much importance is given in the tradition to the awakening of [[Anahata]]. All scriptural texts place great emphasis on the awakening of Anahata, [[Ajna]], and [[Mooladhara]] chakras. Yogis emphasise Ajna and Mooladhara; all of mankind emphasises Anahata. When Anahata is awakened, the practitioner has a sublime relationship with God, with her family members, and with every being.
 
 When the chakras are awakened, the mind automatically changes. Values in life also change, and the quality of love and relationships improves immensely, enabling the practitioner to balance out the disappointments and frustrations in life. The practitioner is able to live a little higher than she does now, and her attitude toward herself and toward this life is much better.
 
@@ -195,7 +195,7 @@ The 1990 essay writes plainly: *"The pineal and the gonadal system interact exte
 
 The chakra cluster, as it sits in this wiki and as it will grow:
 
-- [[Mooladhara]], [[Swadhisthana]], [[Manipura Chakra|Manipura]], [[Anahata Chakra|Anahata]], [[Vishuddhi Chakra|Vishuddhi]], [[Ajna Chakra|Ajna]], [[Sahasrara]] — the seven principal chakras
+- [[Mooladhara]], [[Swadhisthana]], [[Manipura]], [[Anahata]], [[Vishuddhi]], [[Ajna]], [[Sahasrara]] — the seven principal chakras
 - [[Kundalini]] — the dormant energy at the base of the spine that ascends through the chakras
 - [[Nadis]] — the energy channels that intersect at the chakras
 - [[Sushumna]] — the central channel through which kundalini rises
