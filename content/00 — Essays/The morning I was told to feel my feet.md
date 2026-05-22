@@ -1,7 +1,7 @@
 ---
 type: essay
 publish_date: 2026-05-21
-url: https://withomjoomsuh.substack.com/p/the-morning-i-was-told-to-feel-my-feet
+url: https://withomjoomsuh.substack.com/p/the-morning-i-was-told-to-feel-my
 author: Arjun
 ---
 
