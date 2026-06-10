@@ -83,12 +83,6 @@ For the contemporary practitioner who has received mantra diksha — particularl
 - [[Swami Niranjanananda Saraswati]]
 - [[Paramahamsa]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Mantra Diksha]]
-WHERE type = "essay"
-```
 
 ## Notes
 

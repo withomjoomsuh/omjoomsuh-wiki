@@ -135,10 +135,3 @@ For the lineage frame: *Yoga Darshan* and *Yoga Sadhana Panorama* by Swami Niran
 
 ---
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Sandhya]]
-WHERE type = "essay"
-SORT publish_date desc
-```

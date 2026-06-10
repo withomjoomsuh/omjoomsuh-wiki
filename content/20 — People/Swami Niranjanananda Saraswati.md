@@ -62,12 +62,6 @@ This is the dimension that biographical pages cannot fully capture, but that pra
 - [[Shadripus]]
 - [[Yoga Nidra]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Swami Niranjanananda Saraswati]]
-WHERE type = "essay"
-```
 
 ## Notes
 

@@ -64,12 +64,6 @@ For the practitioner in the first room of [[The Four Rooms of Talent]] — held 
 - [[Bihar School of Yoga]] 
 - [[Swami Niranjanananda Saraswati]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Shadripus]]
-WHERE type = "essay"
-```
 
 ## Notes
 

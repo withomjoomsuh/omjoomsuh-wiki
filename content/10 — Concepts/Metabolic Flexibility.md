@@ -109,10 +109,3 @@ Cross-reference for the lineage practices: *Asana Pranayama Mudra Bandha* by Par
 
 ---
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Metabolic Flexibility]]
-WHERE type = "essay"
-SORT publish_date desc
-```

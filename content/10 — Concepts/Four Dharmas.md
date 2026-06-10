@@ -142,10 +142,3 @@ The OMJOOMSUH frame draws on the older, broader reading of varna and jaati found
 
 ---
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Four Dharmas]]
-WHERE type = "essay"
-SORT publish_date desc
-```

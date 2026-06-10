@@ -25,12 +25,6 @@ Chanted first in the daily sequence because the body must be steadied before the
 
 - [[Three Planes]] - [[Vagus Nerve]] - [[Cortisol Awakening Response]] - [[Tryambaka]] - [[Vasishtha]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Mahamrityunjaya]]
-WHERE type = "essay"
-```
 
 ## Notes
 

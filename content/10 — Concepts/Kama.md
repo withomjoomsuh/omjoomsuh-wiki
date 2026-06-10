@@ -315,10 +315,3 @@ Cross-reference for the broader lineage psychology: *Yoga Darshan* by Paramahams
 
 ---
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Kama]]
-WHERE type = "essay"
-SORT publish_date desc
-```

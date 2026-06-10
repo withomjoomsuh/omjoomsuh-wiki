@@ -76,12 +76,6 @@ This is what the Bihar School is, and this is why it is the right institutional 
 - [[Yoga Nidra]] 
 - [[Kriya Yoga]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Bihar School of Yoga]]
-WHERE type = "essay"
-```
 
 ## Notes
 

@@ -48,12 +48,6 @@ For the practitioner in the first room of [[The Four Rooms of Talent]] — held 
 - [[Shakta]]
 - [[Sankalpa]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[32 Names of Durga]]
-WHERE type = "essay"
-```
 
 ## Notes
 

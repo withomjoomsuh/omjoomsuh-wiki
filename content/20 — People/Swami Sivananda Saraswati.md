@@ -75,12 +75,6 @@ For the contemporary practitioner, Swami Sivananda is the figure who made the Bi
 - [[Dharma]]
 - [[Sadhana]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Swami Sivananda Saraswati]]
-WHERE type = "essay"
-```
 
 ## Notes
 

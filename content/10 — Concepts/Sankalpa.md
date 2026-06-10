@@ -63,12 +63,6 @@ For the practitioner working through the [[Four Rooms of Talent|four rooms of ta
 - [[Bihar School of Yoga]] 
 - [[Swami Niranjanananda Saraswati]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Sankalpa]]
-WHERE type = "essay"
-```
 
 ## Notes
 

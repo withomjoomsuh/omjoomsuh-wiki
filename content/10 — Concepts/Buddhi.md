@@ -75,12 +75,6 @@ For the practitioner who arrives at the practice asking *"why am I so reactive?"
 - [[Sankalpa]] 
 - [[Bihar School of Yoga]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Buddhi]]
-WHERE type = "essay"
-```
 
 ## Notes
 

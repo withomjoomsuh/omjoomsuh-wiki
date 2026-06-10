@@ -172,10 +172,3 @@ The Yoga Nidra cluster, as it sits in this wiki and as it will grow:
 
 ---
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Yoga Nidra]]
-WHERE type = "essay"
-SORT publish_date desc
-```

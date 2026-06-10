@@ -55,12 +55,6 @@ The signature is the institution. *Sri Swami Shivananda Saraswati Maharaj. Param
 - [[Swami Satyananda Saraswati]]
 - [[Swami Niranjanananda Saraswati]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Saraswati Order]]
-WHERE type = "essay"
-```
 
 ## Notes
 

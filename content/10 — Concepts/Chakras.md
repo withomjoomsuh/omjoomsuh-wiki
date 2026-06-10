@@ -221,10 +221,3 @@ Roney-Dougal, S. M. *The Psycho-physiology of the Yogic Chakra System*. *Yoga Ma
 
 ---
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Chakras]]
-WHERE type = "essay"
-SORT publish_date desc
-```
