@@ -6,7 +6,7 @@ transliteration: kāma
 literal: desire; the primordial creative impulse from which the world arises
 domain: psychology, ethics, neuroscience, lineage philosophy
 tradition: Vedic, Upanishadic, Bhagavad Gita; Bihar School of Yoga (Satyananda lineage); bridged here with contemporary neuroscience
-primary_source: *Transforming Kama* by Swami Ratnashakti Saraswati, under the guidance of Paramahamsa Swami Satyananda Saraswati (Yoga Publications Trust, Bihar School of Yoga, Munger)
+primary_source: "Transforming Kama" by Swami Ratnashakti Saraswati, under the guidance of Paramahamsa Swami Satyananda Saraswati (Yoga Publications Trust, Bihar School of Yoga, Munger)
 ---
 
 # Kama
