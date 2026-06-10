@@ -124,10 +124,3 @@ For the lineage frame within Bihar School of Yoga: *Yoga Darshan* and the writin
 
 ---
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Vasudhaiva Kutumbakam]]
-WHERE type = "essay"
-SORT publish_date desc
-```

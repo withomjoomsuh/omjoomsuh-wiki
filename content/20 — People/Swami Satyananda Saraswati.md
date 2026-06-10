@@ -99,12 +99,6 @@ For the practitioner today, Paramahamsa Swami Satyananda Saraswati is the figure
 - [[Mantra Diksha]]
 - [[Sadhana]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Swami Satyananda Saraswati]]
-WHERE type = "essay"
-```
 
 ## Notes
 

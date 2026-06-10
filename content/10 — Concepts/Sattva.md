@@ -64,12 +64,6 @@ A little, every day. A drop on parched earth. The ratio tilts.
 - [[Bihar School of Yoga]]
 - [[Swami Sivananda Saraswati]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Sattva]]
-WHERE type = "essay"
-```
 
 ## Notes
 

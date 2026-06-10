@@ -54,12 +54,6 @@ He understood that knowledge survives only inside the structures we build to hol
 - [[Swami Niranjanananda Saraswati]]
 - [[Paramahamsa]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Adi Shankaracharya]]
-WHERE type = "essay"
-```
 
 ## Notes
 

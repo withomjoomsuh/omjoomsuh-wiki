@@ -149,10 +149,3 @@ This is the goal, and it is reached not through effort but through *rhythm*. Dai
 
 ---
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Pratyahara]]
-WHERE type = "essay"
-SORT publish_date desc
-```

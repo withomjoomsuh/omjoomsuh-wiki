@@ -353,10 +353,3 @@ Cross-reference for the chakra and trigger-point detail: *Kundalini Tantra* by [
 
 ---
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Surya Namaskara]]
-WHERE type = "essay"
-SORT publish_date desc
-```

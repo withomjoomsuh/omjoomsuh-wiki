@@ -77,12 +77,6 @@ The vagus nerve is the page on which the entire physiological argument of the Mo
 - [[Robin Dunbar]] 
 - [[Bihar School of Yoga]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Vagus Nerve]]
-WHERE type = "essay"
-```
 
 ## Notes
 

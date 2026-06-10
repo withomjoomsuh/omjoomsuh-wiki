@@ -60,12 +60,6 @@ This is why the morning practice is twenty minutes and not five. Each plane requ
 - [[Shakti]] 
 - [[Bihar School of Yoga]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Three Planes]]
-WHERE type = "essay"
-```
 
 ## Notes
 

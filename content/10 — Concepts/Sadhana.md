@@ -71,12 +71,6 @@ A little, every day. A drop on parched earth.
 - [[Swami Satyananda Saraswati]]
 - [[Swami Niranjanananda Saraswati]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Sadhana]]
-WHERE type = "essay"
-```
 
 ## Notes
 

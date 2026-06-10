@@ -78,12 +78,6 @@ For the practitioner who arrives at the [[Bihar School of Yoga]] tradition, the 
 - [[Swami Satyananda Saraswati]]
 - [[Swami Niranjanananda Saraswati]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Paramahamsa]]
-WHERE type = "essay"
-```
 
 ## Notes
 

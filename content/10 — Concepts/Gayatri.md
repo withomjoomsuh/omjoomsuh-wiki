@@ -51,12 +51,6 @@ For the practitioner in the second room of [[The Four Rooms of Talent]] — high
 - [[Brahma Muhurta]]
 - [[Sankalpa]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Gayatri]]
-WHERE type = "essay"
-```
 
 ## Notes
 

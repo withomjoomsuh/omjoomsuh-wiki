@@ -65,12 +65,6 @@ Tamas is the diagnostic that explains why the morning practice is necessary in t
 - [[Bihar School of Yoga]]
 - [[Swami Niranjanananda Saraswati]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Tamas]]
-WHERE type = "essay"
-```
 
 ## Notes
 

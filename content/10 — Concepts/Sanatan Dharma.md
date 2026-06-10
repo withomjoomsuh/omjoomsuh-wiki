@@ -82,12 +82,6 @@ The wiki, in its small way, is an attempt to make the tradition's own self-under
 - [[Purusharthas]]
 - [[Shadripus]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Sanatan Dharma]]
-WHERE type = "essay"
-```
 
 ## Notes
 

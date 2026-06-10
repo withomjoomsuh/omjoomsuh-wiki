@@ -134,10 +134,3 @@ For the lineage frame within the Bihar School of Yoga tradition: *Asana Pranayam
 
 ---
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Upavasa]]
-WHERE type = "essay"
-SORT publish_date desc
-```

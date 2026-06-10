@@ -62,12 +62,6 @@ For the contemporary practitioner, manas is the answer to the question of *what 
 - [[Sadhana]]
 - [[Bihar School of Yoga]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Manas]]
-WHERE type = "essay"
-```
 
 ## Notes
 

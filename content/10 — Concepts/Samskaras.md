@@ -66,12 +66,6 @@ For the contemporary practitioner, samskaras are the answer to the question of *
 - [[Bihar School of Yoga]]
 - [[Swami Satyananda Saraswati]]
 
-## Mentioned in
-
-```dataview
-LIST FROM [[Samskaras]]
-WHERE type = "essay"
-```
 
 ## Notes
 
