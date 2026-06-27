@@ -44,12 +44,23 @@ if [ -d "$VAULT/Surya Namaskara (images)" ]; then
   echo "  Copied: Surya Namaskara (images)"
 fi
 
-# Copy root files
+# Copy root files — these are critical and must exist in the vault
 if [ -f "$VAULT/The Door.md" ]; then
   cp "$VAULT/The Door.md" "$CONTENT/The Door.md"
+else
+  echo "ERROR: The Door.md missing from vault root at $VAULT/The Door.md"
+  echo "Refusing to complete sync — The Door is the wiki's primary entry point."
+  echo "Restore The Door.md to the vault root and try again."
+  exit 1
 fi
+
 if [ -f "$VAULT/index.md" ]; then
   cp "$VAULT/index.md" "$CONTENT/index.md"
+else
+  echo "ERROR: index.md missing from vault root at $VAULT/index.md"
+  echo "Refusing to complete sync — this would ship a homepage-less wiki to production."
+  echo "Restore index.md to the vault root and try again."
+  exit 1
 fi
 
 # Remove excluded items that may have been pulled in transitively
