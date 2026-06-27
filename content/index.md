@@ -45,12 +45,14 @@ Begin with [[The Door]].
 ## Concepts
 
 - [[32 Names of Durga]] — the thirty-two epithets of Durga from the Durga Saptashati.
+- [[Annamaya Index]] — the daily mirror that reads one meal a day across four windows, diversity, density, cooking wisdom, and personal fit.
 - [[Bihar School of Yoga]] — the lineage and global authority on yoga and Samkhya that OMJOOMSUH translates from.
 - [[Buddhi]] — the discriminating intellect, the faculty of judgment in Samkhya psychology.
 - [[Chakras]] — the subtle-body energy centres along the spinal axis.
 - [[Dashanami Sannyasa Parampara]] — the ten monastic orders of Adi Shankaracharya's tradition.
 - [[Four Dharmas]] — the fourfold framing of dharma used in OMJOOMSUH teaching.
 - [[Gayatri]] — the Vedic mantra to the solar deity Savitr, a core sadhana chant.
+- [[HBSC|The Health Balance Score Card]] — a yogic reading of your energy centres read together with your blood-work, naming what asks the loudest.
 - [[Kama]] — desire; one of the four purusharthas and a force in the inner life.
 - [[Mahamrityunjaya]] — the great death-conquering mantra to Shiva.
 - [[Manas]] — the sensory-processing mind in Samkhya psychology.
@@ -80,6 +82,7 @@ Begin with [[The Door]].
 - [[Vagus Nerve]] — the parasympathetic nerve; the physiological bridge to chanting and calm.
 - [[Vasudhaiva Kutumbakam]] — "the world is one family"; the anti-isolation principle.
 - [[Yoga Nidra]] — yogic sleep; deep conscious relaxation.
+- [[Yogic UX]] — the design discipline that builds software like a temple bell, not a slot machine; the four turns.
 
 ---
 
