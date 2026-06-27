@@ -20,7 +20,13 @@ It is not a finished work. The wiki will keep growing as I write, and as my unde
 
 ## Who the wiki is for
 
-The contemporary morning sadhana practitioner who wants to understand what she is actually practising. Not the technique alone, but what each mantra is doing, which tradition it comes from, why the sequence is the way it is.
+We began building this wiki for one reason: to make the mantra sadhana understandable for the people who sit with us every weekday morning. So that a practitioner knows not the technique alone, but what each mantra is doing, which tradition it comes from, why the sequence is the way it is.
+
+We are widening it now. As OMJOOMSUH has grown, the wiki has begun to hold the writings and concepts behind our weekend integrated yoga practice, and behind NEEV, our programme for women through the years of hormonal change. The door is becoming wider, because different people arrive for different reasons, with different things they need to understand.
+
+The contemporary practitioner who wants to understand what she is actually practising in the morning, the meaning beneath the mantra and the shape of the sequence.
+
+The woman in the weekend practice, or in NEEV, who wants to understand the body she is working with, why hormonal balance is approached the way it is, and what the practice is doing beneath the surface.
 
 The serious lay reader on Sanatan Dharma who wants more rigour than wellness writing offers and more accessibility than scholarly journals provide. Neither sanitised nor unreachable.
 
