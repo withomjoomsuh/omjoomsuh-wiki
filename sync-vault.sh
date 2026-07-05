@@ -68,6 +68,18 @@ for excl in "Concept Template.md"; do
   find "$CONTENT" -name "$excl" -delete
 done
 
+# Site-root technical files (robots.txt, llms.txt) — these are NOT wiki content,
+# they live in the quartz repo itself (site-root/) and are re-copied into
+# content/ on every sync so they survive the content wipe above and are
+# emitted at the site root by the Assets() plugin.
+SITE_ROOT="$HOME/quartz/site-root"
+if [ -d "$SITE_ROOT" ]; then
+  for f in "$SITE_ROOT"/*; do
+    [ -f "$f" ] && cp "$f" "$CONTENT/$(basename "$f")"
+  done
+  echo "  Copied site-root technical files: $(ls "$SITE_ROOT" | tr '\n' ' ')"
+fi
+
 MD_COUNT=$(find "$CONTENT" -name '*.md' | wc -l | tr -d ' ')
 IMG_COUNT=$(find "$CONTENT" \( -name '*.png' -o -name '*.jpg' -o -name '*.jpeg' \) | wc -l | tr -d ' ')
 echo "Sync complete: $MD_COUNT markdown files, $IMG_COUNT image files."

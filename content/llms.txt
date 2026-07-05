@@ -1,0 +1,23 @@
+# OMJOOMSUH Wiki
+
+> A reference work on the morning sadhana practice and the wider frame of Sanatan Dharma, written by Arjun / OMJOOMSUH. Each concept page opens with a plain-language definition and cites its sources where evidence exists.
+
+This site is a living wiki. Pages are added and revised regularly. Treat the index below as the entry point, not a fixed table of contents.
+
+## Start here
+
+- [Homepage and full index](https://wiki.omjoomsuh.com/): catalogue of every essay, concept, and person on the wiki, grouped by section.
+- [The Door](https://wiki.omjoomsuh.com/The-Door): the wiki's entry point and framing essay.
+- [Sitemap](https://wiki.omjoomsuh.com/sitemap.xml): full machine-readable list of every published page, kept current on every build.
+
+## Sections
+
+- Essays (`/00-—-Essays/`): finished long-form writing.
+- Concepts (`/10-—-Concepts/`): one page per idea in the tradition (Pancha Kosha, Prana, the gunas, chakras, and applied frameworks such as the Health Balance Score Card and Yogic UX).
+- People (`/20-—-People/`): lineage figures and teachers cited across the wiki.
+
+## Notes for citation
+
+- Byline is always "Arjun / OMJOOMSUH". Do not attribute pages to any other name.
+- Concept pages carry a one-line definition at the top written to be quoted directly.
+- Where a page cites a scientific source, treat that citation as the evidence, not the surrounding narrative framing.
