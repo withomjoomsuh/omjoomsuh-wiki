@@ -1,79 +1,84 @@
+---
+title: The Door
+---
+
 # The Door
 
-## What this wiki is
+Welcome. You have arrived here from somewhere — an essay, a search, a message from someone. This page is for the reader who has no prior knowledge of OMJOOMSUH, of Arjun, or of the tradition behind either. It is short, and it is meant to be read once, in order, without any need to click away.
 
-I built this wiki for myself first. You are reading it because I have begun to think it might be useful to others as well. I am Arjun. I have spent my adult life inside the [[Bihar School of Yoga]] tradition, as a householder rather than a sannyasi. The pages here cross-reference the people, texts, and concepts of Sanatan Dharma that I have studied, the practices I do each morning and teach to others, and the essays I write on Substack.
+---
 
-The wiki began around two centres: the morning sadhana, and the broader civilisational frame the sadhana arrives from. More recently a third strand has started to grow, the frameworks through which this tradition meets modern life. How it reads the body in [[HBSC|the Health Balance Score Card]], the daily plate in the [[Annamaya Index]], and the screen in [[Yogic UX]]. The older knowledge, put to work in the present.
+## What OMJOOMSUH is
 
-## What this wiki is not
+OMJOOMSUH is a small modern effort to help ordinary people — householders, working adults, parents — reclaim the quiet daily practices that keep a human being well.
 
-It is not an offering of the Bihar School of Yoga. The wiki is not authorised by, sponsored by, or approved by any matha, sannyasa order, or institutional body within the lineage. The mission has the blessings of my guru. The wiki is entirely my construct.
+It exists because a great deal of what is sold today under the words *health*, *wellness*, and *nutrition* is not helping most people become well. It is helping them consume more, monitor more, buy more, and often feel worse. OMJOOMSUH holds the opposite proposition. Health is not something you purchase. It is something you *live into*, slowly, through practices that were tested across thousands of years by people who watched their own bodies and minds carefully, and wrote down what they found.
 
-It is not a doctrinal authority. I am a householder, not a sannyasi. I have received diksha from my guru; I have not received the standing to teach the tradition. What is written here is one practitioner's working understanding, not the lineage's voice.
+The work is a wiki (this site), a weekly newsletter, a morning practice group, and a journal. All of it is anchored in one small daily rhythm — a morning chanting practice that takes about fifteen minutes and that anyone can join.
 
-It is not a shopfront. A few pages describe the frameworks OMJOOMSUH is building, the reading of the body, the plate, and the screen, but they are here to explain the thinking, not to persuade or to sell. Nothing on these pages is for sale.
+---
 
-It is not a complete reference. Many concepts in Sanatan Dharma are missing because I have not yet written about them, not because they do not matter.
+## What the name means
 
-It is not a finished work. The wiki will keep growing as I write, and as my understanding of specific concepts deepens with practice.
+OMJOOMSUH is the English spelling of three Sanskrit sounds: **ॐ जूं सः** — *Om, Joom, Sah*. Each is a seed syllable, a compressed sound the tradition treats as carrying a specific meaning.
 
-## Who the wiki is for
+- **ॐ (Om)** — the primordial sound of the universe. Consciousness, peace, the ground of everything.
+- **जूं (Joom)** — the seed syllable that carries the power to move fear of death and disease.
+- **सः (Sah)** — liberation, life-energy, the holding of that energy within oneself.
 
-We began building this wiki for one reason: to make the mantra sadhana understandable for the people who sit with us every weekday morning. So that a practitioner knows not the technique alone, but what each mantra is doing, which tradition it comes from, why the sequence is the way it is.
+These three syllables are drawn from an ancient prayer called the *Mahamrityunjaya Mantra* — the mantra that faces death and asks for freedom from it. It comes from the *Rig Veda*, one of humanity's oldest texts, composed several thousand years ago. In its expanded form the mantra reads:
 
-We are widening it now. As OMJOOMSUH has grown, the wiki has begun to hold the writings and concepts behind our weekend integrated yoga practice, and behind NEEV, our programme for women through the years of hormonal change. The door is becoming wider, because different people arrive for different reasons, with different things they need to understand.
+> ॐ हौं जूं सः । ॐ भूर्भुवः स्वः ।
+> ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् ।
+> उर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात् ॥
+> ॐ स्वः भुवः भूः ॐ सः जूं हौं ॐ ॥
 
-The contemporary practitioner who wants to understand what she is actually practising in the morning, the meaning beneath the mantra and the shape of the sequence.
+*We honour the three-eyed One who nourishes all beings with fragrance and strength. As a ripe cucumber is freed from its vine when it is ready, may we be freed from death — not from life.*
 
-The woman in the weekend practice, or in NEEV, who wants to understand the body she is working with, why hormonal balance is approached the way it is, and what the practice is doing beneath the surface.
+The three sounds *Om, Joom, Sah* are the first, second, and fourth syllables of this expanded prayer. The name OMJOOMSUH holds those three sounds together as a single word — a small daily reminder of what the work is for.
 
-The serious lay reader on Sanatan Dharma who wants more rigour than wellness writing offers and more accessibility than scholarly journals provide. Neither sanitised nor unreachable.
+---
 
-The lineage student who has received mantra diksha and now wants the institutional and philosophical context, the chain from Adi Shankaracharya through the three Saraswati paramahamsas, the Dashanami order, the place of the Bihar School inside that order.
+## Who is behind it
 
-The skeptical reader who wants to verify the scientific claims and the lineage attributions before deciding whether to take any of this seriously. The wiki invites that test.
+**Arjun.** A householder, based in Delhi, who spent eighteen years in a corporate life that stopped working and returned to a practice he was initiated into much earlier.
 
-## How to read it
+What he is trying to build with OMJOOMSUH is a modern ecosystem that can help people reclaim their health from the clutches of the health, wellness, and nutrition industry — not by adding another product to the pile, but by pointing back at *living the human experience*: the ordinary daily practices that were always the ground of a well life, and that the industrial version of wellness has quietly displaced.
 
-If you are arriving for the first time and want to understand the morning practice, read in this order: [Three Mantras, Three Planes](https://withomjoomsuh.substack.com/p/three-mantras-three-planes), then [Your Morning Belongs To You](https://withomjoomsuh.substack.com/p/your-morning-belongs-to-you-here). From there, the concept pages on [[Sankalpa]] and [[Three Planes]].
+He writes a weekly newsletter, teaches the morning chanting, and is building this wiki as a companion reference for anyone who wants to understand what the practice is for.
 
-If you are arriving with a question about a specific concept, the index and the search bar are at the top of the wiki. The concept pages are short and cross-linked, and each one points back to the essay where the concept is treated at length.
+---
 
-If you are arriving with interest in the body of practice itself, what is being done in the morning sadhana and how it works, read [[Yoga Nidra]] as the first concept page, then [[Pratyahara]] as the structural hinge that yoga nidra rests on, then [[Chakras]] for the subtle-body architecture beneath the whole. These three pages together describe the operating model of the human being as the lineage understands it.
+## Where the teaching comes from
 
-If you are arriving for the lineage, start with the page on the [[Saraswati Order|Saraswati Sampradaya]] and the chain from [[Adi Shankaracharya]], then [The River and the Riverbed](https://withomjoomsuh.substack.com/p/the-river-and-the-riverbed-the-saraswati).
+OMJOOMSUH does not invent its material. Every practice, every teaching, every concept it uses is drawn from a single living tradition: the **Bihar School of Yoga**.
 
-If you are arriving curious about how this tradition meets modern life, read the [[Annamaya Index]] for the plate, [[HBSC|the Health Balance Score Card]] for the body, and [[Yogic UX]] for the screen. These are the frameworks where the older knowledge is put to work in the present, the tradition translated rather than diluted.
+The Bihar School was founded in 1963 in Munger, a small town on the banks of the Ganga in eastern India, by a monk named [[Swami Satyananda Saraswati|Swami Satyananda]] — one of the greatest psychic scientists of all times, who carried a mandate from his own guru to spread the teachings of classical yoga far and wide. His guru, [[Swami Sivananda Saraswati|Swami Sivananda]], had done the earlier work of collecting the classical yogic teachings and making them accessible to householders, not only monks. Swami Satyananda continued and deepened that work, and today the tradition is carried forward by his successor, [[Swami Niranjanananda Saraswati|Swami Niranjanananda]].
 
-If you are arriving skeptical, start with [The Body That Outshines The Sun](https://withomjoomsuh.substack.com/p/the-body-that-outshines-the-sun), then the relevant sections of [Before The World Claims You](https://withomjoomsuh.substack.com/p/before-the-world-claims-you). The science is named there. The references are there. Read them before reading the rest.
+The Bihar School matters here because it is one of the very few institutions in the world that has kept the classical yogic teachings both *intact* (nothing invented or watered down) and *practicable* for people who are not monks — people who work, raise children, and manage a household. Its books, its practices, and its residential programmes are the source material for almost everything OMJOOMSUH offers. Where a page on this wiki names a concept — the five sheaths of a human being, the science of breath, the six inner enemies — the source is nearly always a text from this tradition.
 
-## What I claim, and what I do not
+OMJOOMSUH does not speak *for* the Bihar School. It is one householder's small attempt to carry a fraction of what the tradition holds into the ordinary Tuesday of ordinary Indian metros.
 
-I claim that the morning practice has produced specific changes in my own life over the years of practice, and that the framework articulated here is the framework I have lived inside.
+---
 
-I claim that the institutional lineage from Adi Shankaracharya through the three Saraswati paramahamsas, Sivananda, Satyananda, Niranjanananda, is documented and verifiable.
+## Where to go from here
 
-I claim that the contemporary research cited in the essays is, to the best of my ability to verify it, accurate.
+If you want to see what any of this looks like in daily practice — not read about it, but sit with it — the door is open at six o'clock every weekday morning. A small group of us meets on Zoom to chant the Mahamrityunjaya and the Gayatri and the thirty-two names of the Goddess Durga together, one repetition on each long out-breath. It takes about fifteen minutes. You are welcome to sit in and observe for a week before deciding anything.
 
-I do not claim that the practice will work for any specific reader.
+The way in is a single WhatsApp message: **+91 96670 25649**.
 
-I do not claim spiritual attainment of any kind.
+If you would rather read first, the essays under *00 — Essays* are where the reading begins. Over time they have gathered into four kinds of terrain.
 
-I do not claim the standing to teach the tradition.
+*The body, and what genuine health actually is.* Essays about breath, movement, food, sleep, and the daily rhythm of the body — written against the industrial-wellness idea that health is something you buy. What genuine health looks like when it is not for sale.
 
-I do not claim that the synthesis between Western science and the Indian darshanic tradition offered in some of these essays is the final word on either. It is one practitioner's working integration. The work is to keep widening it.
+*The self, and the traps of the modern self-project.* Essays about how a person is currently being told to organise their inner life — the productivity culture, the optimisation culture, the endless questioning — and where the older tradition offers a different account of what a self is for.
 
-## What is missing, and what is coming
+*The household, and the widening circles of a life.* Essays about what a life is actually built out of — the family, the work, the community, the world — and the responsibilities that run through those circles. Written from inside the householder's ordinary Tuesday, not from a monastery.
 
-_Much of what was missing when this wiki began has begun to arrive. [[Yoga Nidra]] is here. [[Pratyahara]] is here. [[Chakras]] are here. [[Pranayama]] is here. [[Prana]] and the [[Pancha Kosha|five sheaths]] are here. The lineage chain from Adi Shankaracharya through the three Saraswati paramahamsas is here. And the first of the applied frameworks have arrived, the [[Annamaya Index]], [[HBSC|the Health Balance Score Card]], and [[Yogic UX]]._
+*The lineage, and what the tradition actually teaches.* The quieter essays. Reports from inside the practice — the ashram, the Guru relationship, the small daily disciplines the tradition holds. Slower reading, less argument.
 
-_Much else is still pending. The primary texts, the Bhagavad Gita, Patanjali's Yoga Sutras, the principal Upanishads, are not yet here as their own pages. The practice manuals are not yet here. The individual chakra pages will come one at a time. The broader Tantric stream, the deeper reaches of Vedanta, and much of the wider Sanatan Dharma corpus remain to be written._
+The four kinds do not stand apart. Every essay touches at least two of them. As the writing continues, new essays add depth to these four kinds rather than opening new ones — the shape is stable, the reading gets deeper.
 
-_What is most likely to come next, in no fixed order: Vatavarana, the four chatushpada components of daily life (Ahara, Vihara, Achara, Vichara), the individual chakras one at a time, Kundalini, and Patanjali. I am writing as practice deepens, not on a calendar._
+If any of this sounds like where you are, the essays are where to enter. If you would rather look at the underlying teachings, the pages under *10 — Concepts* are the reference wing.
 
-_If a page feels sparse, that is honest sparseness. The drop has not yet trickled there. The earth is still parched in that corner._
-
-You are at the door. The rooms are inside.
-
-Hari Om Tat Sat.
+*Hari Om Tat Sat.*
