@@ -65,7 +65,7 @@ OMJOOMSUH does not speak *for* the Bihar School. It is one householder's small a
 
 The work takes the shape of four kinds of things: *practices* you sit inside, *instruments* that read something back to you, *words* you can read at your own pace, and — importantly — a few things it deliberately is not. The morning chanting is free and open to anyone. The rest sits behind it, for a reader who wants to go further.
 
-The full list, with a plain-language description of each, lives at [[What OMJOOMSUH Offers]].
+The full list, with a plain-language description of each, lives at [[Offerings|What OMJOOMSUH Offers]].
 
 ---
 
