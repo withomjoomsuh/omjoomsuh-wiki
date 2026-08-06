@@ -63,6 +63,15 @@ else
   exit 1
 fi
 
+if [ -f "$VAULT/Offerings.md" ]; then
+  cp "$VAULT/Offerings.md" "$CONTENT/Offerings.md"
+else
+  echo "ERROR: Offerings.md missing from vault root at $VAULT/Offerings.md"
+  echo "Refusing to complete sync - the offerings page is linked from The Door and would render broken."
+  echo "Restore Offerings.md to the vault root and try again."
+  exit 1
+fi
+
 # Remove excluded items that may have been pulled in transitively
 for excl in "Concept Template.md"; do
   find "$CONTENT" -name "$excl" -delete

@@ -43,7 +43,7 @@ The three sounds *Om, Joom, Sah* are the first, second, and fourth syllables of 
 
 **Arjun.** A householder, based in Delhi, who spent eighteen years in a corporate life that stopped working and returned to a practice he was initiated into much earlier.
 
-What he is trying to build with OMJOOMSUH is a modern ecosystem that can help people reclaim their health from the clutches of the health, wellness, and nutrition industry — not by adding another product to the pile, but by pointing back at *living the human experience*: the ordinary daily practices that were always the ground of a well life, and that the industrial version of wellness has quietly displaced.
+What he is trying to build with OMJOOMSUH is a modern ecosystem that can help people reclaim their health from the clutches of the health, wellness, and nutrition industry — not by adding another product to the pile, but by pointing back at *living the human experience*: the ordinary daily practices, that were always the ground of a well life, and that the industrial version of wellness has quietly displaced.
 
 He writes a weekly newsletter, teaches the morning chanting, and is building this wiki as a companion reference for anyone who wants to understand what the practice is for.
 
@@ -58,6 +58,14 @@ The Bihar School was founded in 1963 in Munger, a small town on the banks of the
 The Bihar School matters here because it is one of the very few institutions in the world that has kept the classical yogic teachings both *intact* (nothing invented or watered down) and *practicable* for people who are not monks — people who work, raise children, and manage a household. Its books, its practices, and its residential programmes are the source material for almost everything OMJOOMSUH offers. Where a page on this wiki names a concept — the five sheaths of a human being, the science of breath, the six inner enemies — the source is nearly always a text from this tradition.
 
 OMJOOMSUH does not speak *for* the Bihar School. It is one householder's small attempt to carry a fraction of what the tradition holds into the ordinary Tuesday of ordinary Indian metros.
+
+---
+
+## What OMJOOMSUH actually offers
+
+The work takes the shape of four kinds of things: *practices* you sit inside, *instruments* that read something back to you, *words* you can read at your own pace, and — importantly — a few things it deliberately is not. The morning chanting is free and open to anyone. The rest sits behind it, for a reader who wants to go further.
+
+The full list, with a plain-language description of each, lives at [[What OMJOOMSUH Offers]].
 
 ---
 
