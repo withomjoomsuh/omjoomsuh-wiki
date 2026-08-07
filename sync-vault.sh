@@ -72,6 +72,15 @@ else
   exit 1
 fi
 
+if [ -f "$VAULT/Essays.md" ]; then
+  cp "$VAULT/Essays.md" "$CONTENT/Essays.md"
+else
+  echo "ERROR: Essays.md missing from vault root at $VAULT/Essays.md"
+  echo "Refusing to complete sync - the essays index page is linked from The Door and would render broken."
+  echo "Restore Essays.md to the vault root and try again."
+  exit 1
+fi
+
 # Remove excluded items that may have been pulled in transitively
 for excl in "Concept Template.md"; do
   find "$CONTENT" -name "$excl" -delete

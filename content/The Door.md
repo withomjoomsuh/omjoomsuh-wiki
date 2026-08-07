@@ -75,7 +75,7 @@ If you want to see what any of this looks like in daily practice — not read ab
 
 The way in is a single WhatsApp message: **+91 96670 25649**.
 
-If you would rather read first, the essays under *00 — Essays* are where the reading begins. Over time they have gathered into four kinds of terrain.
+If you would rather read first, the essays have gathered over time into four kinds of terrain.
 
 *The body, and what genuine health actually is.* Essays about breath, movement, food, sleep, and the daily rhythm of the body — written against the industrial-wellness idea that health is something you buy. What genuine health looks like when it is not for sale.
 
@@ -87,6 +87,6 @@ If you would rather read first, the essays under *00 — Essays* are where the r
 
 The four kinds do not stand apart. Every essay touches at least two of them. As the writing continues, new essays add depth to these four kinds rather than opening new ones — the shape is stable, the reading gets deeper.
 
-If any of this sounds like where you are, the essays are where to enter. If you would rather look at the underlying teachings, the pages under *10 — Concepts* are the reference wing.
+The full index of every essay, arranged into these four kinds, lives at [[Essays|The Essays]]. If you would rather look at the underlying teachings, the pages under *10 — Concepts* are the reference wing.
 
 *Hari Om Tat Sat.*
