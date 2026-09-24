@@ -57,6 +57,7 @@ Begin with [[The Door]].
 - [[Bihar School of Yoga]] — the lineage and global authority on yoga and Samkhya that OMJOOMSUH translates from.
 - [[Buddhi]] — the discriminating intellect, the faculty of judgment in Samkhya psychology.
 - [[Chakras]] — the subtle-body energy centres along the spinal axis.
+- [[Cortisol Awakening Response]] — the sharp rise in cortisol in the first forty-five minutes after waking; what the evidence supports, and what it does not.
 - [[Dashanami Sannyasa Parampara]] — the ten monastic orders of Adi Shankaracharya's tradition.
 - [[Four Dharmas]] — the fourfold framing of dharma used in OMJOOMSUH teaching.
 - [[Gayatri]] — the Vedic mantra to the solar deity Savitr, a core sadhana chant.
@@ -75,6 +76,7 @@ Begin with [[The Door]].
 - [[Pratyahara]] — withdrawal of the senses, the bridge between outer and inner yoga.
 - [[Rajas]] — the guna of activity, passion, and restlessness.
 - [[Sadhana]] — disciplined spiritual practice sustained over time.
+- [[Samkhya]] — the oldest of the six darshanas; the map of the inner architecture that the rest of this work stands on.
 - [[Samskaras]] — the latent impressions that shape habit and tendency.
 - [[Sanatan Dharma]] — the perennial civilisational frame underlying the work.
 - [[Sandhya]] — the junction times of day appointed for practice.
