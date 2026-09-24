@@ -109,20 +109,20 @@ The endocrine glands are "the most vital and mysterious of all systems," coordin
 
 ## Quick Reference — Surya Namaskara in a Nutshell
 
-| #   | Posture              | Breath | Sun Mantra                   | Bija       | Concentration                    |             |
-| --- | -------------------- | ------ | ---------------------------- | ---------- | -------------------------------- | ----------- |
-| 1   | Pranamasana          | Exhale | *Om Mitraya Namaha*          | *Om Hraam* | Heart — [[Anahata]]   |
-| 2   | Hasta Utthanasana    | Inhale | *Om Ravaye Namaha*           | *Om Hreem* | Neck — [[Vishuddhi]] |
-| 3   | Padahastasana        | Exhale | *Om Suryaya Namaha*          | *Om Hroom* | Base of spine — [[Swadhisthana]] |             |
-| 4   | Ashwa Sanchalanasana | Inhale | *Om Bhanave Namaha*          | *Om Hraim* | Eyebrow — [[Ajna]]      |
-| 5   | Parvatasana          | Exhale | *Om Khagaya Namaha*          | *Om Hraum* | Neck — [[Vishuddhi]] |
-| 6   | Ashtanga Namaskara   | Retain | *Om Pushne Namaha*           | *Om Hrah*  | Navel — [[Manipura]]  |
-| 7   | Bhujangasana         | Inhale | *Om Hiranya Garbhaya Namaha* | *Om Hraam* | Base of spine — [[Swadhisthana]] |             |
-| 8   | Parvatasana          | Exhale | *Om Marichaye Namaha*        | *Om Hreem* | Neck — [[Vishuddhi]] |
-| 9   | Ashwa Sanchalanasana | Inhale | *Om Adityaya Namaha*         | *Om Hroom* | Eyebrow — [[Ajna]]      |
-| 10  | Padahastasana        | Exhale | *Om Savitre Namaha*          | *Om Hraim* | Base of spine — [[Swadhisthana]] |             |
-| 11  | Hasta Utthanasana    | Inhale | *Om Arkaya Namaha*           | *Om Hraum* | Neck — [[Vishuddhi]] |
-| 12  | Pranamasana          | Exhale | *Om Bhaskaraya Namaha*       | *Om Hrah*  | Heart — [[Anahata]]   |
+| #   | Posture              | Breath | Sun Mantra                   | Bija       | Concentration                    |
+| --- | -------------------- | ------ | ---------------------------- | ---------- | -------------------------------- |
+| 1   | Pranamasana          | Exhale | *Om Mitraya Namaha*          | *Om Hraam* | Heart, [[Anahata]]               |
+| 2   | Hasta Utthanasana    | Inhale | *Om Ravaye Namaha*           | *Om Hreem* | Neck, [[Vishuddhi]]              |
+| 3   | Padahastasana        | Exhale | *Om Suryaya Namaha*          | *Om Hroom* | Base of spine, [[Swadhisthana]]  |
+| 4   | Ashwa Sanchalanasana | Inhale | *Om Bhanave Namaha*          | *Om Hraim* | Eyebrow, [[Ajna]]                |
+| 5   | Parvatasana          | Exhale | *Om Khagaya Namaha*          | *Om Hraum* | Neck, [[Vishuddhi]]              |
+| 6   | Ashtanga Namaskara   | Retain | *Om Pushne Namaha*           | *Om Hrah*  | Navel, [[Manipura]]              |
+| 7   | Bhujangasana         | Inhale | *Om Hiranya Garbhaya Namaha* | *Om Hraam* | Base of spine, [[Swadhisthana]]  |
+| 8   | Parvatasana          | Exhale | *Om Marichaye Namaha*        | *Om Hreem* | Neck, [[Vishuddhi]]              |
+| 9   | Ashwa Sanchalanasana | Inhale | *Om Adityaya Namaha*         | *Om Hroom* | Eyebrow, [[Ajna]]                |
+| 10  | Padahastasana        | Exhale | *Om Savitre Namaha*          | *Om Hraim* | Base of spine, [[Swadhisthana]]  |
+| 11  | Hasta Utthanasana    | Inhale | *Om Arkaya Namaha*           | *Om Hraum* | Neck, [[Vishuddhi]]              |
+| 12  | Pranamasana          | Exhale | *Om Bhaskaraya Namaha*       | *Om Hrah*  | Heart, [[Anahata]]               |
 
 ---
 
