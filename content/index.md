@@ -1,13 +1,15 @@
 ---
-title: OMJOOMSUH
+title: OMJOOMSUH Wiki
 type: index
 updated: 2026-09-24
-description: "A daily mantra practice from Delhi, rooted in the Bihar School of Yoga. This site holds the sources."
+description: "The encyclopedia from the house of OMJOOMSUH. A daily mantra practice from Delhi, rooted in the Bihar School of Yoga."
 ---
 
-# OMJOOMSUH
+# OMJOOMSUH Wiki
 
-A small daily practice group in Delhi. Led every morning by one man, from one old tradition. This site is where the sources are kept.
+The encyclopedia from the house of OMJOOMSUH.
+
+OMJOOMSUH is a small daily practice group in Delhi, led every morning by one man, from one old tradition. This site is where the sources are kept.
 
 **New here?** Read [[The Door]]. It takes five minutes and says what this is, who runs it, and where it comes from.
 
