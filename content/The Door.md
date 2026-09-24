@@ -4,89 +4,82 @@ title: The Door
 
 # The Door
 
-Welcome. You have arrived here from somewhere — an essay, a search, a message from someone. This page is for the reader who has no prior knowledge of OMJOOMSUH, of Arjun, or of the tradition behind either. It is short, and it is meant to be read once, in order, without any need to click away.
+Start here if you have never heard of OMJOOMSUH.
 
----
+## What this is
 
-## What OMJOOMSUH is
+OMJOOMSUH is a small daily practice group run from Delhi.
 
-OMJOOMSUH is a small modern effort to help ordinary people — householders, working adults, parents — reclaim the quiet daily practices that keep a human being well.
+Every weekday morning at six, a group of people sit on a video call and chant three old Sanskrit mantras together for twenty minutes. Every night at eight there is a short recorded practice to help you sleep. A batch runs for a hundred days. That is the whole of it.
 
-It exists because a great deal of what is sold today under the words *health*, *wellness*, and *nutrition* is not helping most people become well. It is helping them consume more, monitor more, buy more, and often feel worse. OMJOOMSUH holds the opposite proposition. Health is not something you purchase. It is something you *live into*, slowly, through practices that were tested across thousands of years by people who watched their own bodies and minds carefully, and wrote down what they found.
+I am Arjun. I lead the morning chant myself, every day.
 
-The work is a wiki (this site), a weekly newsletter, a morning practice group, and a journal. All of it is anchored in one small daily rhythm — a morning chanting practice that takes about fifteen minutes and that anyone can join.
+## Who is Arjun
 
----
+I am not a teacher. I have no doctorate in yoga and no degree in yogic sciences. I am a practitioner, and so is my family.
 
-## What the name means
+What I know of yoga came from being around it. My father taught me asanas when I was five or six. At twelve I went to the ashram for the first time and was initiated into the guru shishya parampara, the line of teacher and student that this tradition runs on. My father has practised for more than fifty-five years. My sister for more than forty. We do not call ourselves teachers. We try to live it.
 
-OMJOOMSUH is the English spelling of three Sanskrit sounds: **ॐ जूं सः** — *Om, Joom, Sah*. Each is a seed syllable, a compressed sound the tradition treats as carrying a specific meaning.
+Most families, when they gather, talk about films or politics or food. Some talk about Dostoevsky or Kant. When my family gathers, the talk drifts to yoga. To Samkhya. To some pranayama one of us has been sitting with. It always has. That is the only real difference between us and any other household, and it is the whole of what I have to offer.
 
-- **ॐ (Om)** — the primordial sound of the universe. Consciousness, peace, the ground of everything.
-- **जूं (Joom)** — the seed syllable that carries the power to move fear of death and disease.
-- **सः (Sah)** — liberation, life-energy, the holding of that energy within oneself.
+Yoga is not taught in a class. It is lived. The tradition counts six branches: hatha yoga, raja yoga, karma yoga, bhakti yoga, kriya yoga and jnana yoga. Most of what is sold as yoga today is one branch, sometimes two, taught by the hour. Whatever that is, it is a piece.
 
-These three syllables are drawn from an ancient prayer called the *Mahamrityunjaya Mantra* — the mantra that faces death and asks for freedom from it. It comes from the *Rig Veda*, one of humanity's oldest texts, composed several thousand years ago. In its expanded form the mantra reads:
+Thirty years of daily sadhana and I claim to have mastered nothing. What I do have is a sense of responsibility that will not go away. In *The Brothers Karamazov*, Dostoevsky has an old monk say that each of us is responsible for everyone and for everything. I read that when I was young and it did not leave. This work exists because of it.
 
-> ॐ हौं जूं सः । ॐ भूर्भुवः स्वः ।
-> ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् ।
-> उर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात् ॥
-> ॐ स्वः भुवः भूः ॐ सः जूं हौं ॐ ॥
+## Where it comes from
 
-*We honour the three-eyed One who nourishes all beings with fragrance and strength. As a ripe cucumber is freed from its vine when it is ready, may we be freed from death — not from life.*
+Everything here comes from one tradition, the Bihar School of Yoga.
 
-The three sounds *Om, Joom, Sah* are the first, second, and fourth syllables of this expanded prayer. The name OMJOOMSUH holds those three sounds together as a single word — a small daily reminder of what the work is for.
+[[Swami Sivananda Saraswati]], in Rishikesh, gathered the old yoga teachings and made them usable by ordinary people with jobs and families. His student [[Swami Satyananda Saraswati]] founded the Bihar School of Yoga in 1963, in Munger, on the Ganga, to carry that work on. His successor, [[Swami Niranjanananda Saraswati]], leads the school now, and is my guru.
 
----
+You can check all of this. The school is a real institution. Its books are in print. Its teachers are named. I pass on what I received, as I received it.
 
-## Who is behind it
+## What we are trying to do
 
-**Arjun.** A householder, based in Delhi, who spent eighteen years in a corporate life that stopped working and returned to a practice he was initiated into much earlier.
+The first aim of this work is to reach a million Indian homes with the morning mantra practice. Twenty minutes, every day.
 
-What he is trying to build with OMJOOMSUH is a modern ecosystem that can help people reclaim their health from the clutches of the health, wellness, and nutrition industry — not by adding another product to the pile, but by pointing back at *living the human experience*: the ordinary daily practices, that were always the ground of a well life, and that the industrial version of wellness has quietly displaced.
+Most people in India today do not know what to do when they wake up. Some reach for the phone. Some go straight to the kitchen. Some are already in the office meeting in their head. Some go for a walk or to the gym. None of that is the first thing. The first thing is to put the mind in a state that radiates something good into the house, before the day gets hold of it.
 
-He writes a weekly newsletter, teaches the morning chanting, and is building this wiki as a companion reference for anyone who wants to understand what the practice is for.
+That is all we do. We do not teach. I sit and chant, and people join me. There is no sermon. I have left sermons to television, WhatsApp and Instagram reels. I chant the mantras, which belong to everyone, and whoever is on the call chants with me.
 
----
+## What you actually do
 
-## Where the teaching comes from
+**Morning.** Six to six twenty, Monday to Friday, live. Three mantras. The Mahamrityunjaya for the body. The Gayatri for the mind. The thirty-two names of Durga to clear what sits underneath. You do not need to know them. You chant along and get them right over time. Your camera is off. Nobody sees you.
 
-OMJOOMSUH does not invent its material. Every practice, every teaching, every concept it uses is drawn from a single living tradition: the **Bihar School of Yoga**.
+**Night.** From eight, recorded. Eight minutes lying down, reviewing your day. Seven minutes of a humming breath called Bhramari. This is what brings the sleep.
 
-The Bihar School was founded in 1963 in Munger, a small town on the banks of the Ganga in eastern India, by a monk named [[Swami Satyananda Saraswati|Swami Satyananda]] — one of the greatest psychic scientists of all times, who carried a mandate from his own guru to spread the teachings of classical yoga far and wide. His guru, [[Swami Sivananda Saraswati|Swami Sivananda]], had done the earlier work of collecting the classical yogic teachings and making them accessible to householders, not only monks. Swami Satyananda continued and deepened that work, and today the tradition is carried forward by his successor, [[Swami Niranjanananda Saraswati|Swami Niranjanananda]].
+**The hundred days.** A batch starts on the first of every month. The first thirty days are free. No card is taken. After that, if you want to stay, it is seven hundred rupees once for the rest of the hundred days, or three hundred a month. Nothing renews by itself.
 
-The Bihar School matters here because it is one of the very few institutions in the world that has kept the classical yogic teachings both *intact* (nothing invented or watered down) and *practicable* for people who are not monks — people who work, raise children, and manage a household. Its books, its practices, and its residential programmes are the source material for almost everything OMJOOMSUH offers. Where a page on this wiki names a concept — the five sheaths of a human being, the science of breath, the six inner enemies — the source is nearly always a text from this tradition.
+If you miss two mornings, someone messages you. A person sends it, by hand.
 
-OMJOOMSUH does not speak *for* the Bihar School. It is one householder's small attempt to carry a fraction of what the tradition holds into the ordinary Tuesday of ordinary Indian metros.
+People of several faiths sit in the circle. The mantras are chanted as sound, for the body and the mind. You are not asked to believe anything.
 
----
+## Why this site exists
 
-## What OMJOOMSUH actually offers
+The wellness industry sells methods it invented last year. This tradition is old and it is written down. This site is where you can look at the sources.
 
-The work takes the shape of four kinds of things: *practices* you sit inside, *instruments* that read something back to you, *words* you can read at your own pace, and — importantly — a few things it deliberately is not. The morning chanting is free and open to anyone. The rest sits behind it, for a reader who wants to go further.
+Every practice, every word and every idea used in the programme has a page here. Each page says where the thing comes from, what the old texts say, what modern research has found, and where the two do not agree. If you want to know why the morning is at six, or what a mantra does to the nervous system, it is here, with the sources named.
 
-The full list, with a plain-language description of each, lives at [[Offerings|What OMJOOMSUH Offers]].
+Nothing on this site is medical advice. For medical things, see your own doctor.
 
----
+## What comes after
 
-## Where to go from here
+Once you are settled in the daily practice, other things open up, and only if you want them.
 
-If you want to see what any of this looks like in daily practice — not read about it, but sit with it — the door is open at six o'clock every weekday morning. A small group of us meets on Zoom to chant the Mahamrityunjaya and the Gayatri and the thirty-two names of the Goddess Durga together, one repetition on each long out-breath. It takes about fifteen minutes. You are welcome to sit in and observe for a week before deciding anything.
+**Annamaya.** A way to get out from under the nutritionists by looking at what your own body actually needs. It leads back to food that is grown near you, in season, and cooked the way it has always been cooked where you live.
 
-The way in is a single WhatsApp message: **+91 96670 25649**.
+**The Health Balance Score Card.** A report card of your energy system, read together with your blood work. It is done in person, over a long sitting, because there is no other way to understand it. The people who have taken it will tell you how closely it matched what they later found out about their health.
 
-If you would rather read first, the essays have gathered over time into four kinds of terrain.
+**The evening review.** The night practice, kept over weeks. It lets you step back from the stress you live inside and sleep deeper. You will not need a more scientific mattress. I can promise you that.
 
-*The body, and what genuine health actually is.* Essays about breath, movement, food, sleep, and the daily rhythm of the body — written against the industrial-wellness idea that health is something you buy. What genuine health looks like when it is not for sale.
+**NEEV** for women whose bodies are changing, and **weekend yoga** in a small studio in Vasant Kunj, run between batches. All of it is described at [[Offerings|What OMJOOMSUH Offers]].
 
-*The self, and the traps of the modern self-project.* Essays about how a person is currently being told to organise their inner life — the productivity culture, the optimisation culture, the endless questioning — and where the older tradition offers a different account of what a self is for.
+## Where to go now
 
-*The household, and the widening circles of a life.* Essays about what a life is actually built out of — the family, the work, the community, the world — and the responsibilities that run through those circles. Written from inside the householder's ordinary Tuesday, not from a monastery.
+To join the next batch, go to **app.omjoomsuh.com** and register. Your name, your WhatsApp number, your city. That is all.
 
-*The lineage, and what the tradition actually teaches.* The quieter essays. Reports from inside the practice — the ashram, the Guru relationship, the small daily disciplines the tradition holds. Slower reading, less argument.
+If you would rather read first, the essays are at [[Essays|The Essays]]. If you want to look up a word or an idea, the reference pages are listed on the [[index|home page]].
 
-The four kinds do not stand apart. Every essay touches at least two of them. As the writing continues, new essays add depth to these four kinds rather than opening new ones — the shape is stable, the reading gets deeper.
-
-The full index of every essay, arranged into these four kinds, lives at [[Essays|The Essays]]. If you would rather look at the underlying teachings, the pages under *10 — Concepts* are the reference wing.
+If you want to ask a person before deciding anything, WhatsApp **+91 96670 25649**.
 
 *Hari Om Tat Sat.*
