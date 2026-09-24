@@ -63,7 +63,7 @@ A little, every day. A drop on parched earth. The ratio tilts.
 - [[Paramahamsa]]
 - [[Bihar School of Yoga]]
 - [[Swami Sivananda Saraswati]]
-
+- [[He Smiled Between Two Armies]]
 
 ## Notes
 

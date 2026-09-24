@@ -120,6 +120,7 @@ Both frames are real. The lineage has no quarrel with the science. But the linea
 - [[Bihar School of Yoga]] — the lineage institution that teaches upavasa as part of integrated sadhana
 
 ---
+- [[He Smiled Between Two Armies]]
 
 ## Sources
 

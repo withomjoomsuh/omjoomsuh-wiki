@@ -48,7 +48,7 @@ The Shadripus are the diagnostic that makes the morning sadhana legible as thera
 
 **They explain why intellect alone cannot defeat them.** [[Gabor Maté]], in his work on addiction and the Hungry Ghost, observes that shame cannot be healed by the intellect that was shaped by it. The Vedic tradition arrived at the same observation thousands of years earlier: the [[Manas]] that produces the Shadripus cannot dissolve them. Only [[Buddhi]] illuminated by [[Gayatri]], and the substrate cleared by [[Shakti]] through the [[32 Names of Durga]], can reach the layer where these patterns actually live.
 
-For the practitioner in the first room of [[The Four Rooms of Talent]] — held in place by the trifecta of fear, guilt, and shame — the Shadripus are not abstract concepts. They are the daily report on what holds them there.
+For the practitioner in the first room of [[The Four Rooms Of Talent]] — held in place by the trifecta of fear, guilt, and shame — the Shadripus are not abstract concepts. They are the daily report on what holds them there.
 
 ## Related concepts
 
@@ -63,7 +63,7 @@ For the practitioner in the first room of [[The Four Rooms of Talent]] — held 
 - [[Gabor Maté]] 
 - [[Bihar School of Yoga]] 
 - [[Swami Niranjanananda Saraswati]]
-
+- [[Of All The Things, He Chose That One]]
 
 ## Notes
 

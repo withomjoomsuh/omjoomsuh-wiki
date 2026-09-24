@@ -76,7 +76,7 @@ The vagus nerve is the page on which the entire physiological argument of the Mo
 - [[Pranayama]] 
 - [[Robin Dunbar]] 
 - [[Bihar School of Yoga]]
-
+- [[The Chakyar Could Insult the King]]
 
 ## Notes
 

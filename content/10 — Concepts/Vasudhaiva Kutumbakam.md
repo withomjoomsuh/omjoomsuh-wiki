@@ -106,6 +106,9 @@ This is the lineage's deepest reading of *vasudhaiva kutumbakam*. It is not only
 - [[Three Planes]] — the body/energy/mind framework that holds the inner discipline
 
 ---
+- [[Of All The Things, He Chose That One]]
+- [[The Chakyar Could Insult the King]]
+- [[Young Businesses and AI]]
 
 ## Sources
 

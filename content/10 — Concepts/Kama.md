@@ -293,6 +293,7 @@ The middle path the lineage teaches is *transformation*: to see kama clearly, to
 - [[Swami Satyananda Saraswati]] — the guru under whose guidance *Transforming Kama* was written
 
 ---
+- [[No Bank Would Lend His Father Two Lakh Rupees]]
 
 ## Sources
 

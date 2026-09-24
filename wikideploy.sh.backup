@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+# wikideploy — sync the Obsidian vault into Quartz and publish wiki.omjoomsuh.com
+# One-time setup:
+#   mv "wikideploy.sh" ~/quartz/wikideploy.sh && chmod +x ~/quartz/wikideploy.sh
+#   echo 'alias wikideploy="$HOME/quartz/wikideploy.sh"' >> ~/.zshrc && source ~/.zshrc
+# Then, any time:  wikideploy "what changed"
+set -euo pipefail
+
+QUARTZ="$HOME/quartz"
+CONTENT="$QUARTZ/content"
+MSG="${1:-update wiki}"
+
+cd "$QUARTZ"
+
+# STEALTH IDENTITY — never commit under a real name (repo is public)
+git config user.name "OMJOOMSUH"
+git config user.email "withomjoomsuh@users.noreply.github.com"
+
+echo "1/4  Syncing vault → content (allowlist: Essays, Concepts, People + index, The Door)…"
+bash "$QUARTZ/sync-vault.sh"
+
+echo "2/4  SAFETY GATE — scanning synced content for anything private…"
+# The repo is PUBLIC. Nothing marked draft, nor anything from 70 — Private, may ship.
+# (Identity safety, the founder's name, is enforced by the OMJOOMSUH git config set above,
+#  so no real name is hard-coded in this script.)
+LEAK=$(grep -rl -e "^draft: true" -e "ip: proprietary" "$CONTENT" 2>/dev/null || true)
+if [ -n "$LEAK" ]; then
+  echo "ABORT. These synced files are not safe for a public repo:"
+  echo "$LEAK"
+  echo "Move them out of 00/10/20 (into 70 — Private) and run again. Nothing was pushed."
+  exit 1
+fi
+echo "     Clean. No draft or IP-tagged content in synced files."
+
+echo "3/4  Committing…"
+git add -A
+git commit -m "$MSG" || { echo "Nothing to commit."; exit 0; }
+
+echo "4/4  Pushing to v4 (Netlify will auto-build)…"
+git push origin v4
+
+echo "Done. Netlify is building. Live in ~1–2 min at https://wiki.omjoomsuh.com"

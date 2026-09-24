@@ -43,10 +43,10 @@ The chakras ascend the spinal axis from the base to the crown. Each is symbolise
 | --- | ------------------------------- | ----------------------------------- | ---------------------------------------------------- |
 | 1   | **[[Mooladhara]]**              | Four-petalled deep red              | Base of the spine (perineum in men, cervix in women) |
 | 2   | **[[Swadhisthana]]**            | Six-petalled vermilion              | Sacral region, two finger-widths above mooladhara    |
-| 3   | [[Manipura Chakra\|Manipura]]   | Ten-petalled bright yellow          | Solar plexus, behind the navel                       |
-| 4   | [[Anahata Chakra\|Anahata]]     | Twelve-petalled blue                | Heart centre, behind the sternum                     |
-| 5   | [[Vishuddhi Chakra\|Vishuddhi]] | Sixteen-petalled violet             | Throat, at the base of the neck                      |
-| 6   | [[Ajna Chakra\|Ajna]]           | Two-petalled silver-grey            | Mid-eyebrow centre (*bhrumadhya*)                    |
+| 3   | **[[Manipura]]**   | Ten-petalled bright yellow          | Solar plexus, behind the navel                       |
+| 4   | **[[Anahata]]**     | Twelve-petalled blue                | Heart centre, behind the sternum                     |
+| 5   | **[[Vishuddhi]]** | Sixteen-petalled violet             | Throat, at the base of the neck                      |
+| 6   | **[[Ajna]]**           | Two-petalled silver-grey            | Mid-eyebrow centre (*bhrumadhya*)                    |
 | 7   | **[[Sahasrara]]**               | One thousand-petalled multicoloured | Crown of the head                                    |
 
 Each chakra combines six aspects in tantric meditation: the chakra colour, the petals of the lotus, the yantra (geometrical shape), the *[[Bija Mantra|bija mantra]]*, the animal symbol, and the higher or divine being who presides over it.
@@ -207,7 +207,7 @@ The chakra cluster, as it sits in this wiki and as it will grow:
 - [[Maya]] — the veil of ignorance the granthis represent
 - [[Kriya Yoga]] — the practical system that engages the chakras through their kshetrams
 - [[Pranayama]] — the breath practices that awaken the chakras through the nadis
-- [[Gunas]], [[Sattva]], [[Rajas]], [[Tamas]] — the three modes through which evolution moves
+- [[Guna|Gunas]], [[Sattva]], [[Rajas]], [[Tamas]] — the three modes through which evolution moves
 - [[Bihar School of Yoga]] — the lineage institution that carries the practical knowledge of the chakra system
 - [[Swami Satyananda Saraswati]] — author of *Kundalini Tantra*, the foundational modern text on this material
 

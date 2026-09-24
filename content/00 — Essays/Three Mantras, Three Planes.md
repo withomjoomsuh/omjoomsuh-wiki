@@ -25,7 +25,7 @@ This article is an attempt to lay all three open. Their origins in the Vedic tex
 
 ## What Is a Mantra
 
-The word comes from two Sanskrit roots: *[[manas]]* (mind) and *tra* (to protect, to liberate). A mantra is, at its most literal, that which protects the mind. Not in the way an armour protects the body, by keeping things out, but in the way a riverbed protects a river: by giving it direction.
+The word comes from two Sanskrit roots: *[[Manas|manas]]* (mind) and *tra* (to protect, to liberate). A mantra is, at its most literal, that which protects the mind. Not in the way an armour protects the body, by keeping things out, but in the way a riverbed protects a river: by giving it direction.
 
 Western acoustics would describe a mantra as a sustained pattern of phonemic vibration. The Vedic tradition would describe it as a vehicle for consciousness. Both are correct. The sustained vocalisation of specific syllabic patterns produces measurable effects on the [[Vagus Nerve]], the autonomic nervous system, brainwave frequency, and heart rate variability. These are not contested claims. They are published findings across journals, including *Frontiers in Human Neuroscience*, *ScienceDirect*, and the *Research and Reviews: Journal of Neurosciences*.
 
@@ -279,7 +279,7 @@ That is what these three mantras build. Not in theory. In the body. In the breat
 
 ---
 
-*The Morning Mantras practice runs live Monday through Friday at 6:10 AM IST, and the three mantras described in this article form the complete daily [[sadhana]] sequence. If what you have read here speaks to something you have been carrying, the practice is available as a free app that guides you through the full sequence, solo or with guided audio.*
+*The Morning Mantras practice runs live Monday through Friday at 6:10 AM IST, and the three mantras described in this article form the complete daily [[Sadhana|sadhana]] sequence. If what you have read here speaks to something you have been carrying, the practice is available as a free app that guides you through the full sequence, solo or with guided audio.*
 
 *You can join here: [Morning Mantras App](https://morningmantras.netlify.app)*
 

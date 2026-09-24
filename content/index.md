@@ -1,7 +1,7 @@
 ---
 title: OMJOOMSUH Wiki
 type: index
-updated: 2026-06-27
+updated: 2026-09-24
 ---
 
 # OMJOOMSUH Wiki
@@ -19,25 +19,33 @@ Begin with [[The Door]].
 - [[Before The World Claims You]]
 - [[Charaka knew - Two thousand years before perimenopause had a word]]
 - [[Generation Shaper]]
+- [[He Smiled Between Two Armies]]
+- [[No Bank Would Lend His Father Two Lakh Rupees]]
+- [[Of All The Things, He Chose That One]]
 - [[Oh Money In This Too]]
 - [[Swamiji on Mantra]]
 - [[The Body That Outshines The Sun]]
 - [[The Brightest Thing In The Body]]
+- [[The Chakyar Could Insult the King]]
 - [[The Four Rooms Of Talent]]
 - [[The Fourth Room]]
+- [[The morning Alexander walked back to camp]]
+- [[The morning I was told to feel my feet]]
 - [[The Original Yoga Nidra]]
 - [[The Pit Stop Before The Blueprint]]
+- [[The Rain Was Never the Problem]]
 - [[The River And The Riverbed]]
 - [[The Road After the Question]]
+- [[The Self That Must Be Chosen]]
 - [[The Self that Must Win]]
 - [[The Three 3.0s]]
 - [[The Universe Within Our Cells]]
-- [[The morning Alexander walked back to camp]]
-- [[The morning I was told to feel my feet]]
 - [[Three Mantras, Three Planes]]
 - [[Upstream of the Lab Report]]
 - [[Wants and Needs - What Diksha Did]]
 - [[Why a second child began to feel too expensive]]
+- [[You Are Not Unfit. You Are Underfed.]]
+- [[Young Businesses and AI]]
 - [[Your Morning Belongs To You]]
 
 ---

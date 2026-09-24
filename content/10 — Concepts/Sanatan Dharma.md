@@ -81,7 +81,8 @@ The wiki, in its small way, is an attempt to make the tradition's own self-under
 - [[Samkhya]]
 - [[Purusharthas]]
 - [[Shadripus]]
-
+- [[The Chakyar Could Insult the King]]
+- [[No Bank Would Lend His Father Two Lakh Rupees]]
 
 ## Notes
 

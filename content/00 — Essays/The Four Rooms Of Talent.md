@@ -149,7 +149,7 @@ The cause is your own life. The practice is twenty minutes. The rest of the day 
 
 ---
 
-*The Morning Mantras practice runs live, Monday through Friday, at 6:10 AM IST. For those who rise a little later, we are also on YouTube Live. The session is twenty minutes. The three mantras described in this article form the complete sequence of the daily [[sadhana]].*
+*The Morning Mantras practice runs live, Monday through Friday, at 6:10 AM IST. For those who rise a little later, we are also on YouTube Live. The session is twenty minutes. The three mantras described in this article form the complete sequence of the daily [[Sadhana|sadhana]].*
 
 *You can join here: [Morning Mantras App](https://morningmantras.netlify.app)*
 

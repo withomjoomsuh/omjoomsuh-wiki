@@ -70,7 +70,7 @@ A little, every day. A drop on parched earth.
 - [[Swami Sivananda Saraswati]]
 - [[Swami Satyananda Saraswati]]
 - [[Swami Niranjanananda Saraswati]]
-
+- [[Of All The Things, He Chose That One]]
 
 ## Notes
 

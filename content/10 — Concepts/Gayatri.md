@@ -37,7 +37,7 @@ The mechanism, in modern terms: a 2025 study at Desh Bhagat University tracked 1
 
 In Vedic terms: Gayatri targets [[Buddhi]], not [[Manas]]. Manas is the processing mind that oscillates and reacts. Buddhi is the discriminating intellect that, when illuminated, sees through the surface of things to their actual nature. The British psychoanalyst [[Wilfred Bion]] described what he called the "containing function" of the mind — the capacity to receive distress, hold it, process it, and return to equilibrium without fragmenting. In the Vedic system, this is *dhee*. Gayatri builds this container, day by day.
 
-For the practitioner in the second room of [[The Four Rooms of Talent]] — high ambition, low idealism, with [[Tamas]] veiling the higher chakras — Gayatri is the precise intervention that converts ambition into illuminated purpose.
+For the practitioner in the second room of [[The Four Rooms Of Talent]] — high ambition, low idealism, with [[Tamas]] veiling the higher chakras — Gayatri is the precise intervention that converts ambition into illuminated purpose.
 
 ## Related concepts
 

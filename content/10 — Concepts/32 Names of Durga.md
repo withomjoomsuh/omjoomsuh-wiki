@@ -33,7 +33,7 @@ What is being addressed here cannot be addressed by intellect alone. Western psy
 
 The Shakta Tantric position is that these patterns can only be dissolved by an energy that operates at a deeper level than thought — and that energy is [[Shakti]]. The Devi does not argue with the pattern. She burns it. She clears the vessel so that something new can be placed in it. This is what *purification* means in the Tantric sense — not moral cleansing, but structural clearing.
 
-For the practitioner in the first room of [[The Four Rooms of Talent]] — held in place by [[Tamas]], by the trifecta [[Gabor Maté]] names as fear, guilt, and shame — the 32 Names are the precise instrument that operates beneath the intellectual mind, in the substrate where these patterns actually live. The intellect that was shaped by the conditioning cannot dissolve it; the conditioning must be met by a force that pre-dates and exceeds it.
+For the practitioner in the first room of [[The Four Rooms Of Talent]] — held in place by [[Tamas]], by the trifecta [[Gabor Maté]] names as fear, guilt, and shame — the 32 Names are the precise instrument that operates beneath the intellectual mind, in the substrate where these patterns actually live. The intellect that was shaped by the conditioning cannot dissolve it; the conditioning must be met by a force that pre-dates and exceeds it.
 
 ## Related concepts
 

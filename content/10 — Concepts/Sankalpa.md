@@ -47,7 +47,7 @@ Why is the morning practice the right moment for sankalpa? Three reasons:
 
 **The specificity required.** A sankalpa is not "I want to be peaceful." A sankalpa is concrete, present-tense, and personally true: *"I am present with my mother today." "I respond instead of react when my child resists." "I close the day with the one decision I have been postponing."* Specificity is what makes the resolve land. Vague aspiration produces vague outcomes; specific resolve produces measurable change.
 
-For the practitioner working through the [[Four Rooms of Talent|four rooms of talent]] framework, sankalpa is the instrument that converts idealism into action and ambition into [[Dharma]]. Without sankalpa, the morning practice becomes ritual. With it, the practice becomes a daily intervention in the architecture of one's life.
+For the practitioner working through the [[The Four Rooms Of Talent|four rooms of talent]] framework, sankalpa is the instrument that converts idealism into action and ambition into [[Dharma]]. Without sankalpa, the morning practice becomes ritual. With it, the practice becomes a daily intervention in the architecture of one's life.
 
 ## Related concepts
 

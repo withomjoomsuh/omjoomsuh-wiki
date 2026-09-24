@@ -50,7 +50,7 @@ That is the disease. The belt running out did not cause it. The belt only kept y
 
 ·
 
-There is a room I once wrote about, in [[The Four Rooms of Talent]] and the essay that follows it, [[The Fourth Room]]. It is the room of the person who cares about everything and still cannot move. They feel the world's problems deeply and have real opinions about how things ought to be, and yet their own life stays completely still, because they are standing in front of an endless wall of doors and cannot bring themselves to open one. Opening one means all the others close, so every door grows its own reason to wait.
+There is a room I once wrote about, in [[The Four Rooms Of Talent]] and the essay that follows it, [[The Fourth Room]]. It is the room of the person who cares about everything and still cannot move. They feel the world's problems deeply and have real opinions about how things ought to be, and yet their own life stays completely still, because they are standing in front of an endless wall of doors and cannot bring themselves to open one. Opening one means all the others close, so every door grows its own reason to wait.
 
 The old tradition has a precise word for this. *Vikalpa.* The mind spinning out possibilities that have no ground under them, mistaking its own motion for progress. Your generation lives in this room more than any before it. You are not weak. You have simply been handed more doors than a human being was ever built to stand in front of, more paths and causes and identities and versions of a life, more images of other people apparently already living the one you wanted, scrolling past while you lie there still. This is what happens to a mind given infinite choice and nothing to aim at.
 
