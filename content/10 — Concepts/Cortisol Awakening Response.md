@@ -19,7 +19,7 @@ For OMJOOMSUH the CAR is the physiological fact that makes the first hour after 
 
 The CAR is a Western endocrinological finding from 1997 and has no Sanskrit equivalent, because the tradition was not measuring hormones. What the tradition did have was a precise account of *when*, and a set of instructions about what to do in that window.
 
-- *[[Brahma Muhurta]]* is the period of roughly ninety-six minutes before sunrise, named as the most favourable time for practice across the yogic and Ayurvedic literature. It sits immediately before and into the window the CAR occupies for a person who rises then.
+- *Brahma Muhurta* is the period of roughly ninety-six minutes before sunrise, named as the most favourable time for practice across the yogic and Ayurvedic literature. It sits immediately before and into the window the CAR occupies for a person who rises then.
 - *[[Sandhya]]* names the junction points of the day, dawn and dusk and noon, appointed for practice precisely because the tradition held that the body and mind are in transition at those hinges and are therefore workable.
 - *[[Prana]]* is the vital current the tradition holds to be most available and most unsettled at waking, which is why *[[Pranayama|pranayama]]* is prescribed early rather than late.
 
@@ -58,7 +58,6 @@ Read together, these say that practice moves morning cortisol, that the directio
 ## Related concepts
 
 - [[Vagus Nerve]]
-- [[Brahma Muhurta]]
 - [[Sandhya]]
 - [[Prana]]
 - [[Pranayama]]
@@ -78,6 +77,8 @@ Read together, these say that practice moves morning cortisol, that the directio
 **A contradiction to resolve, flagged rather than smoothed.** The [[Vagus Nerve]] page states that chanting in the CAR window means "the cortisol energy is redirected, sharpened into clarity rather than dissipated into anxiety," and describes the practice timing as the window of maximum leverage on the day. That is a mechanism-level inference. The evidence reviewed above does not contain a study of chanting and the CAR, and the nearest evidence runs in more than one direction. The claim should either be softened on that page or supported by a citation that does not currently exist. Arjun to rule.
 
 Future work could pursue: whether the anticipatory character of the CAR is modulated by *[[Sankalpa|sankalpa]]*, since a resolve set at waking is, in the literature's own terms, an input about the day's demands arriving inside the response window; the relationship between a blunted CAR and what the tradition calls *[[Tamas|tamas]]*, both describing a system that no longer mobilises; whether the evening reading of a day (the Niranjan Index) correlates with the following morning's response, which would be testable inside the app with saliva kits and a small cohort; and the light question, since the CAR is demonstrably light-sensitive and the tradition places practice before sunrise rather than after it.
+
+Terms used on this page that do not yet have pages of their own: *Brahma Muhurta*. They are left unlinked deliberately, because the published folders render an unresolved link as a live 404.
 
 [^1]: Pruessner, J. C. et al. (1997), first description of the CAR; magnitude of 50 to 75 per cent within 30 to 45 minutes of awakening. Summarised in ScienceDirect Topics, "Cortisol Awakening Response". https://www.sciencedirect.com/topics/medicine-and-dentistry/cortisol-awakening-response
 [^2]: Clow, A., Hucklebridge, F., Stalder, T., Evans, P. & Thorn, L., "The cortisol awakening response: More than a measure of HPA axis function", *Neuroscience and Biobehavioral Reviews*, 2010. https://www.sciencedirect.com/science/article/abs/pii/S0149763409002085

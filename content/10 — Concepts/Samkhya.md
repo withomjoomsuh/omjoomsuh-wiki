@@ -37,7 +37,7 @@ The classical enumeration runs to twenty-five.[^2]
 | 6–10 | **Jnanendriyas** | Five faculties of knowing: hearing, touch, sight, taste, smell. |
 | 11–15 | **Karmendriyas** | Five faculties of action: speech, grasping, locomotion, elimination, generation. |
 | 16–20 | **Tanmatras** | Five subtle essences: sound, touch, form, taste, odour. |
-| 21–25 | **[[Panch Mahabhutas]]** | Five gross elements: space, air, fire, water, earth. |
+| 21–25 | **Panch Mahabhutas** | Five gross elements: space, air, fire, water, earth. |
 
 The order carries the argument. Intellect appears before ego, and ego appears before the sensory mind. A person is therefore not built up from the senses inward. They are built from discrimination outward, and the sense of being a separate self shows up in the middle of that sequence rather than at the bottom of it.
 
@@ -55,7 +55,7 @@ This is the machinery behind a great deal of what the practice actually does. [[
 
 **Samkhya ideas run much earlier than the Karika**, appearing in the *Katha* and *Shvetashvatara Upanishads* and through the *Mahabharata*. The second chapter of the *Bhagavad Gita* is called Samkhya Yoga, and the Gita's account of the gunas in chapters fourteen and seventeen is Samkhya vocabulary put to devotional use.
 
-**[[Patanjali]]'s [[Yoga Sutras]]** take the Samkhya metaphysics almost entire and add one thing, *Ishvara*. This is the relationship most worth holding: Samkhya supplies the map, Yoga supplies the method for walking it. Classical Samkhya is *nirishvara*, without a lord, and works by discriminative knowledge alone. Yoga is *seshvara*, and works by practice. The pairing of the two as a single tradition is ancient and deliberate.
+**Patanjali's Yoga Sutras** take the Samkhya metaphysics almost entire and add one thing, *Ishvara*. This is the relationship most worth holding: Samkhya supplies the map, Yoga supplies the method for walking it. Classical Samkhya is *nirishvara*, without a lord, and works by discriminative knowledge alone. Yoga is *seshvara*, and works by practice. The pairing of the two as a single tradition is ancient and deliberate.
 
 **In the [[Bihar School of Yoga]] curriculum**, Samkhya is taught as the theoretical ground beneath the practices rather than as a separate subject, which is why a practitioner can absorb its categories for years through terms like *guna* and *buddhi* without ever meeting the word Samkhya itself.
 
@@ -90,9 +90,6 @@ This is the machinery behind a great deal of what the practice actually does. [[
 - [[Sattva]]
 - [[Rajas]]
 - [[Tamas]]
-- [[Panch Mahabhutas]]
-- [[Patanjali]]
-- [[Yoga Sutras]]
 - [[Pancha Kosha]]
 - [[Shadripus]]
 - [[Samskaras]]
@@ -107,7 +104,9 @@ This is the machinery behind a great deal of what the practice actually does. [[
 
 ## Notes
 
-Future work could pursue: a page for each of the three unwritten spine terms this page leans on, [[Guna]], [[Ahamkara]] and [[Panch Mahabhutas]], which between them carry a large share of the wiki's remaining unresolved links; the *tanmatra* to *mahabhuta* sequence read against what is currently known about sensory processing, which is the most testable-looking claim in the system and the one most often overstated; a careful treatment of the Samkhya and Vedanta tension named above, since the wiki currently uses both frames without saying so; and the question of whether the gunas can be operationalised at all, which is the load-bearing question under the [[HBSC]] and deserves its own page rather than an assumption.
+Future work could pursue: a page for each of the three unwritten spine terms this page leans on, [[Guna]], [[Ahamkara]] and Panch Mahabhutas, which between them carry a large share of the wiki's remaining unresolved links; the *tanmatra* to *mahabhuta* sequence read against what is currently known about sensory processing, which is the most testable-looking claim in the system and the one most often overstated; a careful treatment of the Samkhya and Vedanta tension named above, since the wiki currently uses both frames without saying so; and the question of whether the gunas can be operationalised at all, which is the load-bearing question under the [[HBSC]] and deserves its own page rather than an assumption.
+
+Terms used on this page that do not yet have pages of their own: *Panch Mahabhutas*, *Patanjali*, *Yoga Sutras*. They are left unlinked deliberately, because the published folders render an unresolved link as a live 404.
 
 [^1]: On the dualism of Purusha and Prakriti, and Purusha as inactive witnessing consciousness, eternal and without qualities: "Sāṃkhya Philosophy: Purusha, Prakriti and the 25 Tattvas", Vedakshara. https://vedakshara.com/en/articles/samkhya-philosophy/
 [^2]: The classical enumeration of the twenty-five principles: "Tattvas in Samkhya", Phil Hine. https://enfolding.org/wikis-4/tantra-wikiwikis-4tantra-wiki/tantra-glossary/tattvas/tattvas-in-samkhya/ ; and "Samkhya Darshana: Evolutionary Cosmology and 25 Tattvas", Yogveda. https://en.yogveda.ch/post/samkhya-darshana-evolutionary-cosmology-25-tattvas
