@@ -1,5 +1,6 @@
 ---
 title: The Door
+description: "Start here. What OMJOOMSUH is, who Arjun is, where the practice comes from, and how to join the morning mantra."
 ---
 
 # The Door

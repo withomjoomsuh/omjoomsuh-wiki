@@ -1,5 +1,6 @@
 ---
 title: What OMJOOMSUH Offers
+description: "The Hundred Days: a morning mantra at six and an evening practice for sleep. What it costs, and what comes after."
 ---
 
 # What OMJOOMSUH Offers

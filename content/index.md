@@ -2,6 +2,7 @@
 title: OMJOOMSUH
 type: index
 updated: 2026-09-24
+description: "A daily mantra practice from Delhi, rooted in the Bihar School of Yoga. This site holds the sources."
 ---
 
 # OMJOOMSUH

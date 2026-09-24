@@ -1,5 +1,6 @@
 ---
 title: The Essays
+description: "Arjun's essays on the body, the self, the household and the tradition."
 ---
 
 # The Essays
