@@ -250,7 +250,7 @@ The lineage's answer, restated in the language of contemporary neuroscience, is 
 
 **Three — reduce high-dopamine stimulation.** The modern householder cannot reach the rishis' baseline because the modern environment is engineered to harvest attention through dopamine spikes. The [[Upavasa|upavasa]] discipline — periods of voluntary abstinence — applied not only to food but to screens, news, social media, the constant low-grade stimulation of contemporary life, restores the dopamine system's natural responsiveness. The lineage's word for this discipline is the same as the word for daily fasting: *upavasa*, dwelling near.
 
-**Four — direct the kama toward the work.** This is the deepest of the four. Untransformed kama dissipates outward toward objects. Transformed kama is channelled into [[Sadhana|sadhana]], into work, into [[Swadharma]], into family, into service. The energy of putreshana, when held with awareness, becomes the love that builds a household. The energy of vitteshana, when held with awareness, becomes the provisioning of a family and the care of resources. The energy of lokeshana, when held with awareness, becomes the impulse to do work the world will benefit from. None of the energies is eliminated. All are redirected.
+**Four — direct the kama toward the work.** This is the deepest of the four. Untransformed kama dissipates outward toward objects. Transformed kama is channelled into [[Sadhana|sadhana]], into work, into Swadharma, into family, into service. The energy of putreshana, when held with awareness, becomes the love that builds a household. The energy of vitteshana, when held with awareness, becomes the provisioning of a family and the care of resources. The energy of lokeshana, when held with awareness, becomes the impulse to do work the world will benefit from. None of the energies is eliminated. All are redirected.
 
 The work is not heroic. It is small and daily and returnable. Drop by drop on parched earth.
 
@@ -278,7 +278,7 @@ The middle path the lineage teaches is *transformation*: to see kama clearly, to
 - [[Matsarya]] — envy, the sixth ripu *(pending)*
 - [[Buddhi]] — the discriminating intelligence whose destruction is the final step in the Gita cascade
 - [[Manas]] — the mind in which kamna manifests
-- [[Chitta]] — the storehouse of memory through which vasanas surface
+- Chitta — the storehouse of memory through which vasanas surface
 - [[Samskaras]] — the deeper impressions of which vasanas are the active expression
 - [[Three Planes]] — the karana / sukshma / sthula sharira framework that structures the kama map
 - [[Sadhana]] — the daily practice through which kama is transformed

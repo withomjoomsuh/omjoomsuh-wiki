@@ -27,7 +27,7 @@ A supplement. A class. A scoop. A diagnosis. A program.
 
 *This essay is a small attempt to put the two halves back together. Through what the cells inside your own body are quietly doing, right now, while you sit in this chair and read this sentence.*
 
-*What the rishis called the [[Panch Mahabhutas|panch mahabhutas]], the five great elements of the cosmos, the modern laboratory has begun to confirm one by one. Prithvi. Jal. Agni. Vayu. Akasha. Earth. Water. Fire. Air. Space. They form the architecture of every living being on this planet, including the one holding the device on which these words are arriving.*
+*What the rishis called the panch mahabhutas, the five great elements of the cosmos, the modern laboratory has begun to confirm one by one. Prithvi. Jal. Agni. Vayu. Akasha. Earth. Water. Fire. Air. Space. They form the architecture of every living being on this planet, including the one holding the device on which these words are arriving.*
 
 *Once you see them clearly, the vocabulary of the entire modern wellness industry begins to sound like what it always was. A sales pitch.*
 
@@ -47,7 +47,7 @@ Per cubic centimetre, a measurement that flatters the body and undersells the su
 
 That sentence sounds like a poetic flourish, the kind of thing a wellness influencer would say with great feeling on a podcast about manifestation. It is mathematics. The astronomer Phil Plait, writing in Discover Magazine, ran the calculation himself with the cool detachment of someone whose day job is measuring distant galaxies. Your liver alone is producing around two hundred watts of metabolic activity at this very moment. Your heart muscle, packed wall to wall with mitochondria, has been operating a coherent power station for as many decades as you have been alive, without a single service technician ever showing up at the door.
 
-The work of [[Fritz-Albert Popp]], the German biophysicist who founded the International Institute of Biophysics, took this further. Popp spent decades inside darkened laboratories, surrounded by photomultiplier detectors so sensitive that they could capture single photons, painstakingly measuring the ultra-weak coherent light emitted by living tissue. His finding, replicated in dozens of labs since, has settled into mainstream biophysics. Every living cell inside your body emits structured photons. [[Biophotons]]. Coherent, wavelength-specific signals that may govern cellular communication, DNA repair, and the integrity of every tissue you carry.
+The work of Fritz-Albert Popp, the German biophysicist who founded the International Institute of Biophysics, took this further. Popp spent decades inside darkened laboratories, surrounded by photomultiplier detectors so sensitive that they could capture single photons, painstakingly measuring the ultra-weak coherent light emitted by living tissue. His finding, replicated in dozens of labs since, has settled into mainstream biophysics. Every living cell inside your body emits structured photons. Biophotons. Coherent, wavelength-specific signals that may govern cellular communication, DNA repair, and the integrity of every tissue you carry.
 
 [[Swami Sivananda Saraswati|Swami Sivananda]] used to say that we are divinity wrapped in matter. He said this without instruments. He said it from quiet observation of his own state during sadhana, sitting cross-legged on the banks of the Ganga, in the years before the West had even built the lab equipment that would later confirm him.
 
@@ -69,7 +69,7 @@ So let us be more careful with it.
 
 The water inside your cells exists in a fourth phase. Picture a state of matter that lives somewhere between solid and liquid, like a translucent gel, glittering quietly inside every cell of every tissue you own. This water is utterly different from the water you sip from the glass on your dinner table. It is different from the water that runs out of your kitchen tap. It is different from the bottled water you bought at the corner shop on your way back from the gym this morning.
 
-[[Gerald Pollack]], a bioengineer at the University of Washington, has spent twenty-five years documenting this fourth phase, which his lab named [[Exclusion Zone Water|Exclusion Zone water]], or EZ water for short. Inside and around every living cell, water organises itself into a liquid-crystalline gel. It carries a negative charge. It pushes other molecules out of its lattice. It responds to infrared light by structuring itself even further. It functions, in effect, as a biological battery, holding charge across vast stretches of tissue without ever requiring a wire.
+Gerald Pollack, a bioengineer at the University of Washington, has spent twenty-five years documenting this fourth phase, which his lab named Exclusion Zone water, or EZ water for short. Inside and around every living cell, water organises itself into a liquid-crystalline gel. It carries a negative charge. It pushes other molecules out of its lattice. It responds to infrared light by structuring itself even further. It functions, in effect, as a biological battery, holding charge across vast stretches of tissue without ever requiring a wire.
 
 This is mainstream biophysics today. The lab measurements are public. The papers are published. The implications, however, are quiet, and quietly devastating to the global wellness industry.
 
@@ -87,7 +87,7 @@ The [[Bihar School of Yoga]] has long taught that [[Swadhisthana]], the second o
 
 When that lattice goes cloudy, disease follows.
 
-Humankind held its own answer to cancer many millennia before chemotherapy was ever invented. What humankind has always required, and what it still requires, is the cleansing of the water within. The yogic word for this is [[Shaucha|shaucha]]. Internal purity. A hydrological practice as much as a moral one.
+Humankind held its own answer to cancer many millennia before chemotherapy was ever invented. What humankind has always required, and what it still requires, is the cleansing of the water within. The yogic word for this is shaucha. Internal purity. A hydrological practice as much as a moral one.
 
 ---
 
@@ -99,11 +99,11 @@ We were taught, by century after century of well-meaning medical doctrine, that 
 
 The story has now been turned on its head.
 
-The mitochondria we just spoke about, the little glowing power station inside every one of your cells, is itself bacterial in origin. Approximately 1.5 billion years ago, long before there was anything we would recognise as an animal, a free-living bacterium took up residence inside a primitive single-celled organism. The two of them formed a partnership. The bacterium stayed. [[Endosymbiotic Theory|Endosymbiotic theory]], which scientists once treated as romantic speculation, has now been completely confirmed by the discovery that mitochondria carry their own circular DNA, separate from yours, inherited entirely from your mother and from no one else.
+The mitochondria we just spoke about, the little glowing power station inside every one of your cells, is itself bacterial in origin. Approximately 1.5 billion years ago, long before there was anything we would recognise as an animal, a free-living bacterium took up residence inside a primitive single-celled organism. The two of them formed a partnership. The bacterium stayed. Endosymbiotic theory, which scientists once treated as romantic speculation, has now been completely confirmed by the discovery that mitochondria carry their own circular DNA, separate from yours, inherited entirely from your mother and from no one else.
 
 The most important organism inside you came from somewhere else.
 
-The story of viruses runs even stranger. Around 8 per cent of the entire human genome, every man, every woman, every child walking this planet, is composed of [[Endogenous Retroviruses|endogenous retroviruses]]. Sequences of viral DNA that were quietly deposited into the human lineage by infections across millions of years and woven, permanently, into who we are.
+The story of viruses runs even stranger. Around 8 per cent of the entire human genome, every man, every woman, every child walking this planet, is composed of endogenous retroviruses. Sequences of viral DNA that were quietly deposited into the human lineage by infections across millions of years and woven, permanently, into who we are.
 
 These sequences arrived as updates. Software patches. Quiet revisions to the operating system of life on this planet, delivered by an organism so simple it sits right at the boundary of life itself. A virus exists as a strand of genetic material wrapped inside a protein shell. Reproduction borrows the host cell. Metabolism belongs to the host. Existence stops just short of life, leaving death an empty doorstep.
 
@@ -111,9 +111,9 @@ What the virus can do, with extraordinary efficiency, is update you.
 
 You currently carry roughly ten to the thirty-first viruses inside your body. That is the digit one followed by thirty-one zeroes. You have always carried them. Your mother carried them, in her bloodstream and in her gut, when she conceived you. They are inside the air you are breathing right now, in this room, with you.
 
-The Vedic texts called this [[Kshetra|kshetra]], the field. When the field is sound, every organism remains a participant. When the field breaks down, when the soil loses its microbial diversity, when the human nervous system is dysregulated by chronic media exposure, when fear is broadcast hour after hour through television sets in every household on earth, the body's relationship with the invisible carrier of life becomes adversarial in ways the older traditions would have found difficult to recognise. The recovery, when it comes, will be a recovery of the field.
+The Vedic texts called this kshetra, the field. When the field is sound, every organism remains a participant. When the field breaks down, when the soil loses its microbial diversity, when the human nervous system is dysregulated by chronic media exposure, when fear is broadcast hour after hour through television sets in every household on earth, the body's relationship with the invisible carrier of life becomes adversarial in ways the older traditions would have found difficult to recognise. The recovery, when it comes, will be a recovery of the field.
 
-[[Akasha]], the most subtle of the five elements, is also the carrier of vibration. Of sound. Of mantra. The [[Bihar School of Yoga|Bihar School]] has been teaching for sixty years what laboratory neuroscience has now begun to measure. Sustained vocal vibration at six breath cycles per minute stimulates the [[Vagus Nerve|vagus nerve]], that long wandering nerve that runs from the brainstem through the throat and the heart and the gut. Vagal stimulation quiets the amygdala. It lifts the parasympathetic tone of the body. It restructures the field.
+Akasha, the most subtle of the five elements, is also the carrier of vibration. Of sound. Of mantra. The [[Bihar School of Yoga|Bihar School]] has been teaching for sixty years what laboratory neuroscience has now begun to measure. Sustained vocal vibration at six breath cycles per minute stimulates the [[Vagus Nerve|vagus nerve]], that long wandering nerve that runs from the brainstem through the throat and the heart and the gut. Vagal stimulation quiets the amygdala. It lifts the parasympathetic tone of the body. It restructures the field.
 
 Your breath is the way the cosmos enters your body, takes a brief lap around the temple, and quietly leaves.
 
@@ -121,7 +121,7 @@ Your breath is the way the cosmos enters your body, takes a brief lap around the
 
 **IV. PRITHVI**
 
-The last of the five elements is the one that the modern medical literature has finally caught up with. The earth element. The [[Microbiome|microbiome]].
+The last of the five elements is the one that the modern medical literature has finally caught up with. The earth element. The microbiome.
 
 For the longest time, the body was treated as a sterile container with foreign invaders to be repelled. Then, slowly, over the course of three quiet decades of patient research, the entire picture inverted. The bacteria that live inside your gut are residents. Permanent residents. Participants in the running of the household. They outnumber your own cells by some estimates. Their genetic material, taken together, outweighs your own genome by two orders of magnitude.
 
@@ -135,11 +135,11 @@ A micrometre below the intestinal lining sits eighty per cent of the entire huma
 
 Lining the surface of the intestine are endocrine glands that produce eighty per cent of the serotonin in your body and fifty per cent of the dopamine. The brain receives these signals second. The gut produces them first.
 
-The endocrine system has, in this new picture, become the entire body. Bones, once thought of as inert calcium scaffolding, are now known to release more than two hundred and seventy distinct hormones. [[Gerard Karsenty]] at Columbia University Medical Center identified one of them, [[Osteocalcin|osteocalcin]], a hormone secreted by bone that crosses the blood-brain barrier, modulates dopamine and serotonin synthesis, regulates insulin sensitivity, and even shapes testosterone production.
+The endocrine system has, in this new picture, become the entire body. Bones, once thought of as inert calcium scaffolding, are now known to release more than two hundred and seventy distinct hormones. Gerard Karsenty at Columbia University Medical Center identified one of them, osteocalcin, a hormone secreted by bone that crosses the blood-brain barrier, modulates dopamine and serotonin synthesis, regulates insulin sensitivity, and even shapes testosterone production.
 
 Your skeleton is talking to your mood.
 
-This is the fractal pattern that [[Benoit Mandelbrot]] pointed at, with his careful French elegance, while he was still alive. The pattern repeats itself from the smallest scale to the largest. The microbiome of your gut mirrors the microbiome of the soil around you. The pattern of an isolated cancer cell, viewed under a microscope, mirrors the pattern of a crowded megacity viewed from a passenger plane at thirty thousand feet. Both of them are choked clusters of dense activity that have stopped touching the green field around them. The same diseases. The same loss of communication. The same cancer of disconnection.
+This is the fractal pattern that Benoit Mandelbrot pointed at, with his careful French elegance, while he was still alive. The pattern repeats itself from the smallest scale to the largest. The microbiome of your gut mirrors the microbiome of the soil around you. The pattern of an isolated cancer cell, viewed under a microscope, mirrors the pattern of a crowded megacity viewed from a passenger plane at thirty thousand feet. Both of them are choked clusters of dense activity that have stopped touching the green field around them. The same diseases. The same loss of communication. The same cancer of disconnection.
 
 And here, finally, we arrive at the lie.
 
@@ -159,11 +159,11 @@ Think of these 22 amino acids as letters. From the 26 letters of the English alp
 
 When you ingest a protein shake, the body must first dismantle it before absorption. The molecule itself is too large to cross the intestinal wall whole. The body breaks the protein down, an energy-intensive process called catabolism, into its constituent amino acids. Only then can it use what it needs and excrete the rest.
 
-Excess amino acids get deaminated by the liver, converted into urea, and pissed out of the body. The kidneys handle the load. The mTOR pathway lights up. [[Autophagy]], the cellular self-cleaning process that the 2016 Nobel laureate [[Yoshinori Ohsumi]] described as the body's quiet digestion of its own damaged components, gets switched off.
+Excess amino acids get deaminated by the liver, converted into urea, and pissed out of the body. The kidneys handle the load. The mTOR pathway lights up. Autophagy, the cellular self-cleaning process that the 2016 Nobel laureate Yoshinori Ohsumi described as the body's quiet digestion of its own damaged components, gets switched off.
 
 Autophagy is what keeps you young.
 
-The longevity research has now become quite uncomfortable for the protein industry. [[Valter Longo]] at the University of Southern California, working over more than two decades, has shown that high protein intake in adults aged 50 to 65 increases overall mortality by 75 per cent and quadruples the risk of cancer death over an 18-year period. The [[Okinawa Study|Okinawa study]], the longest-running observational study of any long-lived human population on earth, has shown that traditional Okinawan diets contained roughly 9 per cent protein, and that these gentle island people produce five times more centenarians per capita than any other population we have ever counted.
+The longevity research has now become quite uncomfortable for the protein industry. Valter Longo at the University of Southern California, working over more than two decades, has shown that high protein intake in adults aged 50 to 65 increases overall mortality by 75 per cent and quadruples the risk of cancer death over an 18-year period. The Okinawa study, the longest-running observational study of any long-lived human population on earth, has shown that traditional Okinawan diets contained roughly 9 per cent protein, and that these gentle island people produce five times more centenarians per capita than any other population we have ever counted.
 
 In animal models, restricting protein by half extends lifespan. Doubling the protein shortens it.
 

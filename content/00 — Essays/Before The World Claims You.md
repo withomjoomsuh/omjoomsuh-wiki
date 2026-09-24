@@ -107,7 +107,7 @@ The Morning Mantras practice is not a solo meditation app. It is a live gatherin
 
 The mechanism is understood. Synchronous movement and sound create what researchers call *self-other merging*, a temporary dissolution of the rigid boundary between self and group. This is not mysticism. It is measurable neurologically and through pain threshold testing: people in synchronised groups demonstrate elevated pain tolerance, indicating endorphin release.
 
-The Indian tradition never separated the individual practice from the community practice. [[Satsang]], the company of truth-seekers, was considered not a supplement to individual sadhana but a condition for it. The isolation of practice is a modern invention. Its costs are becoming legible in the data.
+The Indian tradition never separated the individual practice from the community practice. Satsang, the company of truth-seekers, was considered not a supplement to individual sadhana but a condition for it. The isolation of practice is a modern invention. Its costs are becoming legible in the data.
 
 ---
 

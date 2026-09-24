@@ -9,7 +9,7 @@ author: Arjun
 
 *On moral ambition, the cost of knowing and not acting, and why winning is a duty.*
 
-In [[The Four Rooms of Talent|Part I]], we walked through four rooms of talent and named what holds people inside each one. The fourth room, where ambition and idealism meet, is the room the world needs. This article is about what it takes to enter it.
+In [[The Four Rooms Of Talent|Part I]], we walked through four rooms of talent and named what holds people inside each one. The fourth room, where ambition and idealism meet, is the room the world needs. This article is about what it takes to enter it.
 
 ## The Threshold for Action
 
@@ -27,7 +27,7 @@ The question moral ambition asks is simple. It is also the most uncomfortable qu
 
 ## What Holds Talented People in Place
 
-[[Jordan Peterson]], the Canadian psychologist whose work on meaning, responsibility, and the structure of human motivation has reached tens of millions, draws a distinction that cuts to the centre of this question. He separates the expedient from the meaningful. The expedient is comfortable, profitable, socially acceptable, and low-risk. The meaningful requires sacrifice, carries uncertainty, demands growth, and changes you.
+Jordan Peterson, the Canadian psychologist whose work on meaning, responsibility, and the structure of human motivation has reached tens of millions, draws a distinction that cuts to the centre of this question. He separates the expedient from the meaningful. The expedient is comfortable, profitable, socially acceptable, and low-risk. The meaningful requires sacrifice, carries uncertainty, demands growth, and changes you.
 
 Mozilo chose the expedient. So did Joseph Cassano, the head of AIG Financial Products, whose subordinates repeatedly warned him of catastrophic exposure in the derivatives market. Cassano responded by bullying them into silence. He dismissed every internal alarm with the same phrase: "It is very difficult to see how there can be any losses in these portfolios." AIG's eventual loss was ninety-nine billion dollars. Cassano's threshold for acting on what his own people were telling him was, apparently, higher than ninety-nine billion.
 

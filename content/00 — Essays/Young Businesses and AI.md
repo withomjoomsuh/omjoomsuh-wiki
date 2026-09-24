@@ -119,7 +119,7 @@ They stopped hiring young people because the work a company used to hand a begin
 
 All of it ends in the same place. You sit with a person long enough to feel what their day costs them, and then you build something for it.
 
-There is a word for that movement and it is [[Karuna|karuna]]. It is usually translated as compassion, which in English has picked up a flavour of charity, of the comfortable person feeling something on behalf of the uncomfortable one. The Sanskrit means something firmer. Karuna begins with recognition, with the distance collapsing between your situation and theirs, and it rests on understanding that the trouble in front of you is the same kind of trouble as your own, happening to the same kind of creature. It is [[Vasudhaiva Kutumbakam]] applied to a customer.
+There is a word for that movement and it is karuna. It is usually translated as compassion, which in English has picked up a flavour of charity, of the comfortable person feeling something on behalf of the uncomfortable one. The Sanskrit means something firmer. Karuna begins with recognition, with the distance collapsing between your situation and theirs, and it rests on understanding that the trouble in front of you is the same kind of trouble as your own, happening to the same kind of creature. It is [[Vasudhaiva Kutumbakam]] applied to a customer.
 
 When a company pays seven hundred and eighty-five thousand dollars for somebody to go and sit with a customer, that is what it is buying. Not intelligence. Not output. The ability of one person to be affected by another person's difficulty, accurately, from close by, for long enough to do something about it.
 
@@ -137,7 +137,7 @@ It has stopped standing in. Everything that came after it is now free, and there
 
 ## Related
 
-[[Karuna]] · [[Vasudhaiva Kutumbakam]] · [[Yogic UX]] · [[Four Dharmas]] · [[Sanatan Dharma]] · [[The Three 3.0s]] · [[No Bank Would Lend His Father Two Lakh Rupees]] · [[The Four Rooms Of Talent]] · [[Of All The Things, He Chose That One]]
+Karuna · [[Vasudhaiva Kutumbakam]] · [[Yogic UX]] · [[Four Dharmas]] · [[Sanatan Dharma]] · [[The Three 3.0s]] · [[No Bank Would Lend His Father Two Lakh Rupees]] · [[The Four Rooms Of Talent]] · [[Of All The Things, He Chose That One]]
 
 ## Sources
 

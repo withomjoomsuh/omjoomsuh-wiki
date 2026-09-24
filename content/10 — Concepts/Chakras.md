@@ -49,7 +49,7 @@ The chakras ascend the spinal axis from the base to the crown. Each is symbolise
 | 6   | **[[Ajna]]**           | Two-petalled silver-grey            | Mid-eyebrow centre (*bhrumadhya*)                    |
 | 7   | **[[Sahasrara]]**               | One thousand-petalled multicoloured | Crown of the head                                    |
 
-Each chakra combines six aspects in tantric meditation: the chakra colour, the petals of the lotus, the yantra (geometrical shape), the *[[Bija Mantra|bija mantra]]*, the animal symbol, and the higher or divine being who presides over it.
+Each chakra combines six aspects in tantric meditation: the chakra colour, the petals of the lotus, the yantra (geometrical shape), the *bija mantra*, the animal symbol, and the higher or divine being who presides over it.
 
 The animals represent the practitioner's previous evolution — the instinctual stages of consciousness already moved through. The divine beings represent higher consciousness toward which the practitioner is evolving. The lotus itself, as a symbol, carries the three stages of spiritual life: the seed in the mud (ignorance), the stem rising through the water (aspiration and endeavour), and the bloom opening into the air and direct light of the sun (illumination).
 
@@ -79,7 +79,7 @@ There are three *granthis* (psychic knots) in the body which are obstacles on th
 
 **Vishnu granthi** operates in the region of *Anahata*. It is associated with the bondage of emotional attachment — attachment to people, to inner psychic visions, to relationships. It is connected with *[[Rajas|rajas]]* — passion, ambition, assertiveness. To transcend Vishnu granthi is to release attachment to the heart's preferences as the centre of identity.
 
-**Rudra granthi** functions in the region of *Ajna*. It is associated with attachment to *[[Siddhis|siddhis]]* (psychic powers), psychic phenomena, and the concept of ourselves as separate individuals. To transcend Rudra granthi, one must surrender the sense of individual ego and transcend duality to make further spiritual progress.
+**Rudra granthi** functions in the region of *Ajna*. It is associated with attachment to *siddhis* (psychic powers), psychic phenomena, and the concept of ourselves as separate individuals. To transcend Rudra granthi, one must surrender the sense of individual ego and transcend duality to make further spiritual progress.
 
 The three granthis are not gates to be passed once. They are knots to be loosened repeatedly across the arc of a sadhana. Most practitioners encounter Brahma granthi first, work with it for years, and only then begin to notice Vishnu granthi. Rudra granthi is the most subtle and the hardest to release, because the very *I* that would release it is the thing being released.
 
@@ -107,7 +107,7 @@ As consciousness evolves toward Sahasrara, outer experiences come our way in lif
 
 **Above Sahasrara** are the *lokas* — higher dimensions of divine consciousness. So Mooladhara is the highest chakra in animal evolution and the first chakra in human evolution. Sahasrara is the highest point in human evolution and the first step in the highest divine evolution.
 
-The three phases of evolution map onto the three [[Gunas|gunas]]: through the animal stages, consciousness was influenced by *[[Tamas|tamas]]* (the tamasic phase, where instinct, sleep, fear, and procreation dominate). From Mooladhara onward, the practitioner enters the *[[Rajas|rajasic]]* phase of evolution. From Sahasrara onward, the *[[Sattva|sattwic]]* phase of evolution begins.
+The three phases of evolution map onto the three [[Guna|gunas]]: through the animal stages, consciousness was influenced by *[[Tamas|tamas]]* (the tamasic phase, where instinct, sleep, fear, and procreation dominate). From Mooladhara onward, the practitioner enters the *[[Rajas|rajasic]]* phase of evolution. From Sahasrara onward, the *[[Sattva|sattwic]]* phase of evolution begins.
 
 Up to Mooladhara, evolution is *spontaneous and self-propelled*. Animals do not have to practise pranayama and [[Japa|japa]] yoga. They do not have to find a guru, take sannyasa, become disciples. Nature controls them completely; nature is benevolently responsible for every phase of their evolution. However, once kundalini reaches Mooladhara — once the human being is born — evolution is no longer spontaneous. The human being is no longer subject to the laws of nature in the way animals are. He has awareness of time and space, an ego, double awareness (he can think, and he can know that he is thinking, and he can know that he knows that he is thinking).
 
@@ -121,7 +121,7 @@ When the *shakti* (kundalini energy) awakens in Mooladhara, it cannot rise immed
 
 Stagnation in a chakra only occurs when there is an obstruction in *[[Sushumna|sushumna]]* (the central spinal channel) or one of the chakras. Kundalini can remain in one chakra for many years, or even for a whole lifetime.
 
-When kundalini gets blocked in a chakra during transit, the practitioner begins to exhibit some of the *siddhis* (psychic powers) associated with that chakra. This is dangerous — at that time the practitioner may not have self-control and may not understand the fact that she is only *on the road*, not at her destination. The temptation to display siddhis clouds the practitioner in a thick veil of *[[Maya|maya]]* and hinders further progress.
+When kundalini gets blocked in a chakra during transit, the practitioner begins to exhibit some of the *siddhis* (psychic powers) associated with that chakra. This is dangerous — at that time the practitioner may not have self-control and may not understand the fact that she is only *on the road*, not at her destination. The temptation to display siddhis clouds the practitioner in a thick veil of *maya* and hinders further progress.
 
 The key practical instruction in Chapter 16 is the method by which a practitioner can *discover her own point of evolution*. Some of the lower chakras may already be functioning without our knowledge. We are all at different levels on the scale of evolution, and therefore it may not be necessary to start the process of awakening from Mooladhara. The whole concept is *explained* as if kundalini begins at Mooladhara, but due to progress in previous lives, or to the sadhana that one's mother or father may have done, the practitioner may have been born with the kundalini already in Manipura, or even Anahata.
 
@@ -200,11 +200,11 @@ The chakra cluster, as it sits in this wiki and as it will grow:
 - [[Nadis]] — the energy channels that intersect at the chakras
 - [[Sushumna]] — the central channel through which kundalini rises
 - [[Prana]] — the energy substrate the chakras operate on
-- [[Granthis]] — the three psychic knots (Brahma, Vishnu, Rudra) at Mooladhara, Anahata, Ajna
-- [[Kshetram]] — the front-of-body trigger points reflecting the chakras
-- [[Bija Mantra]] — the seed sounds associated with each chakra
-- [[Siddhis]] — the psychic powers associated with awakened chakras
-- [[Maya]] — the veil of ignorance the granthis represent
+- Granthis — the three psychic knots (Brahma, Vishnu, Rudra) at Mooladhara, Anahata, Ajna
+- Kshetram — the front-of-body trigger points reflecting the chakras
+- Bija Mantra — the seed sounds associated with each chakra
+- Siddhis — the psychic powers associated with awakened chakras
+- Maya — the veil of ignorance the granthis represent
 - [[Kriya Yoga]] — the practical system that engages the chakras through their kshetrams
 - [[Pranayama]] — the breath practices that awaken the chakras through the nadis
 - [[Guna|Gunas]], [[Sattva]], [[Rajas]], [[Tamas]] — the three modes through which evolution moves

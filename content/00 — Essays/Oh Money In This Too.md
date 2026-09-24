@@ -51,13 +51,13 @@ When you pay for a meal that harms you, you are a consumer. When you support a S
 
 ## The Exchange
 
-In our tradition, [[Dakshina]] was never about the amount. It was about the gravity of the commitment. The Gita names this in the third chapter: [[Yajna]], purposeful offering, is the original architecture of exchange. The cycle nourishes both the giver and the receiver. Every exchange outside that spirit becomes extraction. Every exchange within it becomes abundance. This is Shubh Labh. This is what this mission operates on.
+In our tradition, Dakshina was never about the amount. It was about the gravity of the commitment. The Gita names this in the third chapter: [[Yajna]], purposeful offering, is the original architecture of exchange. The cycle nourishes both the giver and the receiver. Every exchange outside that spirit becomes extraction. Every exchange within it becomes abundance. This is Shubh Labh. This is what this mission operates on.
 
 The first step of this mission is to reach the next woman whose world is closing in on her. The second is to reach the next family, the next professional who has been climbing the right ladder in the wrong building. Every rupee that enters this mission is fuel for that reach. Fuel, offered in service.
 
 And this mission has given away what it could have charged for.
 
-We have gone into two residential schools, one in Karnataka and one in Himachal Pradesh, and spent ten consecutive days sitting with children on the floor: no stage, no fee, no receipt. We hold space for people who are terminally ill, because a person standing at the edge of their own life deserves to know that their tradition held answers long before the hospital entered the room. Students come to this Sadhana without financially supporting it. This is [[Sewa]]. And sewa costs everything. It simply does not ask for money in return.
+We have gone into two residential schools, one in Karnataka and one in Himachal Pradesh, and spent ten consecutive days sitting with children on the floor: no stage, no fee, no receipt. We hold space for people who are terminally ill, because a person standing at the edge of their own life deserves to know that their tradition held answers long before the hospital entered the room. Students come to this Sadhana without financially supporting it. This is Sewa. And sewa costs everything. It simply does not ask for money in return.
 
 ---
 

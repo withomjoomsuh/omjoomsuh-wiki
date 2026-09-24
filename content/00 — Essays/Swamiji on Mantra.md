@@ -67,7 +67,7 @@ Patañjali, in his shortest definition of the path, calls this preparatory yoga 
 
 *To free oneself from the mind. When the same thought keeps coming to your mind one after the other, when you keep on ruminating and it makes you uncomfortable, this is called a state of* worry. *To extract yourself from this process — this is what mantra is.*
 
-This definition itself is from the Tantric corpus, found in the [[Kularnava Tantra|Kulārṇava Tantra]]: *mananāt trāyate yasmāt tasmāt mantra iti smṛtaḥ* — "because it protects the one who reflects upon it, it is therefore called mantra."[^6] The two roots are मनन ([[Manas|manana]], sustained reflection or holding-in-mind) and त्राण (trāṇa, protection, deliverance). A mantra is, by its own etymology, a sound that delivers the one who holds it.
+This definition itself is from the Tantric corpus, found in the Kulārṇava Tantra: *mananāt trāyate yasmāt tasmāt mantra iti smṛtaḥ* — "because it protects the one who reflects upon it, it is therefore called mantra."[^6] The two roots are मनन ([[Manas|manana]], sustained reflection or holding-in-mind) and त्राण (trāṇa, protection, deliverance). A mantra is, by its own etymology, a sound that delivers the one who holds it.
 
 *You might not be knowing something. In the state of wakefulness, how many thoughts do you get in a day? Close to fifty to sixty thousand. And all these thoughts are not all in the conscious mind. Only some of them surface on the conscious mind. But the ripples that you see on the surface of the lake are a resultant of some inner cause, and those ripples are very different. Look at the ocean, how the inner waves are different from what you see on the shore. In a similar fashion, you are only aware of those thoughts that come up to the surface, and they force you to think on them. But at the level of the subconscious or the unconscious mind, thousands and thousands of thoughts come to you.*
 
@@ -91,7 +91,7 @@ The [[Yoga Sutras|Yoga Sūtra]] opens its very first definitional chapter with t
 
 *Because you do not have to think anything in this state.*
 
-This is among the most quietly profound things Swamiji said that evening. The [[Mundaka Upanishad|Muṇḍaka Upaniṣad]] enjoins — *tad-vijñānārthaṃ sa gurum evābhigacchet* — "for the knowledge of That, one must approach a teacher."[^10] And the [[Shvetashvatara Upanishad|Śvetāśvatara Upaniṣad]] ends with the verse on which the entire guru-śiṣya tradition rests: *yasya deve parā bhaktiḥ yathā deve tathā gurau / tasyaite kathitā hyarthāḥ prakāśante mahātmanaḥ* — "to the great soul who has supreme devotion to the Divine, and as much devotion to the guru as to the Divine, the meanings of these teachings shine forth."[^11] To enter the state of śiṣyatva is to set down, even briefly, the apparatus of one's own thinking. The mantra received from such a teacher is not a personal possession; it is a thread that runs back through the lineage to the silence from which it first arose.
+This is among the most quietly profound things Swamiji said that evening. The Muṇḍaka Upaniṣad enjoins — *tad-vijñānārthaṃ sa gurum evābhigacchet* — "for the knowledge of That, one must approach a teacher."[^10] And the Śvetāśvatara Upaniṣad ends with the verse on which the entire guru-śiṣya tradition rests: *yasya deve parā bhaktiḥ yathā deve tathā gurau / tasyaite kathitā hyarthāḥ prakāśante mahātmanaḥ* — "to the great soul who has supreme devotion to the Divine, and as much devotion to the guru as to the Divine, the meanings of these teachings shine forth."[^11] To enter the state of śiṣyatva is to set down, even briefly, the apparatus of one's own thinking. The mantra received from such a teacher is not a personal possession; it is a thread that runs back through the lineage to the silence from which it first arose.
 
 **VI. Mantra and the Cakras — A Sādhanā, Not a Religion**
 
@@ -159,7 +159,7 @@ If a single thing is to be carried away from this discourse, perhaps it is this:
 
 [^5]: *[[Bhagavad Gita|Bhagavad Gītā]]* 10.25.
 
-[^6]: *[[Kularnava Tantra|Kulārṇava Tantra]]* 17.54. The fuller verse — *mananāt trāyate yasmāt tasmāt mantra iti smṛtaḥ* — is among the most quoted definitions of mantra across the Tantric and Vedantic literature.
+[^6]: *Kulārṇava Tantra* 17.54. The fuller verse — *mananāt trāyate yasmāt tasmāt mantra iti smṛtaḥ* — is among the most quoted definitions of mantra across the Tantric and Vedantic literature.
 
 [^7]: The standard enumeration of the *[[Shadripus|ṣaḍripu]]* in the Vedantic and Purāṇic tradition is *kāma* (lust/craving), *krodha* (anger), *lobha* (greed), *moha* (delusion/over-attachment), *mada* (pride/arrogance), and *mātsarya* (envy/jealousy). Swamiji's listing — arrogance and false pride, jealousy and envy, craving, anger, over-attachment — maps directly onto this classical set.
 
@@ -167,9 +167,9 @@ If a single thing is to be carried away from this discourse, perhaps it is this:
 
 [^9]: *Yoga Sūtra* 1.2 and 1.3.
 
-[^10]: *[[Mundaka Upanishad|Muṇḍaka Upaniṣad]]* 1.2.12: *tad-vijñānārthaṃ sa gurum evābhigacchet samit-pāṇiḥ śrotriyaṃ brahma-niṣṭham* — "for the knowledge of That, he should approach a teacher, fuel-stick in hand, learned in the scriptures and established in Brahman."
+[^10]: *Muṇḍaka Upaniṣad* 1.2.12: *tad-vijñānārthaṃ sa gurum evābhigacchet samit-pāṇiḥ śrotriyaṃ brahma-niṣṭham* — "for the knowledge of That, he should approach a teacher, fuel-stick in hand, learned in the scriptures and established in Brahman."
 
-[^11]: *[[Shvetashvatara Upanishad|Śvetāśvatara Upaniṣad]]* 6.23.
+[^11]: *Śvetāśvatara Upaniṣad* 6.23.
 
 [^12]: For the standard chakra-bījas, see the *Ṣaṭ-Cakra-Nirūpaṇa* of Pūrṇānanda (sixteenth century), translated and discussed by Sir John Woodroffe in *The Serpent Power*. For the [[Bihar School of Yoga|Bihar School]]'s exposition of mantra and its correspondences in the body, see [[Swami Satyananda Saraswati]], *Kuṇḍalinī Tantra*, and [[Swami Niranjanananda Saraswati]], *Prāṇa and Prāṇāyāma*.
 

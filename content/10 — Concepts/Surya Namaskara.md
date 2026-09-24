@@ -134,7 +134,7 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 ## Position 1 — Pranamasana (Prayer Pose)
 
-![[SN-01-Pranamasana.png|200]]
+!200
 
 **At a glance** · Breath: **exhale** · Sun mantra: *Om Mitraya Namaha* · Bija: *Om Hraam* · Concentration: heart centre, [[Anahata]]
 
@@ -152,7 +152,7 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 ## Position 2 — Hasta Utthanasana (Raised Arms Pose)
 
-![[SN-02-Hasta-Utthanasana.png|200]]
+!200
 
 **At a glance** · Breath: **inhale** · Sun mantra: *Om Ravaye Namaha* · Bija: *Om Hreem* · Concentration: neck centre, [[Vishuddhi]]
 
@@ -170,7 +170,7 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 ## Position 3 — Padahastasana (Hand-to-Foot Pose)
 
-![[SN-03-Padahastasana.png|200]]
+!200
 
 **At a glance** · Breath: **exhale** · Sun mantra: *Om Suryaya Namaha* · Bija: *Om Hroom* · Concentration: base of spine, [[Swadhisthana]]
 
@@ -188,7 +188,7 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 ## Position 4 — Ashwa Sanchalanasana (Equestrian Pose)
 
-![[SN-04-Ashwa-Sanchalanasana.png|200]]
+!200
 
 **At a glance** · Breath: **inhale** · Sun mantra: *Om Bhanave Namaha* · Bija: *Om Hraim* · Concentration: eyebrow centre, [[Ajna]]
 
@@ -206,7 +206,7 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 ## Position 5 — Parvatasana (Mountain Pose)
 
-![[SN-05-Parvatasana.png|200]]
+!200
 
 **At a glance** · Breath: **exhale** · Sun mantra: *Om Khagaya Namaha* · Bija: *Om Hraum* · Concentration: neck centre, [[Vishuddhi]]
 
@@ -224,7 +224,7 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 ## Position 6 — Ashtanga Namaskara (Salute With Eight Parts)
 
-![[SN-06-Ashtanga-Namaskara.png|200]]
+!200
 
 **At a glance** · Breath: **retain (hold the exhalation)** · Sun mantra: *Om Pushne Namaha* · Bija: *Om Hrah* · Concentration: behind the navel, [[Manipura]]
 
@@ -242,7 +242,7 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 ## Position 7 — Bhujangasana (Cobra Pose)
 
-![[SN-07-Bhujangasana.png|200]]
+!200
 
 **At a glance** · Breath: **inhale** · Sun mantra: *Om Hiranya Garbhaya Namaha* · Bija: *Om Hraam* · Concentration: base of spine, [[Swadhisthana]]
 
@@ -260,7 +260,7 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 ## Position 8 — Parvatasana (Mountain Pose)
 
-![[SN-08-Parvatasana.png|200]]
+!200
 
 **At a glance** · Breath: **exhale** · Sun mantra: *Om Marichaye Namaha* · Bija: *Om Hreem* · Concentration: neck centre, [[Vishuddhi]]
 
@@ -272,7 +272,7 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 ## Position 9 — Ashwa Sanchalanasana (Equestrian Pose)
 
-![[SN-09-Ashwa-Sanchalanasana.png|200]]
+!200
 
 **At a glance** · Breath: **inhale** · Sun mantra: *Om Adityaya Namaha* · Bija: *Om Hroom* · Concentration: eyebrow centre, [[Ajna]]
 
@@ -284,7 +284,7 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 ## Position 10 — Padahastasana (Hand-to-Foot Pose)
 
-![[SN-10-Padahastasana.png|200]]
+!200
 
 **At a glance** · Breath: **exhale** · Sun mantra: *Om Savitre Namaha* · Bija: *Om Hraim* · Concentration: base of spine, [[Swadhisthana]]
 
@@ -296,7 +296,7 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 ## Position 11 — Hasta Utthanasana (Raised Arms Pose)
 
-![[SN-11-Hasta-Utthanasana.png|200]]
+!200
 
 **At a glance** · Breath: **inhale** · Sun mantra: *Om Arkaya Namaha* · Bija: *Om Hraum* · Concentration: neck centre, [[Vishuddhi]]
 
@@ -308,7 +308,7 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 ## Position 12 — Pranamasana (Prayer Pose)
 
-![[SN-12-Pranamasana.png|200]]
+!200
 
 **At a glance** · Breath: **exhale** · Sun mantra: *Om Bhaskaraya Namaha* · Bija: *Om Hrah* · Concentration: heart centre, [[Anahata]]
 

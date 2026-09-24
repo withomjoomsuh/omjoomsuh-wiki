@@ -129,7 +129,7 @@ You have all three. Do not take as long as he did.
 
 ## Related
 
-[[Shubh Labh]] · [[Purusharthas]] · [[Four Dharmas]] · [[Kama]] · [[Sanatan Dharma]] · [[Oh Money In This Too]] · [[Young Businesses and AI]] · [[The Three 3.0s]] · [[The Fourth Room]]
+Shubh Labh · [[Purusharthas]] · [[Four Dharmas]] · [[Kama]] · [[Sanatan Dharma]] · [[Oh Money In This Too]] · [[Young Businesses and AI]] · [[The Three 3.0s]] · [[The Fourth Room]]
 
 ## Sources
 
