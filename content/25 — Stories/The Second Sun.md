@@ -23,4 +23,4 @@ They are set far from India. What happens in them happens in every home. A mothe
 - [[The Fold]]. Part II. On his first night in Hiroshima the same boy dreams he is a banker, from the bubble years in Osaka to the last page of his working life. About 25 minutes.
 - [[The Shape]]. Part III. The boy, grown up and awake in 2050, cares for his father in a Japan that a machine can switch off for a night. About 16 minutes.
 
-Read them in order. Each part ends with a few threads into the practice, for anyone who wants to follow them.
+Read them in order. Each part ends with an epilogue that names the patterns underneath the story, the grief, the guilt and the things left unsaid, and links each one to the pages where the tradition speaks to it.

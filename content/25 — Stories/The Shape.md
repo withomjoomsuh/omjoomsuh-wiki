@@ -177,12 +177,22 @@ I looked back at the baby.
 
 ---
 
-## Threads
+## Epilogue
 
-- [[Vasudhaiva Kutumbakam]]
-- [[Karma Yoga]]
-- [[Pancha Kosha]]
-- [[Buddhi]]
-- [[Why a second child began to feel too expensive]]
+*What the story carries underneath, and where the practice meets it.*
+
+This story is set in the future, and its wounds are already familiar. Below are the patterns underneath, each with the pages on this wiki where the tradition speaks to it.
+
+**Loneliness for sale.** Riku pays every month for Hana, and on the top plan she remembers everything. "She says it every night. I pay for that." Japan appointed a minister for loneliness in 2021. [[Kama]], desire, can be answered without being met. The [[Pancha Kosha|five sheaths]] describe a person in layers, and the tradition would say that company bought by the month, however warm, stays at the outer ones. Being seen every morning by people who are not paid to see you is a small, old remedy. [[The Door]] says the rest.
+
+**The parent who needs bathing.** The robot lifts the father, and only Anju may wash him. "The machine's hands are always the same temperature. Hers aren't." Caring for an ageing parent is one of the oldest forms of [[Seva|seva]], and for a householder it is often the main one. [[Karma Yoga]] treats the work itself as the field of practice. Letting others help matters too. The father lets Anju in, and in the end that is how he talks.
+
+**Belonging, and the stranger.** Anju's balloon is in Malayalam, and Minato, who has read everyone's for thirty-five years, cannot read hers. On Sundays a van tells the river road that Japan belongs to the Japanese. [[Vasudhaiva Kutumbakam]] says the world is one family. The story's version is simpler. In the kitchen at five in the morning he finds he does not need to read her balloon: "Her face said it well enough."
+
+**What comes back.** A man from Hamamatsu, paid to leave Japan, says at the bank door that the code of Hammurabi will prevail. Hammurabi's law is an eye for an eye, enforced by a king. [[Karma]], as the tradition describes it, needs no king. An act lays down an impression, and the impression shapes what returns. The father's balloon says *I'm sorry* long before his mouth does. When he finally talks all night and the two match, that is [[Satya|satya]], late and whole.
+
+**What still works by hand.** For one night the machines stop. The trams run, the rice cookers keep the rice warm, and a baby is born by hand. The practices of this tradition need nothing plugged in: the breath, a mantra, the body, a meal cooked at home. [[Sadhana]] is the name for keeping some of them every day, so that they are still there on the night everything else stops.
+
+*Nothing here is a treatment. If one of these patterns is close to your own life, speak to a teacher, or to someone trained to help.*
 
 *Part III of [[The Second Sun]]. Before: [[The Fold]].*

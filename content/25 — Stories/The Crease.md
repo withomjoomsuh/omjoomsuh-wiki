@@ -175,16 +175,22 @@ Before anyone saw, I went back and put the crane on Mei's pillow, while she was 
 
 ---
 
-## Threads
+## Epilogue
 
-- [[Samskaras]]
-- [[Sattva]]
-- [[Tamas]]
-- [[Sadhana]]
-- [[Yoga Nidra]]
-- [[Annamaya Index]]
-- [[Pancha Kosha]]
-- [[The Original Yoga Nidra]]
-- [[You Are Not Unfit. You Are Underfed.]]
+*What the story carries underneath, and where the practice meets it.*
+
+Every life in this story is shaped by something it could not say. Below are the patterns underneath, named plainly, each with the pages on this wiki where the tradition speaks to it.
+
+**Grief with nowhere to go.** The boy searches the burned city for his mother for six days, and he and his father stop on the seventh without saying so. "Both of us kept that sadness stacked in our drawers for years." The yoga tradition has a word for what happens to an experience that is never lived through. It becomes a [[Samskaras|samskara]], an impression pressed into [[Chitta|chitta]], the mind's store, and from there it keeps shaping reactions. The tradition's answer is slow. A daily practice quiets the mind enough for what was stored to rise a little at a time. Swami Satyananda built [[Yoga Nidra]] to reach that layer.
+
+**Survivor's guilt.** After the bomb the heron asks one question, for years: "Why you." Robert Jay Lifton, who interviewed Hiroshima survivors in the 1960s, called this death guilt. Patanjali lists the clinging to life, *abhinivesha*, among the five [[Kleshas|kleshas]], the roots of suffering, and says it is found even in the wise. The story never answers the question. What quiets it is work done for someone else. The noodles are made for a boy counting coins in a queue, and the heron stops asking on the morning the first box leaves the shed. That is [[Karma Yoga|karma yoga]] and [[Seva|seva]], action offered outward.
+
+**Two kinds of quiet.** At the batting plate the boy's head goes still and he is wide awake. At the lathe it goes still and he is barely there, "and I am not proud of how much I liked that quiet." The first is [[Sattva|sattva]], clear and light. The second is [[Tamas|tamas]], heavy and dull, close to the numbing Lifton saw in survivors. From the inside both feel like peace. One practical test: after sattvic quiet you are more present to the people around you, and after tamasic quiet you are less.
+
+**A mind full of questions.** The questions arrive "like mice into a house in winter", and a report card says he lacks spirit. Patanjali defines yoga as the stilling of the movements of [[Chitta|chitta]]. Mrs. Kinoshita's way is the way of [[Sadhana|sadhana]]: make a crease, ask it, and come back every week. Questions held in busy hands, at a regular hour, stop sounding like accusations.
+
+**Food that answers fear.** The noodles are born from a black-market queue and a hungry boy, out of real compassion. Sixty years later the same invention feeds people who are short of time. The tradition counts food as the first of the [[Pancha Kosha|five sheaths]], the one every other layer stands on. It is worth noticing which of your own meals come from care and which come from hurry. The [[Annamaya Index]] and the essay [[You Are Not Unfit. You Are Underfed.]] take this further.
+
+*Nothing here is a treatment. If one of these patterns is close to your own life, speak to a teacher, or to someone trained to help.*
 
 *Part I of [[The Second Sun]]. Next: [[The Fold]].*

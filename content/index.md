@@ -76,6 +76,7 @@ Below is every page, in four groups. Essays are the long pieces. Stories are fic
 - [[Bihar School of Yoga]]: the lineage and global authority on yoga and Samkhya that OMJOOMSUH translates from.
 - [[Buddhi]]: the discriminating intellect, the faculty of judgment in Samkhya psychology.
 - [[Chakras]]: the subtle-body energy centres along the spinal axis.
+- [[Chitta]]: the mind-stuff, and the store where every experience leaves its trace.
 - [[Cortisol Awakening Response]]: the sharp rise in cortisol in the first forty-five minutes after waking; what the evidence supports, and what it does not.
 - [[Dashanami Sannyasa Parampara]]: the ten monastic orders of Adi Shankaracharya's tradition.
 - [[Dharma]]: what holds a thing in its place and keeps it being what it is; the first of the four aims of a life.
@@ -84,11 +85,14 @@ Below is every page, in four groups. Essays are the long pieces. Stories are fic
 - [[Guna]]: the three strands out of which all of nature is woven; the parent of sattva, rajas and tamas.
 - [[HBSC|The Health Balance Score Card]]: a yogic reading of your energy centres read together with your blood-work, naming what asks the loudest.
 - [[Kama]]: desire; one of the four purusharthas and a force in the inner life.
+- [[Karma]]: action and its consequence, held together in one word.
 - [[Karma Yoga]]: the discipline of acting without holding on to what the action will produce.
+- [[Kleshas]]: the five afflictions Patanjali names as the roots of suffering.
 - [[Mahamrityunjaya]]: the great death-conquering mantra to Shiva.
 - [[Manas]]: the sensory-processing mind in Samkhya psychology.
 - [[Mantra Diksha]]: formal initiation into a mantra by the guru.
 - [[Metabolic Flexibility]]: the body's capacity to switch fuel sources; a bridge concept to modern physiology.
+- [[Mouna]]: silence kept on purpose, and the Bihar School practice of inner silence.
 - [[Nadis]]: the channels through which prana flows in the subtle body.
 - [[Pancha Kosha]]: the five sheaths that layer from body to bliss.
 - [[Pancha Prana]]: the five vital airs that govern bodily function.
@@ -105,6 +109,8 @@ Below is every page, in four groups. Essays are the long pieces. Stories are fic
 - [[Sankalpa]]: a resolve or intention set in practice.
 - [[Saraswati Order]]: the knowledge-conservation lineage Arjun is initiated into.
 - [[Sattva]]: the guna of clarity, harmony, and light.
+- [[Satya]]: truthfulness, where thought, speech and action line up.
+- [[Seva]]: service given without asking for anything in return.
 - [[Shadripus]]: the six inner enemies (lust, anger, greed, delusion, pride, envy).
 - [[Shakti]]: power as a principle; the active, generative side of reality, and the Goddess addressed by name in the morning chant.
 - [[Shraddha]]: faith grounded in conviction and practice.

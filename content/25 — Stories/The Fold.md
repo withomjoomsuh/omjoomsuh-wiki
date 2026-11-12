@@ -227,15 +227,22 @@ Mei came in rubbing her eyes, looked over his shoulder, and asked why it was emp
 
 ---
 
-## Threads
+## Epilogue
 
-- [[Manas]]
-- [[Buddhi]]
-- [[Dharma]]
-- [[Sankalpa]]
-- [[Samskaras]]
-- [[Shadripus]]
-- [[Oh Money In This Too]]
-- [[The Self That Must Be Chosen]]
+*What the story carries underneath, and where the practice meets it.*
+
+Under the bubble, the bonds and the balloons, this is a story about a man who never said what he meant. Below are the patterns underneath, each with the pages on this wiki where the tradition speaks to it.
+
+**The empty balloon.** From the age of ten Minato can read what everyone else means, and above his own head the balloon stays empty: "Whatever I really thought, I could not find the words for it." Japan has two words for this gap, *tatemae* and *honne*, the face shown and the feeling kept. The yoga tradition has two pages on it. [[Satya]], truthfulness, asks that speech and thought line up, and the Gita adds that true speech should not wound. [[Mouna]], silence, is valued when it is chosen. Minato's silence was never chosen. He swallowed it. A small practice: say one true thing a day that you would normally keep back, and say it gently. And sit in *antar mouna*, inner silence, long enough to hear what you actually think.
+
+**Complicity.** He buys the bonds by the billion and rules a line under each day's total. "I had held the jug." On the last page the seven pictures say what he never did: "every time I had said yes and meant something else." Psychologists call this moral injury, the harm a person carries from acts they took part in against their own sense of right. The tradition's word is [[Karma]]. Every act leaves a trace in the one who does it, with or without orders. [[Karma Yoga]] is about how to hold action so that it binds less. The evening review described in [[Offerings|What OMJOOMSUH Offers]] is a practical start: look back at the day as it actually felt, without defending it.
+
+**The life put in a carton.** The old noodle maker hands back his son's notebook without a word. The real father packs his own drawings into a carton marked BOOKS and takes the bank job, because "in those years you didn't say no to a job." The Gita says it is better to do one's own [[Dharma|dharma]] imperfectly than another's well. A [[Sankalpa|sankalpa]], a resolve, can be picked up late. The ruler comes out again when the banker is fifty-one, at the well. If you have a carton of your own, twenty minutes a week with what is in it counts. The essays [[The Self That Must Be Chosen]] and [[The Four Rooms Of Talent]] go further.
+
+**Shutting the door.** Kenji misses the one door into a job and closes the door of his room for ten years. Japan calls it hikikomori. He comes out with a shovel and a sketchbook, digging strangers' houses out of the mud after the tsunami, and drawing the people beside him. The tradition would recognise that way back. [[Seva]], service with the hands, often opens a door that talking cannot. [[Vasudhaiva Kutumbakam]], the world as one family, is the principle against isolation.
+
+**Grief that started before you.** The banker remembers searching for his mother "further back than my own life", and his father's balloon says *We had no choice.* Some patterns arrive in a family before anyone alive can say why. Researchers have reported possible biological traces of trauma in the children of survivors, though the findings are still argued over. Patanjali teaches that [[Samskaras|samskaras]] carry across the gaps of time and place. Naming a pattern you inherited is where working with it begins.
+
+*Nothing here is a treatment. If one of these patterns is close to your own life, speak to a teacher, or to someone trained to help.*
 
 *Part II of [[The Second Sun]]. Before: [[The Crease]]. Next: [[The Shape]].*
