@@ -81,6 +81,8 @@ To join the next batch, go to **app.omjoomsuh.com** and register. Your name, you
 
 If you would rather read first, the essays are at [[Essays|The Essays]]. If you want to look up a word or an idea, the reference pages are listed on the [[index|home page]].
 
+The tradition has always taught through stories too. [[The Second Sun]] is three of them, set far from India.
+
 If you want to ask a person before deciding anything, WhatsApp **+91 96670 25649**.
 
 *Hari Om Tat Sat.*

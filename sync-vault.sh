@@ -32,7 +32,7 @@ echo "Vault verified: $VAULT_MD_COUNT markdown files found. Proceeding with sync
 find "$CONTENT" -mindepth 1 -delete 2>/dev/null || true
 
 # Copy included folders
-for folder in "00 — Essays" "10 — Concepts" "20 — People"; do
+for folder in "00 — Essays" "10 — Concepts" "20 — People" "25 — Stories"; do
   if [ -d "$VAULT/$folder" ]; then
     cp -r "$VAULT/$folder" "$CONTENT/$folder"
   fi

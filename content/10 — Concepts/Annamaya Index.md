@@ -63,3 +63,7 @@ The next morning, as a warm, personal message at a time she expects it, never a 
 The Annamaya Index is the body and nutrition layer of OMJOOMSUH, alongside the morning mantra practice and the NEEV programme for women in the years of hormonal change. It is one part of a single picture: the body, the breath, the mind, and the meaning, cared for together.
 
 *A methodology by OMJOOMSUH.*
+
+## In the stories
+
+- [[The Crease]]: the night instant noodles were invented, out of a queue for one bowl.

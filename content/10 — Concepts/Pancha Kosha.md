@@ -129,6 +129,11 @@ This is not religion and it is not metaphysics. It is a phenomenological descrip
 
 ---
 
+## In the stories
+
+- [[The Crease]]: noodles made for frightened people.
+- [[The Shape]]: a machine's hands, always the same temperature.
+
 ## Sources
 
 **Primary lineage source.** *Prana and Pranayama* by Paramahamsa [[Swami Niranjanananda Saraswati]], published by Yoga Publications Trust, [[Bihar School of Yoga]], Munger. Chapter 2 (*Pancha Kosha: Vital Sheaths*) is the structural basis for this page.

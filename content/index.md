@@ -1,7 +1,7 @@
 ---
 title: OMJOOMSUH Wiki
 type: index
-updated: 2026-09-24
+updated: 2026-11-12
 description: "The encyclopedia from the house of OMJOOMSUH. A daily mantra practice from Delhi, rooted in the Bihar School of Yoga."
 ---
 
@@ -21,7 +21,7 @@ OMJOOMSUH is a small daily practice group in Delhi, led every morning by one man
 
 ## Everything on this site
 
-Below is every page, in three groups. Essays are the long pieces. Concepts are the reference pages, one idea each, with sources. People are the teachers in the lineage.
+Below is every page, in four groups. Essays are the long pieces. Stories are fiction that touches the teachings. Concepts are the reference pages, one idea each, with sources. People are the teachers in the lineage.
 
 ### Essays
 
@@ -56,6 +56,15 @@ Below is every page, in three groups. Essays are the long pieces. Concepts are t
 - [[You Are Not Unfit. You Are Underfed.]]
 - [[Young Businesses and AI]]
 - [[Your Morning Belongs To You]]
+
+---
+
+### Stories
+
+- [[The Second Sun]]: three stories of Japan, told by one boy across three lives.
+- [[The Crease]]: Part I. Osaka, Hiroshima, and the night instant noodles were invented.
+- [[The Fold]]: Part II. A banker's life, from the bubble years to the last page.
+- [[The Shape]]: Part III. Japan in 2050, and the night the machines stopped.
 
 ---
 

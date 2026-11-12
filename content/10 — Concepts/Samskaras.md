@@ -67,6 +67,11 @@ For the contemporary practitioner, samskaras are the answer to the question of *
 - [[Swami Satyananda Saraswati]]
 
 
+## In the stories
+
+- [[The Crease]]: the creases stay in the paper after the crane is opened.
+- [[The Fold]]: a banker remembers a search from further back than his own life.
+
 ## Notes
 
 Future writing could explore: a detailed comparative reading of the classical samskara framework alongside the contemporary somatic trauma literature — particularly the work of Bessel van der Kolk in *The Body Keeps the Score*, Peter Levine in Somatic Experiencing, and Pat Ogden in Sensorimotor Psychotherapy — all of which independently arrived at conclusions structurally similar to the Sanskrit tradition's two-millennia-old position; the relationship between samskaras and what contemporary neuroscience calls *implicit memory* and *procedural memory* — particularly the question of how memories that the conscious mind cannot retrieve continue to shape behaviour through the implicit channels; the specific question of *intergenerational samskaras* — patterns that appear to be inherited from parents and grandparents even when the originating events were never experienced by the practitioner directly, and what the recent epigenetic research on inherited trauma implies about the classical understanding of karma carrying across lineages; the technology of [[Yoga Nidra]] as developed by [[Swami Satyananda Saraswati|Swami Satyananda]] specifically as a samskara-clearing instrument, and how it differs structurally from ordinary sleep, ordinary meditation, and contemporary therapeutic interventions; the question of whether all samskaras are tamasic or rajasic in nature, or whether sattvic samskaras can be laid down with equal structural depth — the classical answer being that sattvic samskaras can and must be cultivated through [[Sadhana|sadhana]], but that they require more deliberate effort because they run against the grain of the surrounding rajasic-tamasic environment; a treatment of the relationship between samskaras and the [[Paramahamsa|paramahamsa]] station — particularly the question of whether the paramahamsa is the practitioner whose samskaric accumulation has been largely dissolved, or the practitioner who has stabilised in awareness deep enough that the remaining samskaras no longer govern the system.

@@ -65,6 +65,10 @@ For the practitioner in the first room of [[The Four Rooms Of Talent]] — held 
 - [[Swami Niranjanananda Saraswati]]
 - [[Of All The Things, He Chose That One]]
 
+## In the stories
+
+- [[The Fold]]: a country's savings watered down, and money chasing cheap yen around the world.
+
 ## Notes
 
 Future essays could explore: a deeper psychological mapping of each of the six — particularly the relationship between [[Moha|moha]] and what Western psychology calls cognitive dissonance, and between [[Matsarya|matsarya]] and the social comparison loop that social media platforms have industrialised; the gendered face of the Shadripus, and why traditional teaching has emphasised [[Krodha|krodha]] and [[Mada|mada]] as primary enemies for men, while [[Moha|moha]] (attachment) and [[Matsarya|matsarya]] (envy) often present more centrally for women — and how the morning practice meets both; the relationship between the Shadripus and the four [[Purusharthas]] — specifically how a Shadripu, channelled rather than suppressed, becomes the energy that fuels its dharmic counterpart (kama channelled becomes commitment to family; krodha channelled becomes the resolve to stand against adharma; lobha channelled becomes the discipline of *yajna*); a treatment of the Shadripus through the lens of the Markandeya Purana's demon symbology — what each demon represents, how each falls, and what the falling teaches.

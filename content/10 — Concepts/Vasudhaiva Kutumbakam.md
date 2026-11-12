@@ -110,6 +110,10 @@ This is the lineage's deepest reading of *vasudhaiva kutumbakam*. It is not only
 - [[The Chakyar Could Insult the King]]
 - [[Young Businesses and AI]]
 
+## In the stories
+
+- [[The Shape]]: a nurse from Kerala whose balloon no one can read, and a van saying Japan belongs to the Japanese.
+
 ## Sources
 
 The Maha Upanishad VI.71–73, in the standard editions of the *Upanishads* (Vedanta-Sutra-Bhashya tradition).

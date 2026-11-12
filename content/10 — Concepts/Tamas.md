@@ -66,6 +66,10 @@ Tamas is the diagnostic that explains why the morning practice is necessary in t
 - [[Swami Niranjanananda Saraswati]]
 
 
+## In the stories
+
+- [[The Crease]]: the quiet of a lathe that asks no questions.
+
 ## Notes
 
 Future essays could explore: the practical mapping of tamas in the modern context — the specific ways in which screen addiction, ultra-processed food, fragmented sleep, and the chronic suppression of grief produce tamasic accumulation in the contemporary nervous system; the relationship between tamas and what the Ayurvedic tradition calls *ama* (undigested residue) — the parallel between unmetabolised food and unmetabolised emotion, and how both produce heaviness in their respective systems; a deeper treatment of why tamas is necessary at certain points (sleep, surrender, the dissolution that precedes new growth) and the difference between tamas as a transient phase and tamas as an accumulating sediment; the gendered presentation of tamas — particularly the way modern Indian women are often expected to absorb the tamasic residue of an entire household, and how the morning practice, framed as the woman's own twenty minutes, becomes an act of tamas-clearing on behalf of a system larger than her individual body; the relationship between tamas and the *Brahma Muhurta* — why the pre-dawn hour, when the Earth's atmospheric tamas is at its lowest, is the precise window in which the practice has the most leverage on the practitioner's own.

@@ -86,6 +86,10 @@ The verse closes with the image the tradition has never improved on: they work t
 - [[Bihar School of Yoga]]
 - [[The Four Rooms Of Talent]]
 
+## In the stories
+
+- [[The Crease]]: two kinds of quiet, at the batting plate and at the lathe.
+
 ## Notes
 
 Future work could pursue: whether the *pradīpavat* image in Karika 13 is doing more philosophical work than it is usually credited with, since a lamp is the standard Indian figure for cognition and the verse may be saying that the gunas exist in order to make experience possible rather than merely that they cooperate; a careful comparison of the *manasika* gunas against the *sharirika* doshas, which the [[HBSC]] needs and does not currently have a page for; the measurement problem named above, which deserves its own page rather than a paragraph; and the history of how the dietary lists hardened, which would let this wiki state plainly which parts come from the Gita and which from later tradition.

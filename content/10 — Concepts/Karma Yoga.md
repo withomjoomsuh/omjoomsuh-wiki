@@ -71,6 +71,10 @@ The chapter also introduces *lokasangraha*, the holding-together of the world, a
 - [[The Four Rooms Of Talent]]
 - [[Oh Money In This Too]]
 
+## In the stories
+
+- [[The Shape]]: the hands that kept working through the night the machines stopped.
+
 ## Notes
 
 Future work could pursue: the *lokasangraha* verses, which are the Gita's own answer to why a person without desire would act and which deserve separate treatment; the honest version of the domestic-labour question raised above, which this tradition has not often been asked directly; the Tilak and Gandhi readings set side by side, since they are the two live interpretations and this wiki currently gestures at both; and the relationship between *tyaga* and *sannyasa* as chapter eighteen draws it, which is the sharpest short statement of what karma yoga actually asks.

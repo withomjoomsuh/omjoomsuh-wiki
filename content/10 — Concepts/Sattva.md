@@ -65,6 +65,10 @@ A little, every day. A drop on parched earth. The ratio tilts.
 - [[Swami Sivananda Saraswati]]
 - [[He Smiled Between Two Armies]]
 
+## In the stories
+
+- [[The Crease]]: the quiet of a boy at the batting plate.
+
 ## Notes
 
 Future writing could explore: the specific dietary applications of the gunas — the classical division of foods into sattvic, rajasic, and tamasic categories, and how this division has been refined by contemporary research into food's actual effects on cognition, mood, and the [[Vagus Nerve|vagal tone]]; the relationship between sattva and the contemporary research on flow states (Csikszentmihalyi) and on what positive psychology calls "eudaimonic" rather than "hedonic" wellbeing — both of these contemporary frames pointing at something the Samkhya tradition has held for two millennia; the question of whether sattva can be sustained alone or whether it requires a sangha — the company of other practitioners holding the same baseline — particularly relevant for the modern householder whose work and social environments may be persistently rajasic or tamasic; the gendered face of sattva — particularly the question of how the demand to be the emotional regulator of an entire household, often falling on women, can produce a forced surface-sattva that masks an exhausted system underneath, and what genuine sattva looks like when it is established structurally rather than performed; the relationship between sattva and what the Buddhist tradition calls *upekkhā* (equanimity) — both pointing at structurally similar states from different doctrinal frames.

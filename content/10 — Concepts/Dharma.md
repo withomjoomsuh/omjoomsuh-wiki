@@ -90,6 +90,10 @@ The literature distinguishes several senses, and most confusion about the word c
 - [[The Fourth Room]]
 - [[The Three 3.0s]]
 
+## In the stories
+
+- [[The Fold]]: a father who put his notebooks in a carton and took the bank job.
+
 ## Notes
 
 Future work could pursue: *ashrama dharma* as its own page, since it is the part of the classical scheme that speaks most directly to the people this work addresses and is currently the least developed here; the *ṛta* to *dharma* shift, which is a real change in what the tradition thought order was and is usually passed over in a sentence; the conflict cases in the *Mahabharata*, which are the tradition's own admission that the concept does not resolve cleanly and would make an unusually honest page; and a treatment of how "Sanatana Dharma" came to be used as it now is, which the existing [[Sanatan Dharma]] page does not yet cover.

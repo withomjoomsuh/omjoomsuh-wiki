@@ -76,6 +76,11 @@ For the practitioner who arrives at the practice asking *"why am I so reactive?"
 - [[Bihar School of Yoga]]
 
 
+## In the stories
+
+- [[The Fold]]: a boy who can read what everyone means and cannot find words for himself.
+- [[The Shape]]: a man paid to take the words back out of a machine's speech balloons.
+
 ## Notes
 
 Future essays could explore: the precise relationship between buddhi and the prefrontal cortex — recent neuroscience increasingly identifying the dorsolateral and medial prefrontal regions as the anatomical substrate of executive function and metacognition, which map closely onto what the Vedic tradition calls buddhi; a deeper treatment of *Buddhi Yoga* as articulated in Bhagavad Gita Chapter 2 — particularly verses 2.41 through 2.53 — and how the practice of acting from steady intellect rather than oscillating impulse is the operational definition of yoga in Krishna's framework; a comparative reading of buddhi alongside [[Iain McGilchrist]]'s framework in *The Master and His Emissary* — particularly his argument that the right hemisphere's mode of attention (broad, contextual, integrative) corresponds more closely to what the contemplative traditions have called wisdom than the left hemisphere's mode (narrow, analytical, decontextualising); the gendered dimension of buddhi development — particularly the question of whether the conditions under which Indian women develop buddhi differ from those under which men develop it, and what this implies about why the Morning Mantras sadhana is framed primarily for women (the answer involves the *holding* function of motherhood and the way that women in traditional Indian households were trained from childhood in the kind of multi-perspectival attention that buddhi requires); a treatment of how the contemporary attention economy (algorithmic feeds, notification-driven cognition, the fragmentation of sustained reading) is *specifically* a war on buddhi — and what the daily morning practice is actually defending against.

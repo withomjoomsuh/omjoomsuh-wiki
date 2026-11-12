@@ -64,6 +64,10 @@ For the practitioner working through the [[The Four Rooms Of Talent|four rooms o
 - [[Swami Niranjanananda Saraswati]]
 
 
+## In the stories
+
+- [[The Fold]]: a ruler kept for forty years, and a page finally drawn.
+
 ## Notes
 
 Future essays could explore: a deeper treatment of the relationship between sankalpa and Yoga Nidra in the Satyananda lineage — the specific protocol of planting a single resolve in the relaxed state and how it differs from the threshold-of-practice sankalpa used in the morning sadhana; the difference between *sankalpa* and *sraddha* (faith) — both foundational, but operating at different levels of the system; the cultural collapse of sankalpa in modern self-help language, where "manifestation" and "intention-setting" have absorbed the form while losing the precision of the underlying mechanism; the relationship between sankalpa and the four [[Purusharthas]] — particularly how a daily sankalpa rooted in [[Dharma]] differs from one rooted only in *artha* (wealth) or *kama* (desire).

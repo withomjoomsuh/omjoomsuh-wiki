@@ -63,6 +63,10 @@ For the contemporary practitioner, manas is the answer to the question of *what 
 - [[Bihar School of Yoga]]
 
 
+## In the stories
+
+- [[The Fold]]: what the mouth says, and what floats above the head.
+
 ## Notes
 
 Future writing could explore: a detailed treatment of *antar mauna* — the [[Bihar School of Yoga|Bihar School]] practice for observing manas from a position of detachment, and how it differs from the broader Buddhist *vipassana* approach to mind-watching; the relationship between manas and contemporary cognitive science's models of working memory, attention, and the default mode network — particularly the question of whether the default mode network's compulsive narrative-generation maps onto what the classical tradition calls ungoverned manas; the specific neurological signature of an ungoverned manas — chronic sympathetic activation, fragmented attention, the inability to sustain reading or contemplation — and how the morning sadhana addresses each of these directly; the question of whether manas is the same across all human beings or whether different individuals have structurally different manas-architectures (the classical answer is that the architecture is universal but the patterns running on it are individually unique, shaped by [[Samskaras]] across many lifetimes); a treatment of how the contemporary attention economy specifically *cultivates* manas-dominance — through algorithmic feeds, notification-driven cognition, the manufactured urgency of every digital interface — and the structural defence the morning practice provides against this cultivation.

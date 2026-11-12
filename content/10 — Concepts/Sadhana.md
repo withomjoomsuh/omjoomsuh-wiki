@@ -72,6 +72,10 @@ A little, every day. A drop on parched earth.
 - [[Swami Niranjanananda Saraswati]]
 - [[Of All The Things, He Chose That One]]
 
+## In the stories
+
+- [[The Crease]]: make a crease and ask it, every week, for years.
+
 ## Notes
 
 Future writing could explore: the specific structural difference between sadhana and what the contemporary wellness culture calls "self-care" — particularly the question of whether self-care, in its dominant contemporary form, is a kind of sadhana, an alternative to sadhana, or a category that does not yet recognise what sadhana actually is; the seven traditional aids to sadhana described across the texts (sat-sanga, viveka, vairagya, shama, dama, titiksha, uparati) and how each functions; the relationship between sadhana and yajna (sacrifice) — whether all sadhana is a form of yajna, and what the structural relationship between the two concepts implies about the deeper architecture of dharmic action; the question of sadhana for the householder versus sadhana for the renunciate — particularly the specific innovations of the modern Bihar School in adapting classical sadhana structures to the demands of working life in modern megacities; the role of failure in sadhana — the days when the practitioner cannot sit, will not sit, the mornings the practice is missed and the slow re-establishment of the discipline; the question of whether sadhana that produces no visible inner shift after many years is "working" — and what the tradition's classical position is on the question of unrewarded discipline.

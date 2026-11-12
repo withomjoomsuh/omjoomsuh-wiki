@@ -172,3 +172,7 @@ The Yoga Nidra cluster, as it sits in this wiki and as it will grow:
 
 ---
 
+## In the stories
+
+- [[The Crease]]: a boy lives a whole other life between falling asleep and waking.
+- [[The Fold]]: the same boy, a new city, another dream.
