@@ -68,6 +68,7 @@ For the practitioner in the first room of [[The Four Rooms Of Talent]] — held 
 ## In the stories
 
 - [[The Fold]]: a country's savings watered down, and money chasing cheap yen around the world.
+- [[Not One Inch]]: a father scattered by desire until he cannot answer at Easter.
 
 ## Notes
 

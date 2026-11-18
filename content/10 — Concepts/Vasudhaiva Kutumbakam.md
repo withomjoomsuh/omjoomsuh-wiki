@@ -113,6 +113,7 @@ This is the lineage's deepest reading of *vasudhaiva kutumbakam*. It is not only
 ## In the stories
 
 - [[The Shape]]: a nurse from Kerala whose balloon no one can read, and a van saying Japan belongs to the Japanese.
+- [[A Fourth There Shall Not Be]]: "to become fully Russian is to become a brother to all people."
 
 ## Sources
 

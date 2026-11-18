@@ -268,6 +268,11 @@ The middle path the lineage teaches is *transformation*: to see kama clearly, to
 
 ---
 
+## In the stories
+
+- [[Not One Inch]]: twenty years of desire with no edges.
+- [[A Fourth There Shall Not Be]]: a love given up, and a love that holds a household.
+
 ## Related Concepts
 
 - [[Shadripus]] — the six enemies; this page is the foundation of the cluster

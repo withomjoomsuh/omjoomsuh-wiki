@@ -11,7 +11,7 @@ sources: 5
 
 Dharma is what holds a thing in its place and keeps it being what it is. Applied to a person it is the conduct proper to them. Applied to a society it is the order that keeps it from coming apart. Applied to anything at all it is that thing's own nature, the way heat is the dharma of fire.
 
-It is the first of the four *purusharthas*, the aims of a human life, and it comes before *artha*, wealth, and *[[Kama|kama]]*, desire. The sequence is the teaching. Wealth and desire are both legitimate and both placed second and third, which is to say that the boundary is meant to be settled before the pursuit begins rather than repaired afterwards.
+It is the first of the four [[Purusharthas|purusharthas]], the aims of a human life, and it comes before *artha*, wealth, and *[[Kama|kama]]*, desire. The sequence is the teaching. Wealth and desire are both legitimate and both placed second and third, which is to say that the boundary is meant to be settled before the pursuit begins rather than repaired afterwards.
 
 The single most common error in English is to translate dharma as religion. It is not a body of belief and has no creed to assent to. A person is not asked what they hold true. They are asked what holds together because of how they act.
 
@@ -93,12 +93,13 @@ The literature distinguishes several senses, and most confusion about the word c
 ## In the stories
 
 - [[The Fold]]: a father who put his notebooks in a carton and took the bank job.
+- [[A Fourth There Shall Not Be]]: a woman who tries to keep all four of her duties at once, and an epilogue that reads her through them.
 
 ## Notes
 
 Future work could pursue: *ashrama dharma* as its own page, since it is the part of the classical scheme that speaks most directly to the people this work addresses and is currently the least developed here; the *ṛta* to *dharma* shift, which is a real change in what the tradition thought order was and is usually passed over in a sentence; the conflict cases in the *Mahabharata*, which are the tradition's own admission that the concept does not resolve cleanly and would make an unusually honest page; and a treatment of how "Sanatana Dharma" came to be used as it now is, which the existing [[Sanatan Dharma]] page does not yet cover.
 
-Terms used on this page that do not yet have pages of their own: *Purusharthas*, *Shaucha*, *Dhee*, *Bhagavad Gita*, *Swadharma*, *Yajna*. They are left unlinked deliberately, because the published folders render an unresolved link as a live 404.
+Terms used on this page that do not yet have pages of their own: *Shaucha*, *Dhee*, *Bhagavad Gita*, *Swadharma*, *Yajna*. They are left unlinked deliberately, because the published folders render an unresolved link as a live 404.
 
 [^1]: On *dharma* from the root *dhṛ*, to hold or maintain, and on the Karna Parva passage defining dharma by its function of upholding: "Dharma", Hindupedia. https://hindupedia.com/en/Dharma
 [^2]: On the ten characteristics at *Manusmriti* 6.92, *dhṛti, kṣamā, dama, asteya, śauca, indriya-nigraha, dhī, vidyā, satya, akrodha*: "Dharma (Life Principles) according to Manusmriti", Exotic India. https://www.exoticindiaart.com/article/dharma-life-principles-according-to-manusmriti/ ; and "What are the ten principles of dharma, as mentioned by Manu Smriti?", Vedaboys. https://www.vedaboys.com/what-are-the-ten-principles-of-dharma-as-mentioned-by-manu-smriti/

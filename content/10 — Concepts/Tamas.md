@@ -69,6 +69,7 @@ Tamas is the diagnostic that explains why the morning practice is necessary in t
 ## In the stories
 
 - [[The Crease]]: the quiet of a lathe that asks no questions.
+- [[Wind of Change]]: a tired country's relief at a strong hand.
 
 ## Notes
 

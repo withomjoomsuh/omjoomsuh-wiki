@@ -54,6 +54,7 @@ Seva is service given without asking for anything in return. In the Indian tradi
 
 - [[The Fold]]: Kenji, ten years behind his door, comes out with a shovel and a sketchbook.
 - [[The Shape]]: a nurse from Kerala who bathes an old man, and keeps working through the night the machines stop.
+- [[Not One Inch]]: eighteen years of washing a wife's bottles.
 
 ## Notes
 

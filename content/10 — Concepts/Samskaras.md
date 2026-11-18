@@ -71,6 +71,7 @@ For the contemporary practitioner, samskaras are the answer to the question of *
 
 - [[The Crease]]: the creases stay in the paper after the crane is opened.
 - [[The Fold]]: a banker remembers a search from further back than his own life.
+- [[Wind of Change]]: hunger the body keeps for thirty years.
 
 ## Notes
 

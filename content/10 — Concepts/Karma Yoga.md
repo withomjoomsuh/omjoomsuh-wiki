@@ -74,6 +74,8 @@ The chapter also introduces *lokasangraha*, the holding-together of the world, a
 ## In the stories
 
 - [[The Shape]]: the hands that kept working through the night the machines stopped.
+- [[Not One Inch]]: service after a fall.
+- [[A Fourth There Shall Not Be]]: Arjuna's moment on a landing in Kaliningrad.
 
 ## Notes
 

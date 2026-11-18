@@ -114,6 +114,12 @@ What we found, when we let this go, is that the cradle empties first. What we ma
 
 ---
 
+## In the stories
+
+- [[Wind of Change]]: two sisters, each following her own nature.
+- [[Not One Inch]]: a family that keeps its daughter at the Easter table.
+- [[A Fourth There Shall Not Be]]: the four circles pressing on one woman.
+
 ## Related Concepts
 
 - [[Vasudhaiva Kutumbakam]] — the teaching that operationalises jaatidharma in its widest reading

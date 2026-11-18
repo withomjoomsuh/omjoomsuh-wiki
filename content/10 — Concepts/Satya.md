@@ -48,6 +48,8 @@ Satya is truthfulness, the second of the five yamas, the restraints Patanjali pl
 
 - [[The Fold]]: a father who says "We agreed anyway" while his balloon says *We had no choice.*
 - [[The Shape]]: one night when a father's words and his balloon finally match.
+- [[Wind of Change]]: a promise about an inch, never written down.
+- [[Not One Inch]]: "I found out that I had been lying to myself."
 
 ## Notes
 

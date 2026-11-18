@@ -65,6 +65,10 @@ Below is every page, in four groups. Essays are the long pieces. Stories are fic
 - [[The Crease]]: Part I. Osaka, Hiroshima, and the night instant noodles were invented.
 - [[The Fold]]: Part II. A banker's life, from the bubble years to the last page.
 - [[The Shape]]: Part III. Japan in 2050, and the night the machines stopped.
+- [[The Third Rome]]: three stories of one Russian family in Kaliningrad, told by the neighbour downstairs.
+- [[Wind of Change]]: Part I. 1991 to 1999. Sugar, rye and a promise about an inch.
+- [[Not One Inch]]: Part II. 2003 to 2016. A marriage near power and a confession at Easter.
+- [[A Fourth There Shall Not Be]]: Part III. An imagined 2027, and a paper on a windowsill.
 
 ---
 
@@ -73,6 +77,7 @@ Below is every page, in four groups. Essays are the long pieces. Stories are fic
 - [[32 Names of Durga]]: the thirty-two epithets of Durga from the Durga Saptashati.
 - [[Ahamkara]]: the I-maker; the function that takes an experience and claims it as mine.
 - [[Annamaya Index]]: the daily mirror that reads one meal a day across four windows, diversity, density, cooking wisdom, and personal fit.
+- [[Artha]]: wealth and livelihood, the second aim of life, earned inside dharma.
 - [[Bihar School of Yoga]]: the lineage and global authority on yoga and Samkhya that OMJOOMSUH translates from.
 - [[Buddhi]]: the discriminating intellect, the faculty of judgment in Samkhya psychology.
 - [[Chakras]]: the subtle-body energy centres along the spinal axis.
@@ -88,10 +93,12 @@ Below is every page, in four groups. Essays are the long pieces. Stories are fic
 - [[Karma]]: action and its consequence, held together in one word.
 - [[Karma Yoga]]: the discipline of acting without holding on to what the action will produce.
 - [[Kleshas]]: the five afflictions Patanjali names as the roots of suffering.
+- [[Kshama]]: forgiveness and forbearance, one of the ten marks of dharma.
 - [[Mahamrityunjaya]]: the great death-conquering mantra to Shiva.
 - [[Manas]]: the sensory-processing mind in Samkhya psychology.
 - [[Mantra Diksha]]: formal initiation into a mantra by the guru.
 - [[Metabolic Flexibility]]: the body's capacity to switch fuel sources; a bridge concept to modern physiology.
+- [[Moksha]]: release, the fourth aim of life.
 - [[Mouna]]: silence kept on purpose, and the Bihar School practice of inner silence.
 - [[Nadis]]: the channels through which prana flows in the subtle body.
 - [[Pancha Kosha]]: the five sheaths that layer from body to bliss.
@@ -100,6 +107,7 @@ Below is every page, in four groups. Essays are the long pieces. Stories are fic
 - [[Prana]]: the vital life force animating body and breath.
 - [[Pranayama]]: the regulation and expansion of prana through breath.
 - [[Pratyahara]]: withdrawal of the senses, the bridge between outer and inner yoga.
+- [[Purusharthas]]: the four aims of a human life, dharma, artha, kama and moksha, held in order.
 - [[Rajas]]: the guna of activity, passion, and restlessness.
 - [[Sadhana]]: disciplined spiritual practice sustained over time.
 - [[Samkhya]]: the oldest of the six darshanas; the map of the inner architecture that the rest of this work stands on.

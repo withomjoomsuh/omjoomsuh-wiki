@@ -67,3 +67,4 @@ The Annamaya Index is the body and nutrition layer of OMJOOMSUH, alongside the m
 ## In the stories
 
 - [[The Crease]]: the night instant noodles were invented, out of a queue for one bowl.
+- [[Wind of Change]]: wages paid in sugar, and a body that remembers.

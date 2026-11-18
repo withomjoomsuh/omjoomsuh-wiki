@@ -80,6 +80,7 @@ For the practitioner who arrives at the practice asking *"why am I so reactive?"
 
 - [[The Fold]]: a boy who can read what everyone means and cannot find words for himself.
 - [[The Shape]]: a man paid to take the words back out of a machine's speech balloons.
+- [[Wind of Change]]: the discerning mind that keeps asking when it is tired.
 
 ## Notes
 
