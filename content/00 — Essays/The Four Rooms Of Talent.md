@@ -63,19 +63,19 @@ The problem is not their idealism. The problem is what the Sanskrit tradition ca
 
 The modern version of Bhrama is the paradox of infinite choice. Today's younger generations disproportionately occupy this room. They have access to more information, more causes, more platforms, more movements, and more identities than any generation in history. And they are paralysed by it. The idealism is real. The direction is absent. They oscillate between causes, between vocations, between identities, and the oscillation itself becomes the life.
 
-The Indian philosophical tradition has a precise term for this oscillation: [[Vikalpa]]. Patanjali lists [[Vikalpa]] among the five modifications of the mind in the Yoga Sutras (1.6). It is imagination that has no basis in actual perception or inference. It is the mind creating scenarios, alternatives, and possibilities that exist only as mental constructs. For someone in the third room, [[Vikalpa]] is the engine of paralysis. Every option generates its counter-option. Every commitment generates its doubt. The mind spins, and the life remains stationary.
+The Indian philosophical tradition has a precise term for this oscillation: [[Chitta|Vikalpa]]. Patanjali lists [[Chitta|Vikalpa]] among the five modifications of the mind in the Yoga Sutras (1.6). It is imagination that has no basis in actual perception or inference. It is the mind creating scenarios, alternatives, and possibilities that exist only as mental constructs. For someone in the third room, [[Chitta|Vikalpa]] is the engine of paralysis. Every option generates its counter-option. Every commitment generates its doubt. The mind spins, and the life remains stationary.
 
 The Tantric tradition offers a specific remedy through one of its five core aspects: Yogachara, the path of practice. Where Mantra addresses sound, Yantra addresses form, Nyasa addresses the subtle body, and Mudra addresses gesture, Yogachara addresses the discipline of embodied action. It is the limb of Tantra that says: the mind that created your confusion cannot think its way out of it. Only sustained, disciplined practice can cut through the fog.
 
-Yogachara overcomes [[Vikalpa]], the mental conflict that gives rise to Bhrama, through three interlinked processes:
+Yogachara overcomes [[Chitta|Vikalpa]], the mental conflict that gives rise to Bhrama, through three interlinked processes:
 
 Self-Purification. The progressive cleansing of accumulated mental patterns through consistent practice. [[Sadhana]], in this context, is not a spiritual luxury. It is hygiene for the mind. The practitioner who chants daily, who rises at a fixed hour, who places the body and the voice in service of a specific discipline, is not performing ritual. The practitioner is scrubbing the lens through which reality is perceived.
 
-Self-Awareness. As the lens clears, the practitioner begins to see the difference between what is real and what is imagined. [[Vikalpa]] loses its authority. The snake is recognised as a rope. The twenty-seven career options that each seemed equally urgent begin to sort themselves into what matters and what is merely noise. Self-awareness is the faculty of discernment, the ability to hold the mind's contents without being governed by them.
+Self-Awareness. As the lens clears, the practitioner begins to see the difference between what is real and what is imagined. [[Chitta|Vikalpa]] loses its authority. The snake is recognised as a rope. The twenty-seven career options that each seemed equally urgent begin to sort themselves into what matters and what is merely noise. Self-awareness is the faculty of discernment, the ability to hold the mind's contents without being governed by them.
 
 Self-Effort. The sustained, patient application of will over time. Yogachara does not promise sudden clarity. It promises that the person who perseveres in practice will, drop by drop, dissolve the confusion that was never their nature but only their conditioning.
 
-The specific recommendation for the third room is to remove the 4Ds: Dissipation, Distraction, Distress, and Difficulties. These four are the practical manifestations of [[Vikalpa]] in daily life. The mind dissipates its energy across too many directions. It distracts itself with content, with noise, with the endless scroll. It accumulates distress from the gap between idealism and inaction. And it creates its own difficulties by mistaking mental activity for meaningful progress.
+The specific recommendation for the third room is to remove the 4Ds: Dissipation, Distraction, Distress, and Difficulties. These four are the practical manifestations of [[Chitta|Vikalpa]] in daily life. The mind dissipates its energy across too many directions. It distracts itself with content, with noise, with the endless scroll. It accumulates distress from the gap between idealism and inaction. And it creates its own difficulties by mistaking mental activity for meaningful progress.
 
 Of these four, two are the most urgent for this room: Dissipation and Distraction. They are the twin leaks through which the idealism of an entire generation is being drained.
 
@@ -103,7 +103,7 @@ The practice for the second room is the [[Gayatri]] Mantra.
 
 *Om Bhur Bhuva Swaha, Tat Savitur Varenyam, Bhargo Devasya Dheemahi, Dhiyo Yo Nah Prachodayaat.*
 
-Twenty-four syllables. Addressed to Savitri, the generative solar principle, the force that illuminates what was hidden. The final phrase, *Dhiyo Yo Nah Prachodayaat*, is a specific request: May our intellects be illuminated. May the faculty of discernment, [[Dhee]], be set into motion, not by ambition, but by light.
+Twenty-four syllables. Addressed to Savitri, the generative solar principle, the force that illuminates what was hidden. The final phrase, *Dhiyo Yo Nah Prachodayaat*, is a specific request: May our intellects be illuminated. May the faculty of discernment, [[Buddhi|Dhee]], be set into motion, not by ambition, but by light.
 
 The Vedic tradition draws a careful distinction between [[Manas]] (mind) and [[Buddhi]] (intellect). [[Manas]] oscillates. It doubts. It reacts. [[Buddhi]], when illuminated, discriminates. It sees through the surface of things to their actual nature. The [[Gayatri]] targets [[Buddhi]] specifically. It does not calm the mind. It illuminates the intelligence that the mind serves. For someone whose higher chakras are veiled by [[Tamas]], this illumination is the precise intervention required.
 

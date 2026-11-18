@@ -136,7 +136,7 @@ One more step, and then we bring it home.
 
 The [[Gayatri]] Mantra, the most recited verse in the Vedic tradition, is addressed to Savitri, the generative solar principle. Its closing request is: ***dhiyo yo nah prachodayat***. May that luminous intelligence impel our minds into motion.
 
-This is a prayer for the activation of [[Dhee]], the faculty of discernment, through the agency of light. And the Vedic rishis placed this prayer at the junction of dawn because they understood, through generations of direct observation, that light is the master regulator of biological intelligence.
+This is a prayer for the activation of [[Buddhi|Dhee]], the faculty of discernment, through the agency of light. And the Vedic rishis placed this prayer at the junction of dawn because they understood, through generations of direct observation, that light is the master regulator of biological intelligence.
 
 Let me show you what I mean by "master regulator."
 

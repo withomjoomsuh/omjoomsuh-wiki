@@ -11,7 +11,7 @@ primary_source: "Surya Namaskar: A Technique of Solar Vitalization by Swami Saty
 
 # Surya Namaskara
 
-*Surya namaskara — the salutation to the sun — is a sequence of twelve physical postures performed as a single flowing round, each posture married to a breath, a sun mantra, a seed (bija) sound, and a point of concentration in the subtle body. In the Bihar School of Yoga lineage it is taught not as a warm-up but as a complete technique in its own right: a method of **solar vitalization** that recharges the practitioner "like a battery," tones every major system of the body, balances the pranic flows of [[Ida and Pingala|ida and pingala]], and serves as a preparatory discipline for [[Kundalini|kundalini yoga]]. It works on the gross body (asana), the energy body (pranayama and chakra awareness), and the mind (mantra and archetypal image) at once — which is why a single round reaches the physical, pranic, and mental planes together.*
+*Surya namaskara — the salutation to the sun — is a sequence of twelve physical postures performed as a single flowing round, each posture married to a breath, a sun mantra, a seed (bija) sound, and a point of concentration in the subtle body. In the Bihar School of Yoga lineage it is taught not as a warm-up but as a complete technique in its own right: a method of **solar vitalization** that recharges the practitioner "like a battery," tones every major system of the body, balances the pranic flows of [[Nadis#The three principal nadis|ida and pingala]], and serves as a preparatory discipline for [[Kundalini|kundalini yoga]]. It works on the gross body (asana), the energy body (pranayama and chakra awareness), and the mind (mantra and archetypal image) at once — which is why a single round reaches the physical, pranic, and mental planes together.*
 
 This is the umbrella page for surya namaskara. Its primary source is *Surya Namaskar: A Technique of Solar Vitalization* by Paramahamsa [[Swami Satyananda Saraswati]], first published by the [[Bihar School of Yoga]] / Yoga Publications Trust, Munger, in **1973** — the founding modern codification of the practice. The page is built for the **practitioner**: Part One lays out what the practice is and the macro fundamentals that apply to the whole round; Part Two then takes the twelve [[Asana|asana]] postures, one at a time; and for each [[Asana|asana]], shows the appendix figure followed by every angle the book examines it from — its mantra, its seed sound, its breath, its chakra, and its physiodynamic, psychodynamic, and endocrine effects.
 
@@ -28,11 +28,11 @@ The practice was devised, in Swamiji's words, with **two main aims**:
 1. To maintain good physical health as part of an enlightened system of living.
 2. To prepare the practitioner for the techniques of [[Kundalini|kundalini yoga]] and spiritual awakening.
 
-What distinguishes it from ordinary exercise is its *direct vitalizing effect on the solar energies of the body* — energies centred at [[Manipura|Manipura chakra]] and flowing through [[Ida and Pingala|pingala nadi]]. The single governing instruction throughout is **avoid strain**: each movement uses only the muscles required to assume and hold the posture, the rest of the body staying relaxed, the movements made to *"flow loosely, like a dance."*
+What distinguishes it from ordinary exercise is its *direct vitalizing effect on the solar energies of the body* — energies centred at [[Chakras#The Seven Principal Chakras|Manipura chakra]] and flowing through [[Nadis#The three principal nadis|pingala nadi]]. The single governing instruction throughout is **avoid strain**: each movement uses only the muscles required to assume and hold the posture, the rest of the body staying relaxed, the movements made to *"flow loosely, like a dance."*
 
 ## Etymology and the Names of the Sun
 
-*Surya* (सूर्य) is the sun — both the visible body and the deity and principle it represents. *Namaskara* (नमस्कार) is salutation, reverence, the act of bowing. *Surya namaskara* is therefore "salutation to the sun," and Swamiji reads *salutation* in its full devotional weight: the practice is a *form of worship of the sun*, on both the microcosmic level (the sun within, the solar plexus at [[Manipura]]) and the macrocosmic level (the sun without, the centre of the planetary system). Each of the twelve postures carries one of the **twelve names of the sun**, because each year the sun passes through twelve phases — the signs of the zodiac, the *rashis* — and in each phase is given a different name expressing a different quality. (The names appear with each posture in Part Two.)
+*Surya* (सूर्य) is the sun — both the visible body and the deity and principle it represents. *Namaskara* (नमस्कार) is salutation, reverence, the act of bowing. *Surya namaskara* is therefore "salutation to the sun," and Swamiji reads *salutation* in its full devotional weight: the practice is a *form of worship of the sun*, on both the microcosmic level (the sun within, the solar plexus at [[Chakras#The Seven Principal Chakras|Manipura]]) and the macrocosmic level (the sun without, the centre of the planetary system). Each of the twelve postures carries one of the **twelve names of the sun**, because each year the sun passes through twelve phases — the signs of the zodiac, the *rashis* — and in each phase is given a different name expressing a different quality. (The names appear with each posture in Part Two.)
 
 ## The Solar Tradition
 
@@ -81,11 +81,11 @@ A **mantra** is a combination of sounds designed to produce a specific effect on
 
 ### Piercing the chakras
 
-Surya namaskara is, at the higher level, a method of **chakra stimulation**. In each posture the practitioner locates the associated [[Chakras|chakra]] and concentrates there (no more than a minute per asana unless under guidance). With proficiency, asana, [[Pranayama|pranayama]], and chakra awareness **fuse**: one visualises the psychic breath carrying [[Prana|prana]] into the body through the chakra on inhalation and out on exhalation, and during retention becomes aware of *prana* and *apana* meeting at [[Manipura]]. Crucially, the sequence touches **every chakra except [[Mooladhara]]** — by design. It *develops* the other centres in preparation for the awakening of [[Kundalini|kundalini]] from [[Mooladhara|Mooladhara]], but does not attempt that awakening, because the body must first be strong enough to withstand the forces it releases. At this level surya namaskara becomes one of the **preparatory practices for kundalini yoga**.
+Surya namaskara is, at the higher level, a method of **chakra stimulation**. In each posture the practitioner locates the associated [[Chakras|chakra]] and concentrates there (no more than a minute per asana unless under guidance). With proficiency, asana, [[Pranayama|pranayama]], and chakra awareness **fuse**: one visualises the psychic breath carrying [[Prana|prana]] into the body through the chakra on inhalation and out on exhalation, and during retention becomes aware of *prana* and *apana* meeting at [[Chakras#The Seven Principal Chakras|Manipura]]. Crucially, the sequence touches **every chakra except [[Chakras#The Seven Principal Chakras|Mooladhara]]** — by design. It *develops* the other centres in preparation for the awakening of [[Kundalini|kundalini]] from [[Chakras#The Seven Principal Chakras|Mooladhara]], but does not attempt that awakening, because the body must first be strong enough to withstand the forces it releases. At this level surya namaskara becomes one of the **preparatory practices for kundalini yoga**.
 
 ### The pranic generator — Ida, Pingala, Manipura
 
-We live in a world of duality — day and night, light and dark, action and awareness — represented in yoga by the two nadis **[[Ida and Pingala|ida and pingala]]** (and, in Taoism, yin and yang). Of the **72,000 nadis**, **pingala conducts *prana shakti*** (vital energy, solar, active, right side) and **ida conducts *manas shakti*** (mental energy, lunar, introverted, left side). When the two are balanced and **merge**, a third force arises — the flow in **[[Sushumna|sushumna]]**, correlating with the awakening of energy in the spinal cord. Surya namaskara is part of the long preparation for this: the ongoing release of prana and the balancing of pingala. Its hinge is **[[Manipura]]** ("the jewelled city") at the navel — the body's centre of gravity and the seat of the **solar plexus**, governed by the sympathetic nervous system (pingala) and responsible for digestion. As the macrocosmic sun grows food in the world, the microcosmic sun at manipura digests it. Practised *quickly*, the series works mainly on **pingala**; practised *slowly* with mantra and chakra awareness, it stimulates **both ida and pingala almost equally** and turns "from a series of asanas into a series of mudras." Swamiji therefore recommends combining **fast and slow** practice.
+We live in a world of duality — day and night, light and dark, action and awareness — represented in yoga by the two nadis **[[Nadis#The three principal nadis|ida and pingala]]** (and, in Taoism, yin and yang). Of the **72,000 nadis**, **pingala conducts *prana shakti*** (vital energy, solar, active, right side) and **ida conducts *manas shakti*** (mental energy, lunar, introverted, left side). When the two are balanced and **merge**, a third force arises — the flow in **[[Nadis#The three principal nadis|sushumna]]**, correlating with the awakening of energy in the spinal cord. Surya namaskara is part of the long preparation for this: the ongoing release of prana and the balancing of pingala. Its hinge is **[[Chakras#The Seven Principal Chakras|Manipura]]** ("the jewelled city") at the navel — the body's centre of gravity and the seat of the **solar plexus**, governed by the sympathetic nervous system (pingala) and responsible for digestion. As the macrocosmic sun grows food in the world, the microcosmic sun at manipura digests it. Practised *quickly*, the series works mainly on **pingala**; practised *slowly* with mantra and chakra awareness, it stimulates **both ida and pingala almost equally** and turns "from a series of asanas into a series of mudras." Swamiji therefore recommends combining **fast and slow** practice.
 
 ### Psychodynamics
 
@@ -93,7 +93,7 @@ Each asana conveys an **archetypal image** to the deeper mind — the cobra a po
 
 ### The endocrine system
 
-The endocrine glands are "the most vital and mysterious of all systems," coordinating every physiological process through hormones. Surya namaskara is presented as a systematic tonic for the whole network — the **pituitary** (master gland, via the hypothalamus and the inverted postures), the **pineal** (the "third eye" of intuition), the **thyroid/parathyroid** (metabolism, via the alternate pressing and stretching of the throat), the **thymus** (immunity, via [[Anahata]]), the **adrenals** (stress, via mid-back pressure and [[Manipura]]), the **pancreas** (insulin, via abdominal compression), and the **reproductive organs**. Swamiji cautions against a purely mechanistic reading: although the practice presses on individual glands, *"health comes from total body harmony,"* and the gland-by-gland effects must be seen in that broader perspective.
+The endocrine glands are "the most vital and mysterious of all systems," coordinating every physiological process through hormones. Surya namaskara is presented as a systematic tonic for the whole network — the **pituitary** (master gland, via the hypothalamus and the inverted postures), the **pineal** (the "third eye" of intuition), the **thyroid/parathyroid** (metabolism, via the alternate pressing and stretching of the throat), the **thymus** (immunity, via [[Chakras#The Seven Principal Chakras|Anahata]]), the **adrenals** (stress, via mid-back pressure and [[Chakras#The Seven Principal Chakras|Manipura]]), the **pancreas** (insulin, via abdominal compression), and the **reproductive organs**. Swamiji cautions against a purely mechanistic reading: although the practice presses on individual glands, *"health comes from total body harmony,"* and the gland-by-gland effects must be seen in that broader perspective.
 
 ## Practice Guidelines
 
@@ -111,18 +111,18 @@ The endocrine glands are "the most vital and mysterious of all systems," coordin
 
 | #   | Posture              | Breath | Sun Mantra                   | Bija       | Concentration                    |
 | --- | -------------------- | ------ | ---------------------------- | ---------- | -------------------------------- |
-| 1   | Pranamasana          | Exhale | *Om Mitraya Namaha*          | *Om Hraam* | Heart, [[Anahata]]               |
-| 2   | Hasta Utthanasana    | Inhale | *Om Ravaye Namaha*           | *Om Hreem* | Neck, [[Vishuddhi]]              |
-| 3   | Padahastasana        | Exhale | *Om Suryaya Namaha*          | *Om Hroom* | Base of spine, [[Swadhisthana]]  |
-| 4   | Ashwa Sanchalanasana | Inhale | *Om Bhanave Namaha*          | *Om Hraim* | Eyebrow, [[Ajna]]                |
-| 5   | Parvatasana          | Exhale | *Om Khagaya Namaha*          | *Om Hraum* | Neck, [[Vishuddhi]]              |
-| 6   | Ashtanga Namaskara   | Retain | *Om Pushne Namaha*           | *Om Hrah*  | Navel, [[Manipura]]              |
-| 7   | Bhujangasana         | Inhale | *Om Hiranya Garbhaya Namaha* | *Om Hraam* | Base of spine, [[Swadhisthana]]  |
-| 8   | Parvatasana          | Exhale | *Om Marichaye Namaha*        | *Om Hreem* | Neck, [[Vishuddhi]]              |
-| 9   | Ashwa Sanchalanasana | Inhale | *Om Adityaya Namaha*         | *Om Hroom* | Eyebrow, [[Ajna]]                |
-| 10  | Padahastasana        | Exhale | *Om Savitre Namaha*          | *Om Hraim* | Base of spine, [[Swadhisthana]]  |
-| 11  | Hasta Utthanasana    | Inhale | *Om Arkaya Namaha*           | *Om Hraum* | Neck, [[Vishuddhi]]              |
-| 12  | Pranamasana          | Exhale | *Om Bhaskaraya Namaha*       | *Om Hrah*  | Heart, [[Anahata]]               |
+| 1   | Pranamasana          | Exhale | *Om Mitraya Namaha*          | *Om Hraam* | Heart, [[Chakras#The Seven Principal Chakras\|Anahata]]               |
+| 2   | Hasta Utthanasana    | Inhale | *Om Ravaye Namaha*           | *Om Hreem* | Neck, [[Chakras#The Seven Principal Chakras\|Vishuddhi]]              |
+| 3   | Padahastasana        | Exhale | *Om Suryaya Namaha*          | *Om Hroom* | Base of spine, [[Chakras#The Seven Principal Chakras\|Swadhisthana]]  |
+| 4   | Ashwa Sanchalanasana | Inhale | *Om Bhanave Namaha*          | *Om Hraim* | Eyebrow, [[Chakras#The Seven Principal Chakras\|Ajna]]                |
+| 5   | Parvatasana          | Exhale | *Om Khagaya Namaha*          | *Om Hraum* | Neck, [[Chakras#The Seven Principal Chakras\|Vishuddhi]]              |
+| 6   | Ashtanga Namaskara   | Retain | *Om Pushne Namaha*           | *Om Hrah*  | Navel, [[Chakras#The Seven Principal Chakras\|Manipura]]              |
+| 7   | Bhujangasana         | Inhale | *Om Hiranya Garbhaya Namaha* | *Om Hraam* | Base of spine, [[Chakras#The Seven Principal Chakras\|Swadhisthana]]  |
+| 8   | Parvatasana          | Exhale | *Om Marichaye Namaha*        | *Om Hreem* | Neck, [[Chakras#The Seven Principal Chakras\|Vishuddhi]]              |
+| 9   | Ashwa Sanchalanasana | Inhale | *Om Adityaya Namaha*         | *Om Hroom* | Eyebrow, [[Chakras#The Seven Principal Chakras\|Ajna]]                |
+| 10  | Padahastasana        | Exhale | *Om Savitre Namaha*          | *Om Hraim* | Base of spine, [[Chakras#The Seven Principal Chakras\|Swadhisthana]]  |
+| 11  | Hasta Utthanasana    | Inhale | *Om Arkaya Namaha*           | *Om Hraum* | Neck, [[Chakras#The Seven Principal Chakras\|Vishuddhi]]              |
+| 12  | Pranamasana          | Exhale | *Om Bhaskaraya Namaha*       | *Om Hrah*  | Heart, [[Chakras#The Seven Principal Chakras\|Anahata]]               |
 
 ---
 
@@ -136,15 +136,15 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 !200
 
-**At a glance** · Breath: **exhale** · Sun mantra: *Om Mitraya Namaha* · Bija: *Om Hraam* · Concentration: heart centre, [[Anahata]]
+**At a glance** · Breath: **exhale** · Sun mantra: *Om Mitraya Namaha* · Bija: *Om Hraam* · Concentration: heart centre, [[Chakras#The Seven Principal Chakras|Anahata]]
 
 **The mantra — *salutations to the friend of all.*** The first position embodies reverence to the source of all life. The sun is the universal friend, endlessly giving light, heat, and energy to this and every other planet; in the scriptures Mitra calls man to activity and beholds all creatures *without discrimination* — just as the morning sun signals the start of the day and sheds its light on all life equally.
 
-**The chakra.** Concentration rests at the heart centre, [[Anahata]] — the centre of stillness and devotion with which the round opens and closes.
+**The chakra.** Concentration rests at the heart centre, [[Chakras#The Seven Principal Chakras|Anahata]] — the centre of stillness and devotion with which the round opens and closes.
 
 **Physiodynamic effect.** The prayer pose induces a state of **introversion, relaxation, and calmness**, and activates anahata chakra. It is the still point that gathers the body and breath before the dynamic asanas begin.
 
-**Psychodynamic effect.** As the first *and* last pose, pranamasana marks the beginning and end of the sun's transit from dawn to dusk — the peace and tranquillity of sunrise and sunset, the calm of the two spiritual junctures of the day when the forces of dark and light, [[Ida and Pingala|ida and pingala]], merge to produce the third force of [[Sushumna|sushumna]]. Performed only on exhalation, it signifies inner introversion and the *giving of oneself to the world*; it lets the practitioner find equipoise before the busy day and re-establish serenity once activity is over.
+**Psychodynamic effect.** As the first *and* last pose, pranamasana marks the beginning and end of the sun's transit from dawn to dusk — the peace and tranquillity of sunrise and sunset, the calm of the two spiritual junctures of the day when the forces of dark and light, [[Nadis#The three principal nadis|ida and pingala]], merge to produce the third force of [[Nadis#The three principal nadis|sushumna]]. Performed only on exhalation, it signifies inner introversion and the *giving of oneself to the world*; it lets the practitioner find equipoise before the busy day and re-establish serenity once activity is over.
 
 **Endocrine effect.** In pranamasana, prana is sent to anahata, whose physical correlate is the **thymus** — the gland of immunity. The introspective, giving attitude of the pose, combined with the exhalation, can beneficially stimulate and activate the thymus via anahata chakra.
 
@@ -154,11 +154,11 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 !200
 
-**At a glance** · Breath: **inhale** · Sun mantra: *Om Ravaye Namaha* · Bija: *Om Hreem* · Concentration: neck centre, [[Vishuddhi]]
+**At a glance** · Breath: **inhale** · Sun mantra: *Om Ravaye Namaha* · Bija: *Om Hreem* · Concentration: neck centre, [[Chakras#The Seven Principal Chakras|Vishuddhi]]
 
 **The mantra — *salutations to the shining one.*** Ravi ushers in change and offers divine blessings upon all life. In this posture we stretch the whole being *upward* toward the source of light, opening to receive those blessings.
 
-**The chakra.** Concentration at the throat centre, [[Vishuddhi|vishuddhi]], as the neck arches back and the throat is stretched.
+**The chakra.** Concentration at the throat centre, [[Chakras#The Seven Principal Chakras|vishuddhi]], as the neck arches back and the throat is stretched.
 
 **Physiodynamic effect.** The pose stretches the body upward and backward. The muscles of the back and neck are relaxed while the front of the chest and abdomen are stretched; combined with deep **inhalation**, this gives a gentle massage to the abdomen and **improves digestion**. The upward stretch gives **traction to the spine**, helping maintain the health of the spongy discs between the vertebrae and toning the spinal nerves. Through its effect on vishuddhi and the thyroid, the pose is said to help **remove excess weight**.
 
@@ -172,11 +172,11 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 !200
 
-**At a glance** · Breath: **exhale** · Sun mantra: *Om Suryaya Namaha* · Bija: *Om Hroom* · Concentration: base of spine, [[Swadhisthana]]
+**At a glance** · Breath: **exhale** · Sun mantra: *Om Suryaya Namaha* · Bija: *Om Hroom* · Concentration: base of spine, [[Chakras#The Seven Principal Chakras|Swadhisthana]]
 
 **The mantra — *salutations to he who induces activity.*** Surya is the dynamic aspect, worshipped in Vedic mythology as Lord of the Heavens, crossing the sky in a fiery chariot drawn by **seven horses** — the seven emanations of supreme consciousness manifesting as the [[Three Planes|seven planes of existence]] (*bhur, bhuvar, swar, maha, janah, tapah, brahman*). Surya controls all these planes.
 
-**The chakra.** Concentration at [[Swadhisthana]], at the base of the spine, as the forward fold compresses the lower abdomen.
+**The chakra.** Concentration at [[Chakras#The Seven Principal Chakras|Swadhisthana]], at the base of the spine, as the forward fold compresses the lower abdomen.
 
 **Physiodynamic effect.** Padahastasana combines the effects of an **inverted** pose with those of a **forward bend**. It massages the abdominal contents — especially the **liver, kidneys, gall bladder, pancreas, adrenal glands, uterus, and ovaries** — toning the whole abdomen, increasing the power of digestion, and eliminating complaints such as constipation. It relieves **female disorders such as prolapse and menstrual irregularities**. A good flow of blood is brought to the spinal nerves as they are stretched and toned, and the hamstrings and calf muscles are stretched, relieving varicose veins and aiding the return of blood to the heart.
 
@@ -190,11 +190,11 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 !200
 
-**At a glance** · Breath: **inhale** · Sun mantra: *Om Bhanave Namaha* · Bija: *Om Hraim* · Concentration: eyebrow centre, [[Ajna]]
+**At a glance** · Breath: **inhale** · Sun mantra: *Om Bhanave Namaha* · Bija: *Om Hraim* · Concentration: eyebrow centre, [[Chakras#The Seven Principal Chakras|Ajna]]
 
 **The mantra — *salutations to he who illumines.*** The sun is the physical representation of the guru, who removes the darkness of our delusion just as sunrise removes the darkness of night. We turn the face toward this illumination and pray for an end to the dark night of ignorance.
 
-**The chakra.** Concentration at the eyebrow centre, [[Ajna|ajna]] — the seat of inner guidance and intuition, directly linked with the back of the skull and the medulla.
+**The chakra.** Concentration at the eyebrow centre, [[Chakras#The Seven Principal Chakras|ajna]] — the seat of inner guidance and intuition, directly linked with the back of the skull and the medulla.
 
 **Physiodynamic effect.** The lunge gives a **backward bend** to the spine, relaxing the back muscles, while the abdominal area is stretched as one leg goes forward and the other stretches back. The pelvis is pushed down and forward, and the main stretch falls in the **pelvic region**.
 
@@ -208,11 +208,11 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 !200
 
-**At a glance** · Breath: **exhale** · Sun mantra: *Om Khagaya Namaha* · Bija: *Om Hraum* · Concentration: neck centre, [[Vishuddhi]]
+**At a glance** · Breath: **exhale** · Sun mantra: *Om Khagaya Namaha* · Bija: *Om Hraum* · Concentration: neck centre, [[Chakras#The Seven Principal Chakras|Vishuddhi]]
 
 **The mantra — *salutations to he who moves quickly in the sky.*** It is the sun's daily movement across the sky that is the basis of our measurement of time. In this posture we offer obeisance and pray for progress in life.
 
-**The chakra.** Concentration returns to [[Vishuddhi|vishuddhi]] at the throat as the head drops between the arms.
+**The chakra.** Concentration returns to [[Chakras#The Seven Principal Chakras|vishuddhi]] at the throat as the head drops between the arms.
 
 **Physiodynamic effect.** Parvatasana physically **strengthens the nerves and muscles of the arms and legs**, stretches the calf muscles and Achilles tendons, and makes the spine straight and taut. It relieves varicose veins, tones the spinal nerves, and is said to **remove fat**.
 
@@ -226,11 +226,11 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 !200
 
-**At a glance** · Breath: **retain (hold the exhalation)** · Sun mantra: *Om Pushne Namaha* · Bija: *Om Hrah* · Concentration: behind the navel, [[Manipura]]
+**At a glance** · Breath: **retain (hold the exhalation)** · Sun mantra: *Om Pushne Namaha* · Bija: *Om Hrah* · Concentration: behind the navel, [[Chakras#The Seven Principal Chakras|Manipura]]
 
 **The mantra — *salutations to the giver of strength and nourishment.*** The sun is the source of all strength; like a father, he nourishes us with energy, light, and life. Here we touch all **eight corners of the body** to the ground — two feet, two knees, chest, two hands, and chin — offering the whole being in the hope that he may bestow mental, physical, and spiritual strength.
 
-**The chakra.** Concentration rests at [[Manipura]], behind the navel — the solar centre — and in the retained breath the practitioner may sense the meeting of *prana* and *apana* here.
+**The chakra.** Concentration rests at [[Chakras#The Seven Principal Chakras|Manipura]], behind the navel — the solar centre — and in the retained breath the practitioner may sense the meeting of *prana* and *apana* here.
 
 **Physiodynamic effect.** Ashtanga namaskara **develops the chest and strengthens the arms, shoulders, and legs**. It accentuates the normal curves of the spine and sends additional blood to the muscles, helping to **regenerate the nerves**, while the back muscles experience a profound relaxation. Manipura is stimulated, and the held breath concentrates energy at the solar centre.
 
@@ -244,11 +244,11 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 !200
 
-**At a glance** · Breath: **inhale** · Sun mantra: *Om Hiranya Garbhaya Namaha* · Bija: *Om Hraam* · Concentration: base of spine, [[Swadhisthana]]
+**At a glance** · Breath: **inhale** · Sun mantra: *Om Hiranya Garbhaya Namaha* · Bija: *Om Hraam* · Concentration: base of spine, [[Chakras#The Seven Principal Chakras|Swadhisthana]]
 
 **The mantra — *salutations to the golden cosmic self.*** *Hiranya garbha*, the "golden egg/womb," is the seed of causality within which the whole universe is contained in potential, prior to manifestation — just as all life is potential in the sun. In this posture we pray for the **awakening of creativity**.
 
-**The chakra.** Concentration at [[Swadhisthana]] at the base of the spine, the centre associated with creativity and the reproductive sphere.
+**The chakra.** Concentration at [[Chakras#The Seven Principal Chakras|Swadhisthana]] at the base of the spine, the centre associated with creativity and the reproductive sphere.
 
 **Physiodynamic effect.** The cobra gives a **compression to the abdominal contents**, relieving ailments such as asthma, constipation, indigestion, and complaints of the kidneys and liver. As the backbend is assumed it stretches **each vertebra in turn from top to bottom**, toning the back muscles and the spinal nerves.
 
@@ -262,11 +262,11 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 !200
 
-**At a glance** · Breath: **exhale** · Sun mantra: *Om Marichaye Namaha* · Bija: *Om Hreem* · Concentration: neck centre, [[Vishuddhi]]
+**At a glance** · Breath: **exhale** · Sun mantra: *Om Marichaye Namaha* · Bija: *Om Hreem* · Concentration: neck centre, [[Chakras#The Seven Principal Chakras|Vishuddhi]]
 
 **The mantra — *salutations to the Lord of the Dawn.*** Marichi is a son of Brahma; his name also means **mirage**. All our life we chase a true meaning like a thirsty person chasing water in the desert, fooled by the mirages the sun's rays produce. Here we pray for **true discrimination** — the power to tell the real from the unreal.
 
-**The chakra · body.** Physically identical to **Position 5**: concentration at [[Vishuddhi|vishuddhi]]; the same strengthening of the arms and legs, stretch of the calves and Achilles, and toning of the spinal nerves; the same inversion effect on the **pituitary** and the throat effect on the **thyroid/parathyroid**. What changes is the *mantra and the mood* — the return journey is now coloured by the prayer for discrimination rather than the prayer for progress.
+**The chakra · body.** Physically identical to **Position 5**: concentration at [[Chakras#The Seven Principal Chakras|vishuddhi]]; the same strengthening of the arms and legs, stretch of the calves and Achilles, and toning of the spinal nerves; the same inversion effect on the **pituitary** and the throat effect on the **thyroid/parathyroid**. What changes is the *mantra and the mood* — the return journey is now coloured by the prayer for discrimination rather than the prayer for progress.
 
 ---
 
@@ -274,11 +274,11 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 !200
 
-**At a glance** · Breath: **inhale** · Sun mantra: *Om Adityaya Namaha* · Bija: *Om Hroom* · Concentration: eyebrow centre, [[Ajna]]
+**At a glance** · Breath: **inhale** · Sun mantra: *Om Adityaya Namaha* · Bija: *Om Hroom* · Concentration: eyebrow centre, [[Chakras#The Seven Principal Chakras|Ajna]]
 
 **The mantra — *salutations to the son of Aditi, the cosmic Mother.*** Aditi is a name of the cosmic Mother (*Mahashakti*) — boundless, inexhaustible, the mother of all the gods — and the sun is one of her children. Here we salute the infinite cosmic mother.
 
-**The chakra · body.** The lunge to the *opposite* leg from Position 4: concentration at [[Ajna|ajna]]; the same backbend relaxation of the back, the same pelvic stretch, the same support for the **thyroid** (neck), the **pineal/intuition** (ajna), and the **reproductive organs**. The body retraces Position 4; the mantra turns the salutation from *illumination* toward the *cosmic Mother*.
+**The chakra · body.** The lunge to the *opposite* leg from Position 4: concentration at [[Chakras#The Seven Principal Chakras|ajna]]; the same backbend relaxation of the back, the same pelvic stretch, the same support for the **thyroid** (neck), the **pineal/intuition** (ajna), and the **reproductive organs**. The body retraces Position 4; the mantra turns the salutation from *illumination* toward the *cosmic Mother*.
 
 ---
 
@@ -286,11 +286,11 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 !200
 
-**At a glance** · Breath: **exhale** · Sun mantra: *Om Savitre Namaha* · Bija: *Om Hraim* · Concentration: base of spine, [[Swadhisthana]]
+**At a glance** · Breath: **exhale** · Sun mantra: *Om Savitre Namaha* · Bija: *Om Hraim* · Concentration: base of spine, [[Chakras#The Seven Principal Chakras|Swadhisthana]]
 
 **The mantra — *salutations to the stimulating power of the sun.*** Savitr is the arouser, the stimulator. Savitr represents the sun *before* rising — stirring man toward waking activity — while Surya (saluted in Position 3) represents the sun *after* sunrise. Here we salute Savitr to obtain the **vivifying power** of the sun.
 
-**The chakra · body.** Identical to **Position 3**: concentration at [[Swadhisthana]]; the same inverted forward-bend massage of the liver, kidneys, pancreas, adrenals, uterus, and ovaries; the same relief of constipation and **menstrual irregularities**; the same powerful effect on the **pituitary** (inversion) and the **reproductive organs**. The salutation shifts from the risen sun (Surya) to the sun that arouses (Savitr).
+**The chakra · body.** Identical to **Position 3**: concentration at [[Chakras#The Seven Principal Chakras|Swadhisthana]]; the same inverted forward-bend massage of the liver, kidneys, pancreas, adrenals, uterus, and ovaries; the same relief of constipation and **menstrual irregularities**; the same powerful effect on the **pituitary** (inversion) and the **reproductive organs**. The salutation shifts from the risen sun (Surya) to the sun that arouses (Savitr).
 
 ---
 
@@ -298,11 +298,11 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 !200
 
-**At a glance** · Breath: **inhale** · Sun mantra: *Om Arkaya Namaha* · Bija: *Om Hraum* · Concentration: neck centre, [[Vishuddhi]]
+**At a glance** · Breath: **inhale** · Sun mantra: *Om Arkaya Namaha* · Bija: *Om Hraum* · Concentration: neck centre, [[Chakras#The Seven Principal Chakras|Vishuddhi]]
 
 **The mantra — *salutations to he who is fit to be praised.*** *Arka* means "energy." The sun is the source of most of the energy in the world we know; here we offer respects to this source of life and energy.
 
-**The chakra · body.** Identical to **Position 2**: concentration at [[Vishuddhi|vishuddhi]]; the same upward-and-back stretch giving traction to the spine and a gentle abdominal massage with the inhalation; the same **thyroid/parathyroid** stimulation through the throat. As the body rises back toward standing, the salutation honours the sun as the praiseworthy **source of energy**.
+**The chakra · body.** Identical to **Position 2**: concentration at [[Chakras#The Seven Principal Chakras|vishuddhi]]; the same upward-and-back stretch giving traction to the spine and a gentle abdominal massage with the inhalation; the same **thyroid/parathyroid** stimulation through the throat. As the body rises back toward standing, the salutation honours the sun as the praiseworthy **source of energy**.
 
 ---
 
@@ -310,17 +310,17 @@ Each posture is shown below as it appears in the book's appendix, followed by ev
 
 !200
 
-**At a glance** · Breath: **exhale** · Sun mantra: *Om Bhaskaraya Namaha* · Bija: *Om Hrah* · Concentration: heart centre, [[Anahata]]
+**At a glance** · Breath: **exhale** · Sun mantra: *Om Bhaskaraya Namaha* · Bija: *Om Hrah* · Concentration: heart centre, [[Chakras#The Seven Principal Chakras|Anahata]]
 
 **The mantra — *salutations to he who leads to enlightenment.*** In this final salutation we honour the sun as the great revealer of all transcendental and spiritual truth, lighting the pathway to our ultimate goal of liberation. We pray that this pathway may be revealed to us.
 
-**The chakra · body.** The round closes where it began — concentration at the heart, [[Anahata]], stimulating the **thymus**; the same introversion, relaxation, and calm of Position 1. But the half-round has carried the practitioner through the sun's whole transit, and pranamasana now holds not the *anticipation* of the day but its *completion* — the equipoise to which all the dynamic asanas return.
+**The chakra · body.** The round closes where it began — concentration at the heart, [[Chakras#The Seven Principal Chakras|Anahata]], stimulating the **thymus**; the same introversion, relaxation, and calm of Position 1. But the half-round has carried the practitioner through the sun's whole transit, and pranamasana now holds not the *anticipation* of the day but its *completion* — the equipoise to which all the dynamic asanas return.
 
 ---
 
 ## Why It Matters
 
-The deepest claim of the book is in its subtitle. Surya namaskara is *a technique of solar vitalization* — not a stretch, not a warm-up, but a complete instrument that meets the human being on all three planes at once: it tones every gland and system of the **physical body**, it cleanses the channels and balances the flows of the **pranic body** around the solar centre at [[Manipura]], and it works the **mind** through mantra and archetypal image. Practised quickly it is exercise; practised slowly, with breath, mantra, and chakra awareness, it becomes a series of mudras and a doorway to the preparatory ground of [[Kundalini|kundalini yoga]]. That is why a practice that *looks* like twelve simple movements is treated, in the [[Bihar School of Yoga]] lineage, as a foundation discipline — the daily means by which the practitioner attunes the small solar system of the body to the great one outside it.
+The deepest claim of the book is in its subtitle. Surya namaskara is *a technique of solar vitalization* — not a stretch, not a warm-up, but a complete instrument that meets the human being on all three planes at once: it tones every gland and system of the **physical body**, it cleanses the channels and balances the flows of the **pranic body** around the solar centre at [[Chakras#The Seven Principal Chakras|Manipura]], and it works the **mind** through mantra and archetypal image. Practised quickly it is exercise; practised slowly, with breath, mantra, and chakra awareness, it becomes a series of mudras and a doorway to the preparatory ground of [[Kundalini|kundalini yoga]]. That is why a practice that *looks* like twelve simple movements is treated, in the [[Bihar School of Yoga]] lineage, as a foundation discipline — the daily means by which the practitioner attunes the small solar system of the body to the great one outside it.
 
 For the wider treatment of the sun-and-body theme in this wiki, see the essay *[[The Body That Outshines The Sun]]*; for the convergence of the chakra–endocrine map with modern endocrinology, see *[[Upstream of the Lab Report]]*.
 
@@ -329,10 +329,10 @@ For the wider treatment of the sun-and-body theme in this wiki, see the essay *[
 ## Related Concepts
 
 - [[Chakras]] — the seven psychic centres, six of which the round stimulates
-- [[Manipura]] — the solar centre at the navel; the hinge of "solar vitalization"
-- [[Mooladhara|Mooladhara]], [[Swadhisthana]], [[Anahata]], [[Vishuddhi]], [[Ajna]] — the centres touched in the sequence
-- [[Ida and Pingala]] — the lunar and solar nadis the practice balances
-- [[Sushumna]] — the central channel awakened when ida and pingala merge
+- [[Chakras#The Seven Principal Chakras|Manipura]] — the solar centre at the navel; the hinge of "solar vitalization"
+- [[Chakras#The Seven Principal Chakras|Mooladhara]], [[Chakras#The Seven Principal Chakras|Swadhisthana]], [[Chakras#The Seven Principal Chakras|Anahata]], [[Chakras#The Seven Principal Chakras|Vishuddhi]], [[Chakras#The Seven Principal Chakras|Ajna]] — the centres touched in the sequence
+- [[Nadis#The three principal nadis|Ida and Pingala]] — the lunar and solar nadis the practice balances
+- [[Nadis#The three principal nadis|Sushumna]] — the central channel awakened when ida and pingala merge
 - [[Kundalini]] — the dormant energy surya namaskara prepares the body to receive
 - [[Prana]] — the vital energy circulated and balanced by the practice
 - [[Gayatri]] — the solar mantra whose seed verse the book quotes from the *Rig Veda*

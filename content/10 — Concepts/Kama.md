@@ -276,11 +276,11 @@ The middle path the lineage teaches is *transformation*: to see kama clearly, to
 ## Related Concepts
 
 - [[Shadripus]] — the six enemies; this page is the foundation of the cluster
-- [[Krodha]] — anger, the second ripu, which arises when kama is frustrated *(pending)*
-- [[Lobha]] — greed, the third ripu *(pending)*
-- [[Moha]] — delusion, the fourth ripu, named in the Gita cascade *(pending)*
-- [[Mada]] — pride, the fifth ripu *(pending)*
-- [[Matsarya]] — envy, the sixth ripu *(pending)*
+- [[Shadripus|Krodha]] — anger, the second ripu, which arises when kama is frustrated *(pending)*
+- [[Shadripus|Lobha]] — greed, the third ripu *(pending)*
+- [[Shadripus|Moha]] — delusion, the fourth ripu, named in the Gita cascade *(pending)*
+- [[Shadripus|Mada]] — pride, the fifth ripu *(pending)*
+- [[Shadripus|Matsarya]] — envy, the sixth ripu *(pending)*
 - [[Buddhi]] — the discriminating intelligence whose destruction is the final step in the Gita cascade
 - [[Manas]] — the mind in which kamna manifests
 - Chitta — the storehouse of memory through which vasanas surface

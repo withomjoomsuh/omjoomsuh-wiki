@@ -20,7 +20,7 @@ Etymology of *Gayatri*: from the Sanskrit root *gay* (to sing) + *tri* (to prote
 Key terms within the verse:
 - *Savitur* — of the generator. From *su*, to impel, to bring into being. Not the sun as a celestial object, but the principle that generates consciousness and brings light into darkness.
 - *Bhargo* — radiance that purifies; light that burns away the false.
-- *Dhee* / *Dhiyo* — the faculty of higher intellect and discernment. See [[Dhee]] / [[Buddhi]].
+- *Dhee* / *Dhiyo* — the faculty of higher intellect and discernment. See [[Buddhi|Dhee]] / [[Buddhi]].
 - *Prachodayaat* — may inspire, may impel, may set into motion. Not passive reception but active illumination.
 
 ## Where it appears in the canon
@@ -46,7 +46,7 @@ For the practitioner in the second room of [[The Four Rooms Of Talent]] — high
 - [[Three Planes]]
 - [[Buddhi]]
 - [[Manas]]
-- [[Dhee]]
+- [[Buddhi|Dhee]]
 - [[Wilfred Bion]]
 - [[Brahma Muhurta]]
 - [[Sankalpa]]

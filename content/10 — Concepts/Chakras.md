@@ -41,13 +41,13 @@ The chakras ascend the spinal axis from the base to the crown. Each is symbolise
 
 | #   | Chakra                          | Lotus                               | Location                                             |
 | --- | ------------------------------- | ----------------------------------- | ---------------------------------------------------- |
-| 1   | **[[Mooladhara]]**              | Four-petalled deep red              | Base of the spine (perineum in men, cervix in women) |
-| 2   | **[[Swadhisthana]]**            | Six-petalled vermilion              | Sacral region, two finger-widths above mooladhara    |
-| 3   | **[[Manipura]]**   | Ten-petalled bright yellow          | Solar plexus, behind the navel                       |
-| 4   | **[[Anahata]]**     | Twelve-petalled blue                | Heart centre, behind the sternum                     |
-| 5   | **[[Vishuddhi]]** | Sixteen-petalled violet             | Throat, at the base of the neck                      |
-| 6   | **[[Ajna]]**           | Two-petalled silver-grey            | Mid-eyebrow centre (*bhrumadhya*)                    |
-| 7   | **[[Sahasrara]]**               | One thousand-petalled multicoloured | Crown of the head                                    |
+| 1   | **Mooladhara**              | Four-petalled deep red              | Base of the spine (perineum in men, cervix in women) |
+| 2   | **Swadhisthana**            | Six-petalled vermilion              | Sacral region, two finger-widths above mooladhara    |
+| 3   | **Manipura**   | Ten-petalled bright yellow          | Solar plexus, behind the navel                       |
+| 4   | **Anahata**     | Twelve-petalled blue                | Heart centre, behind the sternum                     |
+| 5   | **Vishuddhi** | Sixteen-petalled violet             | Throat, at the base of the neck                      |
+| 6   | **Ajna**           | Two-petalled silver-grey            | Mid-eyebrow centre (*bhrumadhya*)                    |
+| 7   | **Sahasrara**               | One thousand-petalled multicoloured | Crown of the head                                    |
 
 Each chakra combines six aspects in tantric meditation: the chakra colour, the petals of the lotus, the yantra (geometrical shape), the *bija mantra*, the animal symbol, and the higher or divine being who presides over it.
 
@@ -119,7 +119,7 @@ This higher consciousness is a *gift and a responsibility*. The practitioner has
 
 When the *shakti* (kundalini energy) awakens in Mooladhara, it cannot rise immediately. It may wake up and sleep again many times. In the morning, you usually have to wake your children several times because they keep going back to sleep — kundalini behaves the same way. Sometimes it even ascends to Swadhisthana or Manipura, only to return to Mooladhara again to sleep. However, once the shakti goes beyond Manipura, there is no going back.
 
-Stagnation in a chakra only occurs when there is an obstruction in *[[Sushumna|sushumna]]* (the central spinal channel) or one of the chakras. Kundalini can remain in one chakra for many years, or even for a whole lifetime.
+Stagnation in a chakra only occurs when there is an obstruction in *[[Nadis#The three principal nadis|sushumna]]* (the central spinal channel) or one of the chakras. Kundalini can remain in one chakra for many years, or even for a whole lifetime.
 
 When kundalini gets blocked in a chakra during transit, the practitioner begins to exhibit some of the *siddhis* (psychic powers) associated with that chakra. This is dangerous — at that time the practitioner may not have self-control and may not understand the fact that she is only *on the road*, not at her destination. The temptation to display siddhis clouds the practitioner in a thick veil of *maya* and hinders further progress.
 
@@ -155,7 +155,7 @@ Swamiji's example in Chapter 16: once the great scientist Isaac Newton was sitti
 
 The Lord Buddha example, immediately following: once Lord Buddha went hunting with his cousin Devadatta. Devadatta shot an arrow at a pigeon and it fell, injured by the arrow. Lord Buddha felt the pain of that bird and immediately rushed to remove the arrow. But Devadatta did not feel the pain; he was very pleased with himself because he had struck his target. Buddha's consciousness had attained a higher frequency vibration, as a result of which he was sensitive to the bird's pain and was therefore manifesting compassion.
 
-The higher qualities of *love, compassion, charity, mercy* are not moral virtues to be cultivated through willpower. They are *the expressions of a mind influenced by awakened chakras*. This is precisely the reason why so much importance is given in the tradition to the awakening of [[Anahata]]. All scriptural texts place great emphasis on the awakening of Anahata, [[Ajna]], and [[Mooladhara]] chakras. Yogis emphasise Ajna and Mooladhara; all of mankind emphasises Anahata. When Anahata is awakened, the practitioner has a sublime relationship with God, with her family members, and with every being.
+The higher qualities of *love, compassion, charity, mercy* are not moral virtues to be cultivated through willpower. They are *the expressions of a mind influenced by awakened chakras*. This is precisely the reason why so much importance is given in the tradition to the awakening of Anahata. All scriptural texts place great emphasis on the awakening of Anahata, Ajna, and Mooladhara chakras. Yogis emphasise Ajna and Mooladhara; all of mankind emphasises Anahata. When Anahata is awakened, the practitioner has a sublime relationship with God, with her family members, and with every being.
 
 When the chakras are awakened, the mind automatically changes. Values in life also change, and the quality of love and relationships improves immensely, enabling the practitioner to balance out the disappointments and frustrations in life. The practitioner is able to live a little higher than she does now, and her attitude toward herself and toward this life is much better.
 
@@ -195,10 +195,10 @@ The 1990 essay writes plainly: *"The pineal and the gonadal system interact exte
 
 The chakra cluster, as it sits in this wiki and as it will grow:
 
-- [[Mooladhara]], [[Swadhisthana]], [[Manipura]], [[Anahata]], [[Vishuddhi]], [[Ajna]], [[Sahasrara]] — the seven principal chakras
+- Mooladhara, Swadhisthana, Manipura, Anahata, Vishuddhi, Ajna, Sahasrara — the seven principal chakras
 - [[Kundalini]] — the dormant energy at the base of the spine that ascends through the chakras
 - [[Nadis]] — the energy channels that intersect at the chakras
-- [[Sushumna]] — the central channel through which kundalini rises
+- [[Nadis#The three principal nadis|Sushumna]] — the central channel through which kundalini rises
 - [[Prana]] — the energy substrate the chakras operate on
 - Granthis — the three psychic knots (Brahma, Vishnu, Rudra) at Mooladhara, Anahata, Ajna
 - Kshetram — the front-of-body trigger points reflecting the chakras

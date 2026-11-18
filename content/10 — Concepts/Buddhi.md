@@ -64,7 +64,7 @@ For the practitioner who arrives at the practice asking *"why am I so reactive?"
 
 - [[Gayatri]] 
 - [[Manas]] 
-- [[Dhee]] 
+- Dhee 
 - [[Three Planes]] 
 - [[Samkhya]] 
 - [[Tamas]] 

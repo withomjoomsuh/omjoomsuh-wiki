@@ -122,7 +122,7 @@ In the quarter-century since the Western scientific instruments became fine enou
 
 **2002 — Kjaer et al., *Cognitive Brain Research*.** Demonstrated significantly increased endogenous dopamine release in the ventral striatum during yoga nidra. The first *in vivo* demonstration in the scientific literature linking endogenous neurotransmitter release to a deliberately induced conscious state.
 
-**2024 — Datta et al., *Scientific Reports*.** Mapped functional connectivity changes during practice. Showed altered [[Default Mode Network|default-mode network]] activity in practitioners — the network the contemplative traditions have always called the *[[Vritti|vrittis]]*, the swirling thought-currents.
+**2024 — Datta et al., *Scientific Reports*.** Mapped functional connectivity changes during practice. Showed altered [[Default Mode Network|default-mode network]] activity in practitioners — the network the contemplative traditions have always called the *[[Chitta|vrittis]]*, the swirling thought-currents.
 
 **2025 — Moszeik et al., *Stress and Health*.** Randomised controlled trial, thirty minutes of yoga nidra daily for two months. The [[Cortisol Awakening Response|cortisol awakening response]] flattened. Perceived stress, anxiety, depression, rumination, sleep disturbances — all declined significantly versus control groups.
 
@@ -166,7 +166,7 @@ The Yoga Nidra cluster, as it sits in this wiki and as it will grow:
 - [[Yoga Sutras]] — the textual basis for understanding yoga nidra as pratyahara
 - [[Bihar School of Yoga]] — the lineage institution that holds the practice
 - [[Swami Satyananda Saraswati]] — the reconstructor
-- [[Default Mode Network]] — the modern neurological correlate of the [[Vritti|vrittis]]
+- [[Default Mode Network]] — the modern neurological correlate of the [[Chitta|vrittis]]
 - [[Brahma Muhurta]] — the pre-dawn alternative timing
 - [[Prana]] — the energy substrate the practice engages
 

@@ -89,7 +89,7 @@ The 1999 PET imaging study by Hans Lou and Troels Kjaer at the Kennedy Institute
 
 The follow-up study in 2002, using 11C-raclopride to measure dopamine displacement, found significantly increased endogenous dopamine release in the ventral striatum during the same state. The brain, in pratyahara, was rewarding itself with the chemistry of meaningful action without performing any action.
 
-The 2024 *Scientific Reports* paper on functional connectivity changes during yoga nidra showed altered [[Default Mode Network|default-mode network]] activity — the network that mediates self-referential thought, mind-wandering, and rumination. The chatter, in the moment of pratyahara, briefly went quiet. The Vedic tradition called this same chatter the *[[Vritti|vrittis]]*, the swirling thought-currents that the *[[Yoga Sutras|Yoga Sutras]]* explicitly identify as the obstruction yoga is designed to remove.
+The 2024 *Scientific Reports* paper on functional connectivity changes during yoga nidra showed altered [[Default Mode Network|default-mode network]] activity — the network that mediates self-referential thought, mind-wandering, and rumination. The chatter, in the moment of pratyahara, briefly went quiet. The Vedic tradition called this same chatter the *[[Chitta|vrittis]]*, the swirling thought-currents that the *[[Yoga Sutras|Yoga Sutras]]* explicitly identify as the obstruction yoga is designed to remove.
 
 The 2025 randomised controlled trial by Moszeik and colleagues in *Stress and Health* found that thirty minutes of pratyahara-based practice daily for two months flattened the [[Cortisol Awakening Response|cortisol awakening response]] and reduced perceived stress, anxiety, depression, rumination, and sleep disturbances — all of which are downstream effects of a nervous system that has been pulled outward by its senses for too long and has not been given a way to come home.
 
@@ -137,7 +137,7 @@ This is the goal, and it is reached not through effort but through *rhythm*. Dai
 - [[Patanjali]] — codifier of the eightfold path
 - [[Yoga Sutras]] — the textual source for the definition of pratyahara	
 - [[Default Mode Network]] — the modern neurological correlate of the *vrittis*
-- [[Vritti]] — the swirling thought-currents that pratyahara quietens
+- [[Chitta|Vritti]] — the swirling thought-currents that pratyahara quietens
 - [[Vagus Nerve]] — the autonomic structure pratyahara engages
 - [[Cortisol Awakening Response]] — the stress-axis measure that pratyahara modulates
 - [[Mahamrityunjaya]] — the first of the three morning mantras, operationally a daily pratyahara of the auditory sense

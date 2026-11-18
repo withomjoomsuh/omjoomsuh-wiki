@@ -81,7 +81,7 @@ Krishna had promised this man's mother, long before, that he would forgive her s
 
 So he sat and he counted.
 
-He let a man take him apart in front of every ruler alive, in specific detail, most of it true, and he kept the tally quietly and did not interrupt and did not lose his composure. The chakra came out on the hundred and first. Not the eightieth, when it began to sting. Not the ninety-ninth, when it would have been so easy. That is [[Krodha|krodha]] held on a leash for a hundred counts, which is a harder practice than never feeling it.
+He let a man take him apart in front of every ruler alive, in specific detail, most of it true, and he kept the tally quietly and did not interrupt and did not lose his composure. The chakra came out on the hundred and first. Not the eightieth, when it began to sting. Not the ninety-ninth, when it would have been so easy. That is [[Shadripus|krodha]] held on a leash for a hundred counts, which is a harder practice than never feeling it.
 
 And at that very sacrifice, when the great tasks were divided among the greatest men present, he had asked for the job of washing the guests' feet and clearing away their leavings, and taken it, and done it.
 
@@ -195,7 +195,7 @@ Happy Janmashtami.
 
 ## Related
 
-[[Manah Prasad]] · [[Sattva]] · [[Upavasa]] · [[Shadripus]] · [[Krodha]] · [[Sadhana]] · [[Four Dharmas]] · [[Sanatan Dharma]] · [[The Chakyar Could Insult the King]] · [[Of All The Things, He Chose That One]] · [[The Self that Must Win]]
+[[Manah Prasad]] · [[Sattva]] · [[Upavasa]] · [[Shadripus]] · [[Shadripus|Krodha]] · [[Sadhana]] · [[Four Dharmas]] · [[Sanatan Dharma]] · [[The Chakyar Could Insult the King]] · [[Of All The Things, He Chose That One]] · [[The Self that Must Win]]
 
 ## Sources
 

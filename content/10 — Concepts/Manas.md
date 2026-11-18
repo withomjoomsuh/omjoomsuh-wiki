@@ -53,7 +53,7 @@ For the contemporary practitioner, manas is the answer to the question of *what 
 - [[Gayatri]]
 - [[Shadripus]]
 - [[Samskaras]]
-- [[Vikalpa]]
+- [[Chitta|Vikalpa]]
 - [[Sattva]]
 - [[Rajas]]
 - [[Tamas]]
