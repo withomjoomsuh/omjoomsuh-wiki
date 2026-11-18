@@ -70,3 +70,69 @@
   from = "/25-—-Stories/A-Fourth-There-Shall-Not-Be"
   to = "/25-—-Stories/The-Third-Rome/A-Fourth-There-Shall-Not-Be"
   status = 301
+
+# Same old story URLs, lowercase form
+[[redirects]]
+  from = "/25-%E2%80%94-stories/the-second-sun"
+  to = "/25-%E2%80%94-Stories/The-Second-Sun/The-Second-Sun"
+  status = 301
+[[redirects]]
+  from = "/25-—-stories/the-second-sun"
+  to = "/25-—-Stories/The-Second-Sun/The-Second-Sun"
+  status = 301
+[[redirects]]
+  from = "/25-%E2%80%94-stories/the-crease"
+  to = "/25-%E2%80%94-Stories/The-Second-Sun/The-Crease"
+  status = 301
+[[redirects]]
+  from = "/25-—-stories/the-crease"
+  to = "/25-—-Stories/The-Second-Sun/The-Crease"
+  status = 301
+[[redirects]]
+  from = "/25-%E2%80%94-stories/the-fold"
+  to = "/25-%E2%80%94-Stories/The-Second-Sun/The-Fold"
+  status = 301
+[[redirects]]
+  from = "/25-—-stories/the-fold"
+  to = "/25-—-Stories/The-Second-Sun/The-Fold"
+  status = 301
+[[redirects]]
+  from = "/25-%E2%80%94-stories/the-shape"
+  to = "/25-%E2%80%94-Stories/The-Second-Sun/The-Shape"
+  status = 301
+[[redirects]]
+  from = "/25-—-stories/the-shape"
+  to = "/25-—-Stories/The-Second-Sun/The-Shape"
+  status = 301
+[[redirects]]
+  from = "/25-%E2%80%94-stories/the-third-rome"
+  to = "/25-%E2%80%94-Stories/The-Third-Rome/The-Third-Rome"
+  status = 301
+[[redirects]]
+  from = "/25-—-stories/the-third-rome"
+  to = "/25-—-Stories/The-Third-Rome/The-Third-Rome"
+  status = 301
+[[redirects]]
+  from = "/25-%E2%80%94-stories/wind-of-change"
+  to = "/25-%E2%80%94-Stories/The-Third-Rome/Wind-of-Change"
+  status = 301
+[[redirects]]
+  from = "/25-—-stories/wind-of-change"
+  to = "/25-—-Stories/The-Third-Rome/Wind-of-Change"
+  status = 301
+[[redirects]]
+  from = "/25-%E2%80%94-stories/not-one-inch"
+  to = "/25-%E2%80%94-Stories/The-Third-Rome/Not-One-Inch"
+  status = 301
+[[redirects]]
+  from = "/25-—-stories/not-one-inch"
+  to = "/25-—-Stories/The-Third-Rome/Not-One-Inch"
+  status = 301
+[[redirects]]
+  from = "/25-%E2%80%94-stories/a-fourth-there-shall-not-be"
+  to = "/25-%E2%80%94-Stories/The-Third-Rome/A-Fourth-There-Shall-Not-Be"
+  status = 301
+[[redirects]]
+  from = "/25-—-stories/a-fourth-there-shall-not-be"
+  to = "/25-—-Stories/The-Third-Rome/A-Fourth-There-Shall-Not-Be"
+  status = 301
