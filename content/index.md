@@ -84,7 +84,9 @@ Below is every page, in four groups. Essays are the long pieces. Stories are fic
 - [[Chitta]]: the mind-stuff, and the store where every experience leaves its trace.
 - [[Cortisol Awakening Response]]: the sharp rise in cortisol in the first forty-five minutes after waking; what the evidence supports, and what it does not.
 - [[Dashanami Sannyasa Parampara]]: the ten monastic orders of Adi Shankaracharya's tradition.
+- [[Default Mode Network]]: the brain network of the wandering mind, and where it meets the vrittis.
 - [[Dharma]]: what holds a thing in its place and keeps it being what it is; the first of the four aims of a life.
+- [[Durga Saptashati]]: the seven hundred verses to the Goddess, and the three battles.
 - [[Four Dharmas]]: the fourfold framing of dharma used in OMJOOMSUH teaching.
 - [[Gayatri]]: the Vedic mantra to the solar deity Savitr, a core sadhana chant.
 - [[Guna]]: the three strands out of which all of nature is woven; the parent of sattva, rajas and tamas.
@@ -94,7 +96,9 @@ Below is every page, in four groups. Essays are the long pieces. Stories are fic
 - [[Karma Yoga]]: the discipline of acting without holding on to what the action will produce.
 - [[Kleshas]]: the five afflictions Patanjali names as the roots of suffering.
 - [[Kshama]]: forgiveness and forbearance, one of the ten marks of dharma.
+- [[Kundalini]]: the coiled energy at the base of the spine, and the lineage's caution.
 - [[Mahamrityunjaya]]: the great death-conquering mantra to Shiva.
+- [[Manah Prasad]]: the gladdening of the mind, the first lifestyle yama.
 - [[Manas]]: the sensory-processing mind in Samkhya psychology.
 - [[Mantra Diksha]]: formal initiation into a mantra by the guru.
 - [[Metabolic Flexibility]]: the body's capacity to switch fuel sources; a bridge concept to modern physiology.
@@ -123,12 +127,15 @@ Below is every page, in four groups. Essays are the long pieces. Stories are fic
 - [[Shakti]]: power as a principle; the active, generative side of reality, and the Goddess addressed by name in the morning chant.
 - [[Shraddha]]: faith grounded in conviction and practice.
 - [[Surya Namaskara]]: the sun salutation; a core morning practice.
+- [[Swasthya Kosha]]: the OMJOOMSUH morning journal, built on the five sheaths.
 - [[Tamas]]: the guna of inertia, heaviness, and dullness.
 - [[Three Planes]]: the threefold framing of planes used in OMJOOMSUH teaching.
 - [[Upavasa]]: fasting as a disciplined practice.
 - [[Vagus Nerve]]: the parasympathetic nerve; the physiological bridge to chanting and calm.
+- [[Vama Marga]]: the left-hand path of Tantra, and the householder.
 - [[Vasudhaiva Kutumbakam]]: "the world is one family"; the anti-isolation principle.
 - [[Yoga Nidra]]: yogic sleep; deep conscious relaxation.
+- [[Yoga Sutras]]: Patanjali's aphorisms on yoga as the stilling of the mind.
 - [[Yogic UX]]: the design discipline that builds software like a temple bell rather than a slot machine; the four turns.
 
 ---
@@ -136,6 +143,7 @@ Below is every page, in four groups. Essays are the long pieces. Stories are fic
 ### People
 
 - [[Adi Shankaracharya]]: founder of the Dashanami tradition; head of the lineage.
+- [[Patanjali]]: author of the Yoga Sutras; almost nothing is known of his life.
 - [[Swami Niranjanananda Saraswati]]: Arjun's guru; Paramahamsa of the Bihar School.
 - [[Swami Satyananda Saraswati]]: founder of the Bihar School of Yoga.
 - [[Swami Sivananda Saraswati]]: guru of Swami Satyananda; of the Saraswati lineage.
