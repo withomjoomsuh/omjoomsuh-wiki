@@ -15,13 +15,21 @@ export const sharedPageComponents: SharedLayout = {
 }
 
 // components for pages that display a single page (e.g. a single note)
-// Explorer: keep each story series in reading order (series page first, then Parts I to III).
+// Explorer: keep each story series in reading order ("Start here" first, then Parts I to III).
 // Everything else keeps Quartz's default: folders first, then alphabetical.
 const explorerOpts = {
+  // Inside each series folder, show the series page as "Start here" so the
+  // folder name and its first entry do not repeat. Only the sidebar label changes.
+  mapFn: (node: any) => {
+    if (!node.isFolder && (node.displayName === "The Second Sun" || node.displayName === "The Third Rome")) {
+      node.displayName = "Start here"
+    }
+  },
   sortFn: (a: any, b: any) => {
     const seriesOrder = [
-      "The Second Sun", "The Crease", "The Fold", "The Shape",
-      "The Third Rome", "Wind of Change", "Not One Inch", "A Fourth There Shall Not Be",
+      "The Second Sun", "The Third Rome",
+      "Start here", "The Crease", "The Fold", "The Shape",
+      "Wind of Change", "Not One Inch", "A Fourth There Shall Not Be",
     ]
     const ia = seriesOrder.indexOf(a.displayName)
     const ib = seriesOrder.indexOf(b.displayName)
