@@ -15,6 +15,24 @@ export const sharedPageComponents: SharedLayout = {
 }
 
 // components for pages that display a single page (e.g. a single note)
+// Explorer: keep each story series in reading order (series page first, then Parts I to III).
+// Everything else keeps Quartz's default: folders first, then alphabetical.
+const explorerOpts = {
+  sortFn: (a: any, b: any) => {
+    const seriesOrder = [
+      "The Second Sun", "The Crease", "The Fold", "The Shape",
+      "The Third Rome", "Wind of Change", "Not One Inch", "A Fourth There Shall Not Be",
+    ]
+    const ia = seriesOrder.indexOf(a.displayName)
+    const ib = seriesOrder.indexOf(b.displayName)
+    if (ia !== -1 && ib !== -1 && ia !== ib) return ia - ib
+    if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+      return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+    }
+    return !a.isFolder && b.isFolder ? 1 : -1
+  },
+}
+
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
@@ -38,7 +56,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer(explorerOpts),
   ],
   right: [
     Component.Graph(),
@@ -62,7 +80,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer(explorerOpts),
   ],
   right: [],
 }

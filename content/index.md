@@ -61,14 +61,14 @@ Below is every page, in four groups. Essays are the long pieces. Stories are fic
 
 ### Stories
 
-- [[The Second Sun]]: three stories of Japan, told by one boy across three lives.
-- [[The Crease]]: Part I. Osaka, Hiroshima, and the night instant noodles were invented.
-- [[The Fold]]: Part II. A banker's life, from the bubble years to the last page.
-- [[The Shape]]: Part III. Japan in 2050, and the night the machines stopped.
-- [[The Third Rome]]: three stories of one Russian family in Kaliningrad, told by the neighbour downstairs.
-- [[Wind of Change]]: Part I. 1991 to 1999. Sugar, rye and a promise about an inch.
-- [[Not One Inch]]: Part II. 2003 to 2016. A marriage near power and a confession at Easter.
-- [[A Fourth There Shall Not Be]]: Part III. An imagined 2027, and a paper on a windowsill.
+- **[[The Second Sun]]**: three stories of Japan, told by one boy across three lives.
+    - [[The Crease]]: Part I. Osaka, Hiroshima, and the night instant noodles were invented.
+    - [[The Fold]]: Part II. A banker's life, from the bubble years to the last page.
+    - [[The Shape]]: Part III. Japan in 2050, and the night the machines stopped.
+- **[[The Third Rome]]**: three stories of one Russian family in Kaliningrad, told by the neighbour downstairs.
+    - [[Wind of Change]]: Part I. 1991 to 1999. Sugar, rye and a promise about an inch.
+    - [[Not One Inch]]: Part II. 2003 to 2016. A marriage near power and a confession at Easter.
+    - [[A Fourth There Shall Not Be]]: Part III. An imagined 2027, and a paper on a windowsill.
 
 ---
 

@@ -4,3 +4,69 @@
 
 [build.environment]
   NODE_VERSION = "20"
+
+# Old story URLs, before the series moved into their own folders (2026-11-18)
+[[redirects]]
+  from = "/25-%E2%80%94-Stories/The-Second-Sun"
+  to = "/25-%E2%80%94-Stories/The-Second-Sun/The-Second-Sun"
+  status = 301
+[[redirects]]
+  from = "/25-—-Stories/The-Second-Sun"
+  to = "/25-—-Stories/The-Second-Sun/The-Second-Sun"
+  status = 301
+[[redirects]]
+  from = "/25-%E2%80%94-Stories/The-Crease"
+  to = "/25-%E2%80%94-Stories/The-Second-Sun/The-Crease"
+  status = 301
+[[redirects]]
+  from = "/25-—-Stories/The-Crease"
+  to = "/25-—-Stories/The-Second-Sun/The-Crease"
+  status = 301
+[[redirects]]
+  from = "/25-%E2%80%94-Stories/The-Fold"
+  to = "/25-%E2%80%94-Stories/The-Second-Sun/The-Fold"
+  status = 301
+[[redirects]]
+  from = "/25-—-Stories/The-Fold"
+  to = "/25-—-Stories/The-Second-Sun/The-Fold"
+  status = 301
+[[redirects]]
+  from = "/25-%E2%80%94-Stories/The-Shape"
+  to = "/25-%E2%80%94-Stories/The-Second-Sun/The-Shape"
+  status = 301
+[[redirects]]
+  from = "/25-—-Stories/The-Shape"
+  to = "/25-—-Stories/The-Second-Sun/The-Shape"
+  status = 301
+[[redirects]]
+  from = "/25-%E2%80%94-Stories/The-Third-Rome"
+  to = "/25-%E2%80%94-Stories/The-Third-Rome/The-Third-Rome"
+  status = 301
+[[redirects]]
+  from = "/25-—-Stories/The-Third-Rome"
+  to = "/25-—-Stories/The-Third-Rome/The-Third-Rome"
+  status = 301
+[[redirects]]
+  from = "/25-%E2%80%94-Stories/Wind-of-Change"
+  to = "/25-%E2%80%94-Stories/The-Third-Rome/Wind-of-Change"
+  status = 301
+[[redirects]]
+  from = "/25-—-Stories/Wind-of-Change"
+  to = "/25-—-Stories/The-Third-Rome/Wind-of-Change"
+  status = 301
+[[redirects]]
+  from = "/25-%E2%80%94-Stories/Not-One-Inch"
+  to = "/25-%E2%80%94-Stories/The-Third-Rome/Not-One-Inch"
+  status = 301
+[[redirects]]
+  from = "/25-—-Stories/Not-One-Inch"
+  to = "/25-—-Stories/The-Third-Rome/Not-One-Inch"
+  status = 301
+[[redirects]]
+  from = "/25-%E2%80%94-Stories/A-Fourth-There-Shall-Not-Be"
+  to = "/25-%E2%80%94-Stories/The-Third-Rome/A-Fourth-There-Shall-Not-Be"
+  status = 301
+[[redirects]]
+  from = "/25-—-Stories/A-Fourth-There-Shall-Not-Be"
+  to = "/25-—-Stories/The-Third-Rome/A-Fourth-There-Shall-Not-Be"
+  status = 301
