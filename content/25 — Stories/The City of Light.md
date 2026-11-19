@@ -139,7 +139,7 @@ He was standing in a kitchen. It was early in the morning and already hot, and t
 
 She turned round. "You forgot your lunch," she said. "You always forget it."
 
-She wiped her hands on her apron and looked at him properly. She did not seem surprised that he was thirty-five, or that he was standing in her kitchen in a jacket from a shop in Tokyo with an empty white box under his arm. Mothers are not surprised by things like that.
+She wiped her hands on her apron and looked at him properly. She did not seem surprised that he was thirty-five, or that he was standing in her kitchen in a jacket from a shop in Tokyo with an empty white box under his arm. She looked at him the way she used to when he came home late from the river ground with mud on his knees.
 
 "You looked for me," she said. "Six days. I know. You went past this lane twice and did not know it, because there was nothing left to know it by. You called for me at the river. You called for me at the Red Cross. On the fourth day your father found you, and you were glad, and ashamed of being glad. On the seventh day he stopped, and you let him stop, and you have been sorry about it ever since." She shook her head. "You were right to stop. There was nothing more to find. I was not there any more."
 
@@ -171,7 +171,7 @@ In the wall the little bell rang, and the man at the jalebi pan drew a spiral of
 
 She laughed, the way you laugh at a child who has been worrying about something very small. "Kiyo," she said. "It means clear, like water. Tell your priest. Kiyo, from Osaka, who lived in Hiroshima, and liked pickled plums, and worried about her son's cap."
 
-Then he cried. He walked up the road through the crowd with his face wet and his mouth open, crying the way a small boy cries, with no sound at first and then with a great deal of it. Nobody looked at him twice. On that road, on that night, half the people coming up from the river were crying, and the other half were holding somebody who was. An old man in a white dhoti put a hand on his shoulder as he passed, and took it away again.
+Then he cried. He walked up the road through the crowd with his face wet and his mouth open, crying the way a small boy cries, with no sound at first and then with a great deal of it. Nobody looked at him twice. On that road, on that night, a great many of the people coming up from the river were crying, and others had an arm round somebody who was. An old man in a white dhoti put a hand on his shoulder as he passed, and took it away again.
 
 "There," said his mother. "That's done." She picked up the blue cloth from the step, wrapped the lunch box in it, and tied the knot on top, as she had done every morning. "Now go back down to the river. You walked away from it. Your father is down there. So am I."
 

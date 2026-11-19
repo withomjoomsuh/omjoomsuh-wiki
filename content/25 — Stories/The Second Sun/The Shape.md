@@ -91,7 +91,7 @@ My father watched with a towel over his knees. "For forty years we lent them our
 
 I had never heard him talk about the bank like that. Above his head the balloon was so full of writing it looked grey.
 
-After that, everything moved quickly. The yen climbed. On the American channels a senator held up the key of a Japanese car and talked about loyalty. On the Chinese channels a man with a pointer stood in front of a map of the sea and showed where the Japanese ships were. In Seoul, which was now the capital of one Korea, the newspapers called it a declaration of independence and did not say whose. Japan had been building ships and planes quietly for twenty years. Now it was saying out loud what it wanted, and its neighbours had been afraid of exactly that for a hundred years.
+After that, everything moved quickly. The yen climbed. On the American channels a senator held up the key of a Japanese car and talked about loyalty. On the Chinese channels a man with a pointer stood in front of a map of the sea and showed where the Japanese ships were. In Seoul, which was now the capital of one Korea, the newspapers called it a declaration of independence. Japan had been building ships and planes quietly for twenty years. Now it was saying out loud what it wanted, and its neighbours had been afraid of exactly that for a hundred years.
 
 There was smaller news too, and most people missed it. For the first time in my life, the government said more babies had been born this year than the year before. A few thousand more, no more than that. The newsreader read it twice, as if she did not believe it. Mei's clinic had a waiting list. The yellow kindergarten in the car park was putting up a second building.
 
@@ -111,7 +111,7 @@ The care robot had been lifting my father back into bed after a trip to the toil
 
 I woke because my father was calling my name, quite calmly, the way you call someone to come and look at something.
 
-I got my arms around him and pulled. The robot's arms did not let go and did not push back. They were simply there, like furniture. It took me ten minutes to work him free and lower him onto the bed, and when it was done we were both breathing hard, and my father was laughing in a way that was not really laughing.
+I got my arms around him and pulled. The robot's arms did not let go and did not push back. They just stayed where they were, like furniture. It took me ten minutes to work him free and lower him onto the bed, and when it was done we were both breathing hard, and my father was laughing in a way that was not really laughing.
 
 Outside, the city was strange. The street lights were on. The trams were running, because they were Japanese, and so was their software, and they went past the window on time, empty and lit up. In dark kitchens all over Hiroshima the rice cookers kept the rice warm, as they always had. But the delivery robots had stopped wherever they stood, on pavements and at crossings, and the screens at the station were blank, and in a hundred thousand homes across the country something that had been talking had stopped in the middle of a sentence.
 

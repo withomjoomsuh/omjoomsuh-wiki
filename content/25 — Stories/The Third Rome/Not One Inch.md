@@ -67,7 +67,7 @@ Konstantin took it hard. He drove the Audi to the Lithuanian border at Sovetsk o
 
 She married in September 2006, two weeks after the new cathedral on Victory Square was consecrated, and she was one of the first brides in it.
 
-The cathedral deserves a sentence. It stands on the square where Lenin used to, white, with gold domes, and inside it is enormous and smells of new paint and old incense, a combination I have never smelt anywhere else, as if the building were trying to have been there for five hundred years and had started last Tuesday.
+The cathedral deserves a sentence. It stands on the square where Lenin used to, white, with gold domes, and inside it is enormous and smells of new paint and old incense, a combination I have never smelt anywhere else.
 
 The husband was Gennady Arkadyevich Belov. He was fifty-two. Katya was twenty-six. He had made his money in the nineties, in the port and in fertiliser, which comes through the port, and he had kept it in the two-thousands, which is the more difficult thing, by being correct with the right people. He was a pale, quiet, very polite man, with large ears that stood out from his head, and I could not look at those ears without thinking of Karenin, and I am ashamed to say that I said so to my wife at the wedding, and she pinched me.
 
@@ -103,7 +103,7 @@ In February 2007 the leader gave his speech at the conference in Munich, the one
 
 "Then why do they need a nanny with tanks?"
 
-"Fish," said Konstantin, and put it on the table, and that was the end of it, because his fish was very good. I mention this only so that the reader sees how it was in that family. Every argument ended in food. It was the wisdom of people who know that the argument will still be there tomorrow and the fish will not.
+"Fish," said Konstantin, and put it on the table, and that was the end of it, because his fish was very good. I mention this only so that the reader sees how it was in that family. Every argument in that family ended in food. They knew the argument would still be there in the morning, and the fish would be cold.
 
 ## VI
 
@@ -135,11 +135,11 @@ I thought of the old monk Zosima in *The Brothers Karamazov*, who says it to the
 
 In 2010 the vodka became legal.
 
-I should explain. In our country a person cannot simply make vodka and sell it, however good it is. There is no licence for a small maker. You need a factory, and a great deal of money in the bank, and a great many papers, and the papers take years, and many people who start the papers die of old age, or of the papers. Lyudmila Petrovna had been selling her rye for eighteen years to people who came to the door, and to Taras, and to half the officers of the fleet, and to a deputy of the regional parliament who sent his driver, and everyone had looked the other way, because everyone was drinking it. In the spring of 2010 an inspector came. He was young and he did not drink. He wrote a great many things in a folder.
+I should explain. In our country a person cannot simply make vodka and sell it, however good it is. There is no licence for a small maker. You need a factory, and a great deal of money in the bank, and a great many papers, and the papers take years, and many people who start the papers are old by the time they finish. Lyudmila Petrovna had been selling her rye for eighteen years to people who came to the door, and to Taras, and to half the officers of the fleet, and to a deputy of the regional parliament who sent his driver, and everyone had looked the other way, because everyone was drinking it. In the spring of 2010 an inspector came. He was young and he did not drink. He wrote a great many things in a folder.
 
 Lyudmila Petrovna rang Katya that evening. I know because I was in the kitchen, eating her pickled mushrooms, and she spoke on the telephone with her back to me for perhaps two minutes and said almost nothing. "Yes. Yes. A young one. No, I didn't. Yes. Thank you, daughter."
 
-A month later she had a contract with a licensed plant on the Chernyakhovsk road, where her own rye would be made under her own eye by her own two men, in her grandmother's way, and bottled with a plain white label that said only ZORINA, and under it, smaller, RYE. The inspector's folder went wherever folders go. Other people in the region, I learned, had waited four years for such a contract. Lyudmila Petrovna waited a month.
+A month later she had a contract with a licensed plant on the Chernyakhovsk road, where her own rye would be made under her own eye by her own two men, in her grandmother's way, and bottled with a plain white label that said only ZORINA, and under it, smaller, RYE. Nobody heard of the inspector's folder again. Other people in the region, I learned, had waited four years for such a contract. Lyudmila Petrovna waited a month.
 
 I write this down because a chronicler must write down what he does not like. I asked her once whether she had asked Katya what she had done. She was rolling dough. She did not look up.
 
@@ -219,7 +219,7 @@ In June 2016 I went to Svetlogorsk for a week for my chest, which the sea air is
 
 She did not ask me to keep quiet. She knew she had no need to.
 
-I have taught *Anna Karenina* eleven times. I always told the children that it was a book about a woman who could not live a lie and so chose death, and a man, Levin, who could not live without meaning and so chose God, and that Tolstoy put them in one book so that we would see they were the same problem. That morning in Svetlogorsk, out of breath on a bench, I thought of Anna at the last station, deciding alone what she owed and to whom, because nobody in her whole world would help her decide it. And I thought: Katya will not throw herself under a train. She is too much a lawyer. She will read the timetable.
+I have taught *Anna Karenina* eleven times. I always told the children that it was a book about a woman who could not live a lie and so chose death, and a man, Levin, who could not live without meaning and so chose God, and that Tolstoy put them in one book so that we would see they were the same problem. That morning in Svetlogorsk, out of breath on a bench, I thought of Anna at the last station, deciding alone what she owed and to whom, because nobody in her whole world would help her decide it. And I thought: Katya will not throw herself under a train. She is too much a lawyer.
 
 On the fourth of July, three weeks later, the Poles closed the border arrangement. They said it was because of the NATO summit in Warsaw. Our side said it was because of NATO, full stop. Either way, from that morning Agnieszka needed a visa to come to the market, and Nina needed one to go to Gdańsk, and the border went back to being a border.
 

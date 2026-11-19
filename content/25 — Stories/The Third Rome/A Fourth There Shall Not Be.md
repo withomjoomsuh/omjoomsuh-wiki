@@ -33,7 +33,7 @@ It was Katya. I learned later what she had said, because Nina told me, on the pa
 
 Nina had been living half in Gdańsk and half here for six years by then, on visas, with a toothbrush in each city. Agnieszka had just taken a post at a museum in Berlin. "Why today?" Nina had asked. And Katya had said, "Because tomorrow it will be a decision. Today it is still a trip." A little before five the leader came on the television and spoke for half an hour, and after that nobody in the house asked Katya how she had known.
 
-Lyudmila Petrovna packed for her daughter as if for the camps, which is what our mothers' mothers did and what our bodies remember. Two bottles of the rye wrapped in jumpers. A jar of salted mushrooms. A piece of salo in newspaper. The good knife. Konstantin brought the van round to drive her to the border at Mamonovo, because he said he did not trust her car, which was a lie. He simply could not bear to let her go alone.
+Lyudmila Petrovna packed for her daughter as if for the camps, which is what our mothers' mothers did and what our bodies remember. Two bottles of the rye wrapped in jumpers. A jar of salted mushrooms. A piece of salo in newspaper. The good knife. Konstantin brought the van round to drive her to the border at Mamonovo, because he said he did not trust her car, which was a lie. He could not bear to let her go alone.
 
 And then Lyudmila did a thing I did not expect. She went to the stove, and stood on the stool, and with the blade of a butter knife she worked one of the blue windmill tiles off the wall above it. One of the whole ones. It came away with a little sigh of old plaster. She wiped it with her apron, wrapped it in a clean tea towel, and put it in Nina's hands.
 

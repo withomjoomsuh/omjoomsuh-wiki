@@ -33,7 +33,7 @@ I said nothing. I thought about my team, and the practice ground behind the shri
 
 After dinner Mei sat on the floor and folded a paper crane out of a supermarket leaflet. The neck came out bent. I told her it was wrong. "No," she said. "It's asking something." She put it on my pillow.
 
-I went to bed early. On the shelf above my bunk stood the cup I had designed on a school trip to the Cupnoodles Museum in Yokohama, with a baseball drawn on one side and a grey heron on the other, the tall river bird that stands on one leg in the stream near our park. Above me Sōta was already snoring with his earphones in. Across the room, under his blanket, Riku was crunching dry Chicken Ramen straight from the packet. Some habits a family does not discuss.
+I went to bed early. On the shelf above my bunk stood the cup I had designed on a school trip to the Cupnoodles Museum in Yokohama, with a baseball drawn on one side and a grey heron on the other, the tall river bird that stands on one leg in the stream near our park. Above me Sōta was already snoring with his earphones in. Across the room, under his blanket, Riku was crunching dry Chicken Ramen straight from the packet. Nobody in our family ever mentioned it.
 
 I lay in the dark and the questions came in one by one, like mice. Whether there would be a team in Hiroshima. Whether I would be any good there. Whether I was even allowed to not want to go.
 
@@ -45,13 +45,13 @@ It was 1934, and I was living in Osaka, in a wooden house that smelled of my mot
 
 Every evening, beside the river at the edge of the city, twelve of us boys played baseball on a patch of bare earth until the sun went down. The ball was cotton thread wound round a pebble. Home plate was a flattened biscuit tin with a stone on it. When I stood at the plate, nothing happened in my head at all. The ball came, the bat swung, and the whole world shrank to the two of us, like a fist closing. I never asked a single question on that ground. I have not been that quiet inside since.
 
-A short train ride away stood a great stadium with an iron roof the grown-ups called the big iron umbrella. It was called Kōshien. Every August the school teams of the whole country played there, and we river-ground boys sat on the bank outside and listened to the roar come over the wall like thunder. I had decided that one day I would pitch at Kōshien. I told no one. You do not tell people the things you are sure of. You only tell them the things you need help believing.
+A short train ride away stood a great stadium with an iron roof the grown-ups called the big iron umbrella. It was called Kōshien. Every August the school teams of the whole country played there, and we river-ground boys sat on the bank outside and listened to the roar come over the wall like thunder. I had decided that one day I would pitch at Kōshien. I told no one. It mattered too much to say out loud.
 
 That November a team of famous American players toured Japan, and the newspaper said a seventeen-year-old schoolboy, Eiji Sawamura, had struck out four of them in a row and then lost the game by one run. I cut the article out with my mother's sewing scissors and pinned it above my futon, and I read it every night, the way other boys said prayers.
 
 On the second Tuesday of every month a man came to collect the radio fee. He was thin, in a grey suit gone shiny at the elbows. "It's for the air," he always said. "The air goes past whether you listen or not." He bowed to my mother, and then, for no reason anyone knew, to me.
 
-In December my father came home and sat down at the low table without taking off his coat. He told the teapot that his company was sending him to Hiroshima in February. I waited for the rest of the sentence. There was no rest of the sentence.
+In December my father came home and sat down at the low table without taking off his coat. He told the teapot that his company was sending him to Hiroshima in February. I waited for him to say more. He didn't.
 
 The radio man came once more, in January. My mother told him we were moving. "The fee will follow you," he said. "Hiroshima has the same air." He looked at the ball in my hand. "Wherever they send you, the air goes past."
 
@@ -61,7 +61,7 @@ I did not understand. I kept the words anyway, in the drawer where I kept the th
 
 Hiroshima sat on seven rivers like a hand laid flat on a table, my father said on the train, and it was true. The rivers ran through the city like the gaps between fingers, and twice a day the sea came up them and went down again and left the mud shining.
 
-There was no ground to play on. The army had the big field below the castle for marching, and the rest was rice fields and houses and Ujina, the port at the bottom of the city, where ships went out full of young soldiers with their names sewn inside their caps. I threw my ball against the wall of a soy-sauce godown until the owner came out in his apron and asked me, very politely, whether I meant to knock it down. So I stopped. And when the ball stopped, the questions started.
+There was no ground to play on. The army had the big field below the castle for marching, and the rest was rice fields and houses and Ujina, the port at the bottom of the city, where ships went out full of young soldiers with their names sewn inside their caps. I threw my ball against the wall of a soy-sauce godown until the owner came out in his apron and asked me, very politely, whether I meant to knock it down. So I stopped. After that my hands had nothing to do, and the questions started.
 
 The first one came at school. Every morning eight hundred of us boys bowed together to a small stone shrine by the gate, where a photograph of the Emperor was kept in a shiny black box. One morning, halfway down, I wondered whether the photograph could see us through the stone. And if it could not, who we were bowing to. And whether I was the only boy who had ever wondered this, in which case something was wrong with me. I stood up late. On my report card someone wrote in red ink, lacks spirit. I kept that card for years. I was strangely proud of it.
 
@@ -71,11 +71,11 @@ The heron came in my third autumn there.
 
 It stood in the river under the Aioi Bridge, the T-shaped bridge in the middle of the city, grey and still, on one leg, exactly like the bird on a cup I had never seen. One afternoon, when nobody else was on the bridge and the streetcar had just clanged away towards the station, it turned its long neck and looked at me and said, in a dry voice like someone speaking through a paper screen, "This one, or that one."
 
-I was not surprised. That surprised me a great deal.
+I was not frightened. Afterwards that seemed the strangest part.
 
-The heron never answered anything. It only asked. Both. Neither. Does it matter. Sometimes it asked whether I should be here at all, which was the worst one. It never followed me home, but I could feel it standing in the river behind me like a word left out of a sentence.
+The heron never answered anything. It only asked. Both. Neither. Does it matter. Sometimes it asked whether I should be here at all, which was the worst one. It never followed me home, but I could feel it standing in the river behind me, the way you can feel somebody standing behind you in a queue.
 
-That December the army took Nanking, the capital of China, and all of Hiroshima came out at night with paper lanterns on poles and marched through the streets singing. Thousands of small orange lights swayed above the rivers. I marched with my class. Around me every face, lit from below, knew exactly what it felt. I held my lantern and felt the heron standing in the black water under the bridge, and I decided as I walked that this was my illness. Everyone else had certainty. I had a heron.
+That December the army took Nanking, the capital of China, and all of Hiroshima came out at night with paper lanterns on poles and marched through the streets singing. Thousands of small orange lights swayed above the rivers. I marched with my class. Around me every face, lit from below, knew exactly what it felt. I held my lantern and felt the heron standing in the black water under the bridge, and I decided as I walked that this was my illness. Everyone around me seemed so sure. All I had was a heron, asking.
 
 ## The paper shop and the well
 
@@ -89,7 +89,7 @@ In the back room there was a stone well with a wooden lid. Mrs. Kinoshita soaked
 
 "Some folds don't get finished here," she said. "The well takes them somewhere they can be finished." She put the lid back on. "Don't open it unless you have to."
 
-I went every week after that. I learned the square base, the bird base, the frog base, the shapes every paper animal starts from. I learned that you begin every animal without knowing what it will become, that the not knowing lives in the creases, and that a sheet with no creases in it can never become anything at all. I learned to hold the paper lightly and my first idea even more lightly. On the days I folded, the heron's questions stopped sounding like accusations. They sounded like questions.
+I went every week after that. I learned the square base, the bird base, the frog base, the shapes every paper animal starts from. I learned that you start every animal without knowing what it will turn into, and that a sheet with no creases in it can't turn into anything. I learned to hold the paper lightly, and my first idea too. On the days I folded, the heron's questions frightened me less.
 
 Once I asked her whether she ever worried she was doing it wrong. "Every time," she said. Then she told me to pass the glue.
 
@@ -105,13 +105,13 @@ At a quarter past eight I was at my lathe by the east windows of the factory. I 
 
 I walked into the city that afternoon. My mother had been at home.
 
-There is a part of this I never folded, and I am going to leave it the way I left it. Flat. White. Some things a person cannot say, or write, and I never tried. A black rain fell on my shirt and left marks that never washed out. I searched for her for six days. It seemed never-ending, and every moment of it felt as long as the whole Manhattan Project, from start to finish. My father found me on the fourth, and after that we searched together, and on the seventh we stopped. Neither of us said so out loud. Both of us kept that sadness stacked in our drawers for years.
+There is a part of this I never folded, and I am going to leave it the way I left it. Flat. White. Some things a person cannot say, or write, and I never tried. A black rain fell on my shirt and left marks that never washed out. I searched for her for six days. Each day was longer than the one before. My father found me on the fourth, and after that we searched together, and on the seventh we stopped. Neither of us said so out loud. Both of us kept that sadness stacked in our drawers for years.
 
 On the seventh day I walked through what had been the lane off the main street. The clock mender was gone, and the sock shop, and the paper shop. Only one thing still stood, the round stone rim of Mrs. Kinoshita's well, black with soot, its wooden lid burned away. I looked down into it. Far below, the water was still there, dark and still, holding a small round piece of the sky.
 
 In the water there were two suns.
 
-I looked up. There were two in the sky as well. The usual one, high and white. And a second, smaller, a little to the west, the colour of the first square of paper Mrs. Kinoshita ever gave me. It cast no shadow, and it did not move when the first one moved. It was simply there, and it stayed.
+I looked up. There were two in the sky as well. The usual one, high and white. And a second, smaller, a little to the west, the colour of the first square of paper Mrs. Kinoshita ever gave me. It cast no shadow, and it did not move when the first one moved. It was just there, and it stayed.
 
 I asked a cart driver if he could see it. He looked at the sky, then at the stains on my shirt, and said nothing, kindly. At the Red Cross hospital a doctor wrote one word on a card, shock, and handed it to me like medicine. After that I stopped telling people.
 
@@ -139,7 +139,7 @@ I ran to the shed in my socks.
 
 I steamed the noodles and soaked them in chicken soup. Then I did what my hands had known for twenty years. I laid the noodles in a square and folded them the way you fold the first shape of a crane, corner to corner, edge to edge, into a nest that held itself together. I dropped the nest into Fumiko's oil. It roared and turned gold. When it had cooled and I broke it open, it was full of holes, a little brick that weighed almost nothing. I put it in a bowl, poured boiling water over it, covered it with a plate, and counted two minutes out loud. The water went back into the holes it had come out of. The noodles opened in the bowl like a folded thing opening.
 
-Fumiko tasted it with her eyes shut for a long time. Then she opened them and said nothing at all, and I understood every word.
+Fumiko tasted it with her eyes shut for a long time. Then she opened them and held out the bowl for more.
 
 The first packets went out in August. People laughed at the price. Then they bought them. Then they bought more.
 

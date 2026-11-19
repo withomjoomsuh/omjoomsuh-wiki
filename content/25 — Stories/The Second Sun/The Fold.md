@@ -49,13 +49,13 @@ At bedtime I asked my father one thing, whether he liked working at the bank.
 
 "It's a good bank," he said. Then he went to check that the gas was off, though nothing in the flat was connected yet.
 
-I lay on a futon in a room that did not smell of anybody yet and listened to a train crossing the bridge downstream. The heron was still there. I got up once to check. I thought about the empty balloon in the old manga, and the well, and my father checking a gas tap that was not connected to anything. The last time I looked at my phone it said 11:12. **Then I was asleep, and dreaming.**
+I lay on a futon in a room that did not smell of anybody yet and listened to a train crossing the bridge downstream. The heron was still there. I got up once to check. I thought about the empty balloon in the old manga, and the well, and my father checking a gas tap that was not connected to anything. The last time I looked at my phone it said 11:12. Then I was asleep, and dreaming.
 
 ## Easy money, Osaka, 1985 to 1989
 
 I was ten, and I lived in Osaka, and my name was still Minato. Nobody found any of this strange, so I did not either.
 
-My father was an old man with small shiny burn marks on his fingers from hot oil. Long ago he had made noodles in a shed behind a rented house, and now he had a factory out by the Yodo River that made them by the million. My mother, Fumiko, kept the accounts. Anything that was not the accounts she called timepass, manga most of all.
+My father was an old man with small shiny burn marks on his fingers from hot oil. Long ago he had made noodles in a shed behind a rented house, and now he had a factory out by the Yodo River that made them by the million. My mother, Fumiko, kept the accounts. Anything that was not the accounts she called a waste of time, manga most of all.
 
 I drew manga anyway, in school notebooks, six panels to a page, with a wooden ruler I had taken from my father's desk and never put back. Most pages had a grey heron in one corner. I did not know why. My pencil went there while it waited for the next idea. Once my father found a notebook left on the stairs, turned every page slowly, and handed it back without a word. He never asked for the ruler.
 
@@ -69,7 +69,7 @@ I said that sounded bad for us.
 
 As he said it, I saw something strange. Above his head was a small white speech balloon, like the ones that hold the words in a manga. Inside it were different words. *We had no choice.*
 
-His mouth had said one thing. The balloon said what he really meant. From that night I saw a balloon over everyone. The mouth said what was polite. The balloon said what was true. Only I could see them, and I told nobody. I was ten, but I was not stupid.
+From that night I saw a balloon over everyone. The mouth said what was polite. The balloon said what was true. Only I could see them, and I told nobody. I was ten, but I was not stupid.
 
 When the news finished, the screen went dark, and in the black glass I saw myself holding my chopsticks. There was a balloon over my own head too. It was empty. Whatever I really thought, I could not find the words for it.
 
@@ -79,7 +79,7 @@ By the time I was fourteen, Osaka was shining. Late at night men in double-breas
 
 On the last trading day of the decade the Nikkei, the number my father checked every evening before his bath, closed higher than it ever had. Everyone on the evening news was smiling, and the balloon over every smiling head said the same word. *Higher.* My own balloon was still empty.
 
-That evening my father took me up to the factory roof, which he had never done before. We watched the sun go down over the river, and then go down again. Next to the usual sun was a second, smaller one.
+That evening my father took me up to the factory roof, which he had never done before. We watched the sun go down over the river. Beside it, going down at the same pace, was a second, smaller sun.
 
 "You see it," my father said. It was not a question.
 
@@ -119,9 +119,9 @@ Inside the room, Kenji wrote. On an internet message board called 2channel, peop
 
 At the bank I learned the new rules. The Bank of Japan, which decides how much it costs to borrow money, brought that cost down to zero. You would expect everyone to rush out and borrow. They did not. They were frightened, so they saved, and prices in the shops drifted down a little every year. My mother put off buying a new rice cooker for three years, because it would be cheaper next spring. The whole country was waiting for next spring.
 
-Meanwhile Japan's money was flowing out of the country, and my desk was where it flowed. For more than a year Japan's Ministry of Finance bought American dollars almost every working day, to stop the yen getting stronger and hurting the exporters. The sums grew so large that people at my desk stopped saying them out loud. All those dollars had to be kept somewhere, and they went into American government bonds. When my mother asked what I bought all day, I said American promises, to pay us back later with a little interest. She said she hoped they were good for it. So Japan, which had stopped spending, was lending its savings to America, which never stopped. My desk bought the bonds by the billion, and I ruled the line under each day's total with my father's ruler. In the mornings, before the market opened, I would catch my reflection in the dark screen. The balloon over my head was still empty.
+Meanwhile Japan's money was flowing out of the country, and my desk was where it flowed. For more than a year Japan's Ministry of Finance bought American dollars almost every working day, to stop the yen getting stronger and hurting the exporters. The sums grew so large that people at my desk stopped saying them out loud. All those dollars had to be kept somewhere, and they went into American government bonds. When my mother asked what I bought all day, I said American promises, to pay us back later with a little interest. She said she hoped they were good for it. So Japan saved, and lent its savings to America, and America spent them. My desk bought the bonds by the billion, and I ruled the line under each day's total with my father's ruler. In the mornings, before the market opened, I would catch my reflection in the dark screen. The balloon over my head was still empty.
 
-The year my bank merged into a bigger group called Mitsubishi UFJ, and I had to order new name cards, my father died in his sleep, very old, with the factory still running. When I cleared his desk I found the pens, the seal and the reading glasses all where they had always been, and a long pale groove in the wood where the ruler used to lie. In twenty years he had never bought another. I sat at that desk a long time. I think I aged more there than I had since the six days, further back than my own life, when I searched for my mother.
+The year my bank merged into a bigger group called Mitsubishi UFJ, and I had to order new name cards, my father died in his sleep, very old, with the factory still running. When I cleared his desk I found the pens, the seal and the reading glasses all where they had always been, and a long pale groove in the wood where the ruler used to lie. In twenty years he had never bought another. I sat at that desk a long time. I felt as old there as I had felt once before, further back than my own life, in the six days I spent searching for my mother.
 
 Money was leaving Japan another way too. A trader from London explained it to me once over yakitori under the tracks at Yūrakuchō, drawing on a paper napkin with the wrong end of his chopstick. Borrow yen for almost nothing, change it into dollars, lend the dollars out at five per cent, keep the difference. He called it the carry trade, and he laughed when he said Japan was the cheapest money in the world. I laughed too. I still have the napkin. In the end even Japanese housewives were doing it on home computers once the children had left for school, and foreign traders had one name for all of them, Mrs. Watanabe. My mother, who had kept the noodle factory's accounts for forty years, became one, and she was good at it. While she clicked, her balloon said, *At least somebody pays us.*
 
@@ -139,7 +139,7 @@ That night I walked up Fifth Avenue to the Plaza Hotel, where the five men had m
 
 At the end of the month someone calling himself Satoshi Nakamoto sent a short paper to a mailing list for people interested in codes. Nine pages. I printed it at the office and read it twice on the flight home, when the posting ended.
 
-The paper described money made of nothing but numbers, kept on thousands of computers at once, with no bank and no government in the middle. Nobody could print more of it when they felt like it. Its rules set a limit on how many coins could ever be made, and nobody could change it. I saw at once why that mattered. When a government prints more of its money, each note buys a little less, the way milk gets thin if you keep adding water. I had spent ten years watching the yen being watered on purpose. I had held the jug.
+The paper described money made of nothing but numbers, kept on thousands of computers at once, with no bank and no government in the middle. Nobody could print more of it when they felt like it. Its rules set a limit on how many coins could ever be made, and nobody could change it. I saw at once why that mattered. When a government prints more of its money, each note buys a little less, the way milk gets thin if you keep adding water. I had spent ten years watching it done to the yen on purpose, from my own desk.
 
 A few days into the new year, the first coins were made. Hidden inside them, like a note slipped into a paper crane before the last fold, was a newspaper headline from that morning in London. *Chancellor on brink of second bailout for banks.*
 
@@ -173,7 +173,7 @@ Haruto wanted to know why anyone would agree to that.
 
 "It's complicated," I said. My balloon said, *Because we always agree.* Haruto could not see it.
 
-One March morning Japan played America in the final of the World Baseball Classic, and Shohei Ohtani struck out Mike Trout, the best hitter America had, to win it. I watched with Haruto, who was fourteen and shouted at the screen. From somewhere further back than my own life, I remembered a schoolboy, long before the war, striking out four great Americans in a row and losing the game by one run. This time Japan won. There was no balloon over Haruto's head at all. He was simply happy, all the way through.
+One March morning Japan played America in the final of the World Baseball Classic, and Shohei Ohtani struck out Mike Trout, the best hitter America had, to win it. I watched with Haruto, who was fourteen and shouted at the screen. From somewhere further back than my own life, I remembered a schoolboy, long before the war, striking out four great Americans in a row and losing the game by one run. This time Japan won. There was no balloon over Haruto's head at all. He was just happy, all the way through.
 
 A year later the Bank of Japan began to raise the price of its money, a little at a time. On a hot Monday that August, everyone around the world who had borrowed cheap yen rushed to pay it back at once, selling whatever they owned to do it. The number on the evening news fell further in one day than it ever had.
 
