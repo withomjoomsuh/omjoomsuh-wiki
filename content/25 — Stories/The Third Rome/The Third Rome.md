@@ -25,6 +25,8 @@ A mother makes rye vodka and sells her first bottle to a Ukrainian. A father str
 
 Read them in order. Each part ends with an epilogue that names the patterns underneath the story and links each one to the pages where the tradition speaks to it. The last epilogue reads Katya through the [[Four Dharmas]] and the four aims of a human life, and ties the whole story back to [[Dharma]].
 
+The set closes with [[The City of Light]], a single story set in Kashi in 2050, where Katya meets Minato from [[The Second Sun]].
+
 ## The title
 
 Early in the sixteenth century the monk Philotheus of Pskov wrote to the grand prince of Moscow: two Romes have fallen, the third stands, and a fourth there shall not be. One reading is a boast, that Moscow is the last guardian of the faith. Another is a warning, that if the third falls there is nothing after it. The stories hold both.

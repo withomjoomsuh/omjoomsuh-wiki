@@ -69,6 +69,7 @@ Swami Sivananda placed dharma at the highest altar among the four, and this wiki
 
 - [[Not One Inch]]: a husband's desire with no edges, and a licence won by a favour.
 - [[A Fourth There Shall Not Be]]: one family that carries all four aims, read through them in the epilogue.
+- [[The City of Light]]: a weaver who pays the widows of her lane before she counts her profit.
 
 ## Notes
 

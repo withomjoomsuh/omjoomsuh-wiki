@@ -24,3 +24,5 @@ They are set far from India. What happens in them happens in every home. A mothe
 - [[The Shape]]. Part III. The boy, grown up and awake in 2050, cares for his father in a Japan that a machine can switch off for a night. About 16 minutes.
 
 Read them in order. Each part ends with an epilogue that names the patterns underneath the story, the grief, the guilt and the things left unsaid, and links each one to the pages where the tradition speaks to it.
+
+The set closes with [[The City of Light]], a single story set in Kashi in 2050, where Minato meets Katya from [[The Third Rome]].

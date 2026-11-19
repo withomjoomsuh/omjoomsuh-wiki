@@ -41,6 +41,10 @@ The text has always travelled with commentary. The earliest, attributed to Vyasa
 
 For a practitioner, the *Yoga Sutras* give the reason for every practice. Posture steadies the body so the breath can settle. The breath settles so the senses can turn inward. The senses turn inward so the mind can be watched, and its movements slowly stilled. A householder does not need to master all four chapters. The second sutra alone, and the eight limbs, are enough to organise a life of practice.
 
+## In the stories
+
+- [[The City of Light]]: the seer that rests in its own nature, on the road to Assi Ghat.
+
 ## Related concepts
 
 - [[Patanjali]], the author

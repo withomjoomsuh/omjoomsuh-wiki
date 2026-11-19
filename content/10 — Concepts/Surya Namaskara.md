@@ -326,6 +326,10 @@ For the wider treatment of the sun-and-body theme in this wiki, see the essay *[
 
 ---
 
+## In the stories
+
+- [[The City of Light]]: a Kenyan team wins the Surya Namaskar final at the Olympics.
+
 ## Related Concepts
 
 - [[Chakras]] — the seven psychic centres, six of which the round stimulates

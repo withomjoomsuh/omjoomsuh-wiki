@@ -51,6 +51,7 @@ For a householder, artha is daily. Rent, school fees, a parent's care, a busines
 
 - [[Not One Inch]]: a licence that takes others four years arrives in a month, after one phone call.
 - [[A Fourth There Shall Not Be]]: an oligarch who pays for favours and keeps the receipts, and a mother whose vodka has no passport.
+- [[The City of Light]]: a weaver who writes Shubh at the top of every page of her ledger.
 
 ## Notes
 

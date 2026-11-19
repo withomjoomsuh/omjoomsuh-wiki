@@ -69,6 +69,7 @@ Below is every page, in four groups. Essays are the long pieces. Stories are fic
     - [[Wind of Change]]: Part I. 1991 to 1999. Sugar, rye and a promise about an inch.
     - [[Not One Inch]]: Part II. 2003 to 2016. A marriage near power and a confession at Easter.
     - [[A Fourth There Shall Not Be]]: Part III. An imagined 2027, and a paper on a windowsill.
+- **[[The City of Light]]**: one story that closes the set. Kashi in 2050, and fifty metres on the road to Assi Ghat.
 
 ---
 
@@ -86,6 +87,7 @@ Below is every page, in four groups. Essays are the long pieces. Stories are fic
 - [[Dashanami Sannyasa Parampara]]: the ten monastic orders of Adi Shankaracharya's tradition.
 - [[Default Mode Network]]: the brain network of the wandering mind, and where it meets the vrittis.
 - [[Dharma]]: what holds a thing in its place and keeps it being what it is; the first of the four aims of a life.
+- [[Drashta]]: the seer, the awareness that watches the mind; drashta bhava is the practice of standing there.
 - [[Durga Saptashati]]: the seven hundred verses to the Goddess, and the three battles.
 - [[Four Dharmas]]: the fourfold framing of dharma used in OMJOOMSUH teaching.
 - [[Gayatri]]: the Vedic mantra to the solar deity Savitr, a core sadhana chant.

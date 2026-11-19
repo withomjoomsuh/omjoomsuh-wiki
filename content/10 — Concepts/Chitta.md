@@ -55,6 +55,7 @@ In Vedanta, chitta is one of the four functions of the *antaḥkaraṇa*, the in
 
 - [[The Crease]]: an old stone well that takes the folds that could not be finished.
 - [[The Shape]]: a well lid, warm in the morning, as if something underneath had been folded and put away.
+- [[The City of Light]]: two lives seen from one place behind the mind.
 
 ## Notes
 

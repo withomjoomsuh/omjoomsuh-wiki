@@ -49,6 +49,7 @@ For a householder, moksha rarely arrives as a single event. It shows up small fi
 
 - [[Not One Inch]]: a man who cannot answer "He is risen indeed" at the back of a cathedral, and is freed in that moment from lying to himself.
 - [[A Fourth There Shall Not Be]]: an Easter night with guns on the roof, and nobody in the kitchen unable to love.
+- [[The City of Light]]: Kashi, the city of release, where two people finish a grief they had carried all their lives.
 
 ## Notes
 

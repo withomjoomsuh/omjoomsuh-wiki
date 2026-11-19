@@ -47,6 +47,7 @@ Mouna is silence kept on purpose. The tradition counts it among the disciplines 
 
 - [[The Fold]]: a speech balloon that stays empty for a whole working life.
 - [[The Shape]]: a man paid to take the words back out of a machine's balloons.
+- [[The City of Light]]: inner silence, and the one who watches.
 
 ## Notes
 
