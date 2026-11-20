@@ -328,7 +328,7 @@ For the wider treatment of the sun-and-body theme in this wiki, see the essay *[
 
 ## In the stories
 
-- [[The City of Light]]: a Kenyan team wins the Surya Namaskar final at the Olympics.
+- [[The City of Light]]: an Uzbek Olympic champion does the twelve postures in a train corridor at dawn, somewhere between Tashkent and the Oxus.
 
 ## Related Concepts
 
