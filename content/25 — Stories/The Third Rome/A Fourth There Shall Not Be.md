@@ -163,13 +163,35 @@ I said I never had.
 
 At about five, when the window was going grey, I went down the stairs, and Katya came after me, and we stood on the landing between the two floors, by the window that looks out on the lime trees.
 
-She told me then about the drawer. I will set it down the way she said it.
+She told me then about the drawer. I will set it down the way she said it. She talked for a long time, and I did not interrupt her once.
 
-"Gennady found out," she said. "He finds everything out. It is his gift. He came to my room in the flat in Moscow in January 2024, at eleven at night, in his dressing gown, with his ears, Pavel Andreyevich, you remember his ears. And he stood in the door and said, quite gently, 'I am not a monster, Katya. I am a Russian husband. I can bear anything except being laughed at. Your general laughs at me at dinners. Everybody knows. And your sister's letter has cost me a favour from people who do not forget favours, and I will be paying for it for years, and I will pay. I will pay gladly. But you will stop.' And he went back to bed."
+"Gennady found out," she said. "He finds everything out. It is his gift. It was January, two weeks after New Year, a Tuesday. I was in my room in the flat in Moscow. We had separate rooms by then, Pavel Andreyevich, you may as well know that too. It was eleven at night and I was reading a file in bed, a bad one, about a pension fund. He knocked. He always knocks. He came in his dressing gown, the brown one with the cord, and stood in the door with the corridor light behind him, so that all I could see of him were his ears. You remember his ears.
+
+"He said, quite gently, 'I am not a monster, Katya. I am a Russian husband. I can bear anything except being laughed at. Your general laughs at me at dinners. Everybody knows.' Then he said, 'Your sister's letter has cost me a favour from people who do not forget favours. I will be paying for it for years, and I will pay. I will pay gladly. But you will stop.'
+
+"I said nothing. I am a lawyer. You do not answer before you have read the whole document. He waited a little, in case I would, and then he said good night and went back along the corridor, and I heard his door, and then I heard him clear his throat the way he does before he sleeps.
+
+"I did not sleep. I lay there and did the sums. That is what I do. If I did nothing, the drawer would open. Not tomorrow. One day, when Gennady was tired of paying. Nina was in Berlin, Mama was in Kaliningrad, and the photographs were in that drawer with the court's decision pinned to them. If I did what he asked, the drawer would stay locked for as long as Gennady lived. Gennady is careful about what he eats. Gennady will live a long time. I did the sums three times, and they came out the same each time.
+
+"At seven the driver came up. I said I would drive myself. He looked at me, because I never drive myself in Moscow, and gave me the keys. It was minus twenty-two. The car was in the courtyard with the windows white. I sat inside and started the engine and waited for the glass to clear, and it did not clear, and I did not want it to. I sat there with the heater roaring. I could not see out, and nobody could see in.
+
+"I drove to the office. Ten to eight. The barrier, and the guard who salutes the car and not the person in it. I parked in my place by the wall and I did not turn the engine off. I took out my phone. I had his number under a woman's name. Valentina, dentist. That is how we lived for eighteen years, Pavel Andreyevich. A dentist I rang twice a month and saw four times a year, in a hotel with no sign.
+
+"I looked at the name for a long time. A woman went past the car with a dachshund in a red quilted coat, and the dog stopped by my wheel, and the woman pulled it on, and I thought, I will ring when she reaches the corner. She reached the corner. I rang.
+
+"He answered on the second ring. He always did. He said, 'Katya.' Not hello. Just my name, the way he said it.
+
+"I had prepared a speech. I am good at speeches. I had written it in my head at four in the morning, every clause of it. I opened my mouth and none of it came. What came was four words. 'I have a sister.'
+
+"There was a silence on the line. Not long. One breath. I could hear a radio in his car, the news, and then he turned it off. And then he said, 'Yes.'
+
+"Just that. Yes. Not a question. Not 'What do you mean.' Not 'Wait.' He understood all of it in that one breath, the drawer and Gennady and Nina and the years, and he said yes so that I would not have to say anything else. And he put the phone down.
+
+"I sat there with the engine running. The windows had cleared by then. I could see the wall, and the snow along the top of it, and a crow walking on the snow. I wanted to ring him back and shout at him. Why so quickly. Why did you not argue. Why did you not make me say it. I hated him for being so quick. I hated him for it for a year, Pavel Andreyevich.
+
+"Then I turned the engine off and went in and read the file about the pension fund. At lunch I deleted Valentina. I have not spoken to him since, except once, at a funeral, about the weather."
 
 She looked out at the lime trees.
-
-"I rang Vadim from the car the next morning. Outside the office, with the engine running. I said, 'I have a sister.' That was all I said. Four words. And he understood at once. That was the worst of it. He understood at once, and he said, 'Yes,' and he put the phone down, and I have not spoken to him since, except once, at a funeral, about the weather."
 
 I said nothing.
 
